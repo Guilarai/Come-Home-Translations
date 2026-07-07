@@ -550,3 +550,23 @@ translate chinese strings:
     old "Yeah, I want it"
     new "嗯，我就想要"
 
+# TODO: Translation updated at 2026-06-02 09:40
+
+# game/Scenes/Kendra/KendraDates/kendragokartdate.rpy:17
+translate chinese kendragokartdate_dd786cf9:
+
+    # sg "Do you want to see if Adrian wants to come?"
+    sg "要不要问问艾德里安想不想一起来？"
+
+# game/Scenes/Kendra/KendraDates/kendragokartdate.rpy:20
+translate chinese kendragokartdate_cc4b5df7:
+
+    # sg "Awesome!"
+    sg "太棒了！"
+
+# game/Scenes/Kendra/KendraDates/kendragokartdate.rpy:23
+translate chinese kendragokartdate_6ce9597c:
+
+    # sg "Okay, that works too."
+    sg "行，这样也行。"
+

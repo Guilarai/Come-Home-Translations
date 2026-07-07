@@ -292,3 +292,77 @@ translate spanish strings:
     old "I changed my mind, let's go skydiving."
     new "He cambiado de opinión, vamos a hacer paracaidismo."
 
+# TODO: Translation updated at 2026-06-01 12:47
+
+# game/Scenes/Kendra/kendraphone.rpy:116
+translate spanish kendraaskout_96ddaf96:
+
+    # sg "Sure, I'm free right now."
+    sg "Claro, ahora mismo estoy libre."
+
+# game/Scenes/Kendra/kendraphone.rpy:117
+translate spanish kendraaskout_afec7707:
+
+    # pc "Okay, let's do it."
+    pc "Vale, vamos a ello."
+
+# game/Scenes/Kendra/kendraphone.rpy:119
+translate spanish kendraaskout_60bea128:
+
+    # sg "Alright, give me just a few minutes to get ready and I'll meet you at the park."
+    sg "Vale, dame solo unos minutos para prepararme y nos vemos en el parque."
+
+# game/Scenes/Kendra/kendraphone.rpy:121
+translate spanish kendraaskout_f26dfc4c:
+
+    # pc "You don't want me to come to your house to pick you up?"
+    pc "¿No quieres que vaya a tu casa a recogerte?"
+
+# game/Scenes/Kendra/kendraphone.rpy:123
+translate spanish kendraaskout_d41d8cd9:
+
+    # voice 'voices/kendra_nah.wav'
+    voice 'voices/kendra_nah.wav'
+
+# game/Scenes/Kendra/kendraphone.rpy:124
+translate spanish kendraaskout_d0088c16:
+
+    # sg "Nah, the park is easier."
+    sg "No, el parque es más fácil."
+
+# game/Scenes/Kendra/kendraphone.rpy:125
+translate spanish kendraaskout_cb4add2a:
+
+    # pc "Okay, I'll get ready and head over there then."
+    pc "Vale, me prepararé y me pasaré por allí."
+
+# game/Scenes/Kendra/kendraphone.rpy:126
+translate spanish kendraaskout_bd549028:
+
+    # sg "Cool man, see you there."
+    sg "Genial, tío, nos vemos allí."
+
+# game/Scenes/Kendra/kendraphone.rpy:128
+translate spanish kendraaskout_1df02c08:
+
+    # sg "Want to come over to my place and pick me up?"
+    sg "¿Quieres venir a mi casa a recogerme?"
+
+# game/Scenes/Kendra/kendraphone.rpy:129
+translate spanish kendraaskout_fa718ac7:
+
+    # pc "Sure, I'll be right over."
+    pc "Claro, voy para allá ahora mismo."
+
+# game/Scenes/Kendra/kendraphone.rpy:130
+translate spanish kendraaskout_2250667b:
+
+    # sg "Cool. See you then."
+    sg "Genial. Nos vemos entonces."
+
+# game/Scenes/Kendra/kendraphone.rpy:131
+translate spanish kendraaskout_bf948f50:
+
+    # "We hang up and I get ready to go on a date with Kendra."
+    "Colgamos y me preparo para ir a una cita con Kendra."
+

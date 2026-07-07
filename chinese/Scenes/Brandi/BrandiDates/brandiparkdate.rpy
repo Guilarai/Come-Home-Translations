@@ -72,3 +72,15 @@ translate chinese brandiparkstartdate_c69a35d4:
     # "We walk back towards the car, holding hands the whole way."
     "我们手牵着手走回车旁。"
 
+# TODO: Translation updated at 2026-06-02 09:40
+
+translate chinese strings:
+
+    # game/Scenes/Brandi/BrandiDates/brandiparkdate.rpy:2
+    old "After the scene in her apartment where she talks about dating you away from the webcam, you can call her in the evening to ask her on date."
+    new "在她公寓里那段她提到想在摄像头外和你约会的场景之后，你可以在晚上打电话约她出去。"
+
+    # game/Scenes/Brandi/BrandiDates/brandiparkdate.rpy:3
+    old "Ask her to go to the park."
+    new "邀请她去公园。"
+

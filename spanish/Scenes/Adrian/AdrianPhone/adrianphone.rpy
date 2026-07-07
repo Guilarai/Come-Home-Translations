@@ -340,3 +340,69 @@ translate spanish strings:
     old "Arcade (NEW CONVERSATIONS)"
     new "Sala de juegos (NUEVAS CONVERSACIONES)"
 
+# TODO: Translation updated at 2026-06-01 12:47
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:31
+translate spanish adrianchat_33d3bb38:
+
+    # pc "I just thought we could chat some."
+    pc "Se me ocurrió que podríamos charlar un rato."
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:32
+translate spanish adrianchat_47047af2:
+
+    # gg "Sure, what do you want to chat about?"
+    gg "Claro, ¿de qué quieres hablar?"
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:34
+translate spanish adrianchat_b6985f40:
+
+    # "We finish talking and eventually hang up."
+    "Terminamos de hablar y, al final, colgamos."
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:40
+translate spanish adrianchat_b7c4dd6f:
+
+    # "Then I start getting ready for bed."
+    "Después empiezo a prepararme para irme a la cama."
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:43
+translate spanish adrianchat_451955f4:
+
+    # "Then I rush off to school."
+    "Después me voy corriendo al colegio."
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:50
+translate spanish adrianhangout_daa77548:
+
+    # gg "Sure, where do you want to go?"
+    gg "Claro, ¿adónde quieres ir?"
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:58
+translate spanish adrianhangout_cd2a26fb:
+
+    # gg "Do you want to invite Kendra? That could be fun."
+    gg "¿Quieres invitar a Kendra? Podría ser divertido."
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:61
+translate spanish adrianhangout_484982cf:
+
+    # gg "Awesome!"
+    gg "¡Genial!"
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:64
+translate spanish adrianhangout_a78c8e3d:
+
+    # gg "Sounds good to me."
+    gg "Por mí, perfecto."
+
+translate spanish strings:
+
+    # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:181
+    old "Hang Out"
+    new "Pasar el rato"
+
+    # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:194
+    old "Hang out"
+    new "Pasar el rato"
+

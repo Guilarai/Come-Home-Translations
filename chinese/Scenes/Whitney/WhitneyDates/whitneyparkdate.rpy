@@ -48,3 +48,11 @@ translate chinese whitneyparkstartdate_c024991e:
     # wt "Thank you for taking me out. I really should get out in nature more often."
     wt "谢谢你带我出来。我真该多去大自然里走走。"
 
+# TODO: Translation updated at 2026-06-02 09:40
+
+translate chinese strings:
+
+    # game/Scenes/Whitney/WhitneyDates/whitneyparkdate.rpy:2
+    old "After your first date with Whitney, you can call her in the evening and invite her on a date."
+    new "和惠特尼第一次约会后，你可以在晚上给她打电话，邀请她再次约会。"
+

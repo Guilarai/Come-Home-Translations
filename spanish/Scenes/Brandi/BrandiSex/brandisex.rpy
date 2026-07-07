@@ -108,3 +108,15 @@ translate spanish strings:
     old "Of course"
     new "Por supuesto"
 
+# TODO: Translation updated at 2026-06-01 12:47
+
+translate spanish strings:
+
+    # game/Scenes/Brandi/BrandiSex/brandisex.rpy:23
+    old "Anal Doggy (NEW)"
+    new "anal a cuatro patas (NUEVO)"
+
+    # game/Scenes/Brandi/BrandiSex/brandisex.rpy:25
+    old "Anal Doggy"
+    new "anal a cuatro patas"
+

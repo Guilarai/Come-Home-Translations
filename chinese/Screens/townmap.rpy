@@ -186,3 +186,35 @@ translate chinese strings:
     old "Read Juliana's manuscript"
     new "阅读朱莉安娜的手稿"
 
+# TODO: Translation updated at 2026-06-02 09:40
+
+translate chinese strings:
+
+    # game/Screens/townmap.rpy:495
+    old "Go to the park"
+    new "去公园"
+
+    # game/Screens/townmap.rpy:496
+    old "Hang out with Izzy in the park"
+    new "和伊兹在公园里闲逛"
+
+    # game/Screens/townmap.rpy:498
+    old "Approach the gang in the park"
+    new "接近公园里的那群人"
+
+    # game/Screens/townmap.rpy:500
+    old "Izzy's new job"
+    new "伊兹的新工作"
+
+    # game/Screens/townmap.rpy:501
+    old "Visit Izzy at work"
+    new "去伊兹的工作地点看她"
+
+    # game/Screens/townmap.rpy:504
+    old "Call Kendra"
+    new "给肯德拉打电话"
+
+    # game/Screens/townmap.rpy:507
+    old "Check out the skater girl again"
+    new "再去看看那个滑板女孩"
+

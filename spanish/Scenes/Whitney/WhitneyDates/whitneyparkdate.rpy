@@ -48,3 +48,11 @@ translate spanish whitneyparkstartdate_c024991e:
     # wt "Thank you for taking me out. I really should get out in nature more often."
     wt "Gracias por traerme aquí. Debería salir a la naturaleza más a menudo."
 
+# TODO: Translation updated at 2026-06-01 12:47
+
+translate spanish strings:
+
+    # game/Scenes/Whitney/WhitneyDates/whitneyparkdate.rpy:2
+    old "After your first date with Whitney, you can call her in the evening and invite her on a date."
+    new "Después de tu primera cita con Whitney, puedes llamarla por la tarde e invitarla a salir."
+

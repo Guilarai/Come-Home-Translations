@@ -90,3 +90,15 @@ translate chinese adrianparkstartdate_073c5861:
     # "After a while, it is time to go back to the car and take her home."
     "过了一会儿，该回车里送她回家了。"
 
+# TODO: Translation updated at 2026-06-02 09:40
+
+translate chinese strings:
+
+    # game/Scenes/Adrian/AdrianDates/adrianparkdate.rpy:2
+    old "After you have your first date with Adrian, you can call and ask her out in the evenings."
+    new "和艾德里安约会一次后，你可以在晚上打电话约她出去。"
+
+    # game/Scenes/Adrian/AdrianDates/adrianparkdate.rpy:3
+    old "Ask her to go to the park with you."
+    new "邀请她和你一起去公园。"
+

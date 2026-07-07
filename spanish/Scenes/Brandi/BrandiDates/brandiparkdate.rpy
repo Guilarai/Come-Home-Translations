@@ -72,3 +72,15 @@ translate spanish brandiparkstartdate_c69a35d4:
     # "We walk back towards the car, holding hands the whole way."
     "Caminamos de vuelta hacia el coche, cogidos de la mano todo el rato."
 
+# TODO: Translation updated at 2026-06-01 12:47
+
+translate spanish strings:
+
+    # game/Scenes/Brandi/BrandiDates/brandiparkdate.rpy:2
+    old "After the scene in her apartment where she talks about dating you away from the webcam, you can call her in the evening to ask her on date."
+    new "Después de la escena en su piso en la que te habla de quedar contigo fuera de la cámara web, puedes llamarla por la tarde para invitarla a salir."
+
+    # game/Scenes/Brandi/BrandiDates/brandiparkdate.rpy:3
+    old "Ask her to go to the park."
+    new "Pídele que vaya al parque."
+

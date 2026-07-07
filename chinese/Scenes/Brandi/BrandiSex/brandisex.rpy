@@ -108,3 +108,15 @@ translate chinese strings:
     old "Of course"
     new "当然"
 
+# TODO: Translation updated at 2026-06-02 09:40
+
+translate chinese strings:
+
+    # game/Scenes/Brandi/BrandiSex/brandisex.rpy:23
+    old "Anal Doggy (NEW)"
+    new "后入式肛交 (新)"
+
+    # game/Scenes/Brandi/BrandiSex/brandisex.rpy:25
+    old "Anal Doggy"
+    new "后入式肛交"
+

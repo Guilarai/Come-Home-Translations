@@ -292,3 +292,77 @@ translate chinese strings:
     old "I changed my mind, let's go skydiving."
     new "我改变主意了，咱们去跳伞吧。"
 
+# TODO: Translation updated at 2026-06-02 09:40
+
+# game/Scenes/Kendra/kendraphone.rpy:116
+translate chinese kendraaskout_96ddaf96:
+
+    # sg "Sure, I'm free right now."
+    sg "当然，我现在有空。"
+
+# game/Scenes/Kendra/kendraphone.rpy:117
+translate chinese kendraaskout_afec7707:
+
+    # pc "Okay, let's do it."
+    pc "好，那就去吧。"
+
+# game/Scenes/Kendra/kendraphone.rpy:119
+translate chinese kendraaskout_60bea128:
+
+    # sg "Alright, give me just a few minutes to get ready and I'll meet you at the park."
+    sg "行，给我几分钟准备一下，我在公园等你。"
+
+# game/Scenes/Kendra/kendraphone.rpy:121
+translate chinese kendraaskout_f26dfc4c:
+
+    # pc "You don't want me to come to your house to pick you up?"
+    pc "你不想要我去你家接你吗？"
+
+# game/Scenes/Kendra/kendraphone.rpy:123
+translate chinese kendraaskout_d41d8cd9:
+
+    # voice 'voices/kendra_nah.wav'
+    voice 'voices/kendra_nah.wav'
+
+# game/Scenes/Kendra/kendraphone.rpy:124
+translate chinese kendraaskout_d0088c16:
+
+    # sg "Nah, the park is easier."
+    sg "不用，去公园更方便。"
+
+# game/Scenes/Kendra/kendraphone.rpy:125
+translate chinese kendraaskout_cb4add2a:
+
+    # pc "Okay, I'll get ready and head over there then."
+    pc "好的，那我准备好就过去。"
+
+# game/Scenes/Kendra/kendraphone.rpy:126
+translate chinese kendraaskout_bd549028:
+
+    # sg "Cool man, see you there."
+    sg "好嘞，到时候见。"
+
+# game/Scenes/Kendra/kendraphone.rpy:128
+translate chinese kendraaskout_1df02c08:
+
+    # sg "Want to come over to my place and pick me up?"
+    sg "要不要来我家接我？"
+
+# game/Scenes/Kendra/kendraphone.rpy:129
+translate chinese kendraaskout_fa718ac7:
+
+    # pc "Sure, I'll be right over."
+    pc "行，我马上过去。"
+
+# game/Scenes/Kendra/kendraphone.rpy:130
+translate chinese kendraaskout_2250667b:
+
+    # sg "Cool. See you then."
+    sg "好。到时候见。"
+
+# game/Scenes/Kendra/kendraphone.rpy:131
+translate chinese kendraaskout_bf948f50:
+
+    # "We hang up and I get ready to go on a date with Kendra."
+    "挂断电话后，我开始准备去和肯德拉约会。"
+

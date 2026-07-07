@@ -42,3 +42,15 @@ translate chinese michaparkstartdate_a248948f:
     # pc "Of course."
     pc "当然可以。"
 
+# TODO: Translation updated at 2026-06-02 09:40
+
+translate chinese strings:
+
+    # game/Scenes/Micha/MichaDates/michaparkdate.rpy:2
+    old "After you have walked Mi-Cha to her dorm once and wished upon a star, you will be able to take her to the park."
+    new "在你送米查回宿舍一次并许下心愿后，你就能带她去公园了。"
+
+    # game/Scenes/Micha/MichaDates/michaparkdate.rpy:3
+    old "Call her in the evening and ask her to go to the park."
+    new "晚上给她打电话，约她去公园。"
+

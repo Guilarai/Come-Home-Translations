@@ -78,3 +78,11 @@ translate chinese kendradate_6ce9597c_3:
     # sg "Okay, that works too."
     sg "好的，这样也行。"
 
+# TODO: Translation updated at 2026-06-02 09:40
+
+translate chinese strings:
+
+    # game/Scenes/Kendra/KendraDates/kendradate.rpy:110
+    old "Go Karts"
+    new "卡丁车"
+

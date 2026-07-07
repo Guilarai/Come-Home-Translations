@@ -550,3 +550,23 @@ translate spanish strings:
     old "Yeah, I want it"
     new "Sí, lo quiero"
 
+# TODO: Translation updated at 2026-06-01 12:47
+
+# game/Scenes/Kendra/KendraDates/kendragokartdate.rpy:17
+translate spanish kendragokartdate_dd786cf9:
+
+    # sg "Do you want to see if Adrian wants to come?"
+    sg "¿Quieres ver si Adrián quiere venir?"
+
+# game/Scenes/Kendra/KendraDates/kendragokartdate.rpy:20
+translate spanish kendragokartdate_cc4b5df7:
+
+    # sg "Awesome!"
+    sg "¡Genial!"
+
+# game/Scenes/Kendra/KendraDates/kendragokartdate.rpy:23
+translate spanish kendragokartdate_6ce9597c:
+
+    # sg "Okay, that works too."
+    sg "Vale, eso también vale."
+

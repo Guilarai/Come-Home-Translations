@@ -78,3 +78,11 @@ translate spanish kendradate_6ce9597c_3:
     # sg "Okay, that works too."
     sg "Vale, eso también vale."
 
+# TODO: Translation updated at 2026-06-01 12:47
+
+translate spanish strings:
+
+    # game/Scenes/Kendra/KendraDates/kendradate.rpy:110
+    old "Go Karts"
+    new "Karts"
+

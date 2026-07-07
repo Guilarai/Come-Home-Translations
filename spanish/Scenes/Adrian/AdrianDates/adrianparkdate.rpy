@@ -90,3 +90,15 @@ translate spanish adrianparkstartdate_073c5861:
     # "After a while, it is time to go back to the car and take her home."
     "Después de un rato, es hora de volver al coche y llevarla a casa."
 
+# TODO: Translation updated at 2026-06-01 12:47
+
+translate spanish strings:
+
+    # game/Scenes/Adrian/AdrianDates/adrianparkdate.rpy:2
+    old "After you have your first date with Adrian, you can call and ask her out in the evenings."
+    new "Una vez que hayas tenido tu primera cita con Adrián, puedes llamarla y invitarla a salir por las tardes."
+
+    # game/Scenes/Adrian/AdrianDates/adrianparkdate.rpy:3
+    old "Ask her to go to the park with you."
+    new "Pídele que vaya al parque contigo."
+

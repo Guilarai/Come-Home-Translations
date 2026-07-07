@@ -186,3 +186,35 @@ translate spanish strings:
     old "Read Juliana's manuscript"
     new "Leer el manuscrito de Juliana"
 
+# TODO: Translation updated at 2026-06-01 12:47
+
+translate spanish strings:
+
+    # game/Screens/townmap.rpy:495
+    old "Go to the park"
+    new "Ve al parque"
+
+    # game/Screens/townmap.rpy:496
+    old "Hang out with Izzy in the park"
+    new "Queda con Izzy en el parque"
+
+    # game/Screens/townmap.rpy:498
+    old "Approach the gang in the park"
+    new "Acércate al grupo que está en el parque"
+
+    # game/Screens/townmap.rpy:500
+    old "Izzy's new job"
+    new "El nuevo trabajo de Izzy"
+
+    # game/Screens/townmap.rpy:501
+    old "Visit Izzy at work"
+    new "Visita a Izzy en el trabajo"
+
+    # game/Screens/townmap.rpy:504
+    old "Call Kendra"
+    new "Llama a Kendra"
+
+    # game/Screens/townmap.rpy:507
+    old "Check out the skater girl again"
+    new "Fíjate otra vez en la chica skater"
+

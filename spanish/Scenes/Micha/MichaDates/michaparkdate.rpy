@@ -42,3 +42,15 @@ translate spanish michaparkstartdate_a248948f:
     # pc "Of course."
     pc "Por supuesto."
 
+# TODO: Translation updated at 2026-06-01 12:47
+
+translate spanish strings:
+
+    # game/Scenes/Micha/MichaDates/michaparkdate.rpy:2
+    old "After you have walked Mi-Cha to her dorm once and wished upon a star, you will be able to take her to the park."
+    new "Una vez que hayas acompañado a Mi-Cha a su residencia y hayas pedido un deseo a una estrella, podrás llevarla al parque."
+
+    # game/Scenes/Micha/MichaDates/michaparkdate.rpy:3
+    old "Call her in the evening and ask her to go to the park."
+    new "Llámala por la tarde y invítala a ir al parque."
+

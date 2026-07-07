@@ -340,3 +340,69 @@ translate chinese strings:
     old "Arcade (NEW CONVERSATIONS)"
     new "游戏厅（新增对话）"
 
+# TODO: Translation updated at 2026-06-02 09:40
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:31
+translate chinese adrianchat_33d3bb38:
+
+    # pc "I just thought we could chat some."
+    pc "我只是想找个地方聊聊天。"
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:32
+translate chinese adrianchat_47047af2:
+
+    # gg "Sure, what do you want to chat about?"
+    gg "当然，你想聊什么？"
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:34
+translate chinese adrianchat_b6985f40:
+
+    # "We finish talking and eventually hang up."
+    "我们聊完后挂了电话。"
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:40
+translate chinese adrianchat_b7c4dd6f:
+
+    # "Then I start getting ready for bed."
+    "接着我开始准备睡觉。"
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:43
+translate chinese adrianchat_451955f4:
+
+    # "Then I rush off to school."
+    "然后我匆匆赶去学校。"
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:50
+translate chinese adrianhangout_daa77548:
+
+    # gg "Sure, where do you want to go?"
+    gg "当然，你想去哪里？"
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:58
+translate chinese adrianhangout_cd2a26fb:
+
+    # gg "Do you want to invite Kendra? That could be fun."
+    gg "要不要邀请肯德拉？那应该会很有趣。"
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:61
+translate chinese adrianhangout_484982cf:
+
+    # gg "Awesome!"
+    gg "太棒了！"
+
+# game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:64
+translate chinese adrianhangout_a78c8e3d:
+
+    # gg "Sounds good to me."
+    gg "我也很乐意。"
+
+translate chinese strings:
+
+    # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:181
+    old "Hang Out"
+    new "约会"
+
+    # game/Scenes/Adrian/AdrianPhone/adrianphone.rpy:194
+    old "Hang out"
+    new "约会"
+
