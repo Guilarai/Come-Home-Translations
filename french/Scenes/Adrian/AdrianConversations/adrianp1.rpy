@@ -10,7 +10,7 @@ translate french adrianp1_f2232abd:
 translate french adrianp1_985dc6ac:
 
     # pc "You don't have to tell me if you don't want to."
-    pc "Si tu veux pas le dire, t'es pas obligé."
+    pc "T'es pas obligée d'en parler si t'as pas envie."
 
 # game/Scenes/Adrian/AdrianConversations/adrianp1.rpy:14
 translate french adrianp1_2d19c0e5:
@@ -34,7 +34,7 @@ translate french adrianp1_af1735ed:
 translate french adrianp1_903ffdc9:
 
     # gg "It's nothing you're doing, I promise. Sometimes it just happens. Most of the time it doesn't."
-    gg "Ça vient pas de ce que tu fais, je te le promets. La plupart du temps ça n'arrive pas, mais parfois, ça arrive, c'est tout. ."
+    gg "Ça vient pas de ce que tu fais, je te le promets. La plupart du temps ça vient pas, mais parfois ça vient, c'est tout."
 
 # game/Scenes/Adrian/AdrianConversations/adrianp1.rpy:19
 translate french adrianp1_85c9873f:
@@ -64,7 +64,7 @@ translate french adrianp1_4f339790:
 translate french adrianp1_f959e643:
 
     # gg "Just keep doing what you're doing then."
-    gg "Alors continue comme tu faisais."
+    gg "Alors continue, change rien."
 
 # game/Scenes/Adrian/AdrianConversations/adrianp1.rpy:26
 translate french adrianp1_b9f0e57e:
