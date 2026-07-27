@@ -10,7 +10,7 @@ translate french strings:
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:18
     old "Where did you move here from?"
-    new "D’où viens-tu ?"
+    new "D’où tu viens ?"
 
     # game/Scenes/Bai/BaiConversations/baisurface.rpy:20
     old "What are you going to school for?"
