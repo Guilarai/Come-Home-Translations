@@ -4,7 +4,7 @@
 translate french baip1_4fa21f8f:
 
     # bai "Oof, probably telling my last girlfriend that I might be interested in guys."
-    bai "Ouf, c'était sûrement quand j'ai dit à ma dernière copine que je m'intéressais peut-être aux mecs."
+    bai "Ouf, c'était sûrement quand j'ai dit à ma dernière copine que j'étais peut-être attiré par les mecs."
 
 # game/Scenes/Bai/BaiConversations/baip1.rpy:15
 translate french baip1_ffbd6fca:
