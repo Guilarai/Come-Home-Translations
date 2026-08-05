@@ -256,51 +256,51 @@ translate french strings:
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:18
     old "The Park"
-    new "Le parc"
+    new "Parc"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:21
     old "The Park (NEW)"
-    new "Le parc (NOUVEAU)"
+    new "Parc (NOUVEAU)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:24
     old "The Park (NEW SEX CONTENT)"
-    new "Le parc (NOUVEAU CONTENU SEXUEL)"
+    new "Parc (NOUVEAU CONTENU SEXUEL)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:27
     old "The Park (NEW CONVERSATIONS)"
-    new "Le parc (NOUVELLES CONVERSATIONS)"
+    new "Parc (NOUVELLES CONVERSATIONS)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:30
     old "The Grotto"
-    new "La grotte"
+    new "The Grotto"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:32
     old "The Grotto (NEW)"
-    new "La grotte (NOUVEAU)"
+    new "The Grotto (NOUVEAU)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:34
     old "The Grotto (NEW SEX CONTENT)"
-    new "La grotte (NOUVEAU CONTENU SEXUEL)"
+    new "The Grotto (NOUVEAU CONTENU SEXUEL)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:36
     old "The Grotto (NEW CONVERSATIONS)"
-    new "La grotte (NOUVELLES CONVERSATIONS)"
+    new "The Grotto (NOUVELLES CONVERSATIONS)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:38
     old "The Beach"
-    new "La plage"
+    new "Plage"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:40
     old "The Beach (NEW)"
-    new "La plage (NOUVEAU)"
+    new "Plage (NOUVEAU)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:42
     old "The Beach (NEW SEX CONTENT)"
-    new "La plage (NOUVEAU CONTENU SEXUEL)"
+    new "Plage (NOUVEAU CONTENU SEXUEL)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:44
     old "The Beach (NEW CONVERSATIONS)"
-    new "La plage (NOUVELLES CONVERSATIONS)"
+    new "Plage (NOUVELLES CONVERSATIONS)"
 
     # game/Scenes/Bai/BaiDates/baidate.rpy:70
     old "Kiss him"
