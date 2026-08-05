@@ -52,13 +52,13 @@ translate french baidate_437bb058_7:
 translate french baienddate_66815bb9:
 
     # bai "That was fun, man. Always enjoy hanging out with you."
-    bai "C'était sympa, mec. J'adore passer du temps avec toi."
+    bai "C'était sympa. Je passe toujours du bon temps avec toi."
 
 # game/Scenes/Bai/BaiDates/baidate.rpy:50
 translate french baienddate_7cc90c84:
 
     # bai "Let's do it again sometime."
-    bai "On recommence un de ces jours."
+    bai "On remet ça un de ces jours."
 
 # game/Scenes/Bai/BaiDates/baidate.rpy:51
 translate french baienddate_8e54c50f:
@@ -70,7 +70,7 @@ translate french baienddate_8e54c50f:
 translate french baienddate_929ef120:
 
     # bai "Alright man, see you around."
-    bai "D'accord mec, à plus."
+    bai "Super, à plus."
 
 # game/Scenes/Bai/BaiDates/baidate.rpy:56
 translate french baienddate_e70e2ced:
@@ -82,7 +82,7 @@ translate french baienddate_e70e2ced:
 translate french baienddate_4a11d772:
 
     # bai "Thanks for taking me out, [pcname]."
-    bai "Merci de m'avoir invitée, [pcname]."
+    bai "Merci de m'avoir invité, [pcname]."
 
 # game/Scenes/Bai/BaiDates/baidate.rpy:65
 translate french baienddate_17764b2d:
@@ -100,7 +100,7 @@ translate french baienddate_03eaad50:
 translate french baienddate_4924fbc9:
 
     # "He stands close to me, looking in my eyes expectantly. Thinking about something, but seemingly too afraid to do it."
-    "Il se tient près de moi, me regardant dans les yeux avec impatience. Il semble réfléchir à quelque chose, mais a apparemment trop peur de le faire."
+    "Il se tient près de moi, me regardant dans les yeux avec impatience. Je crois qu'il réfléchit à quelque chose, mais qu'il a trop peur de le faire."
 
 # game/Scenes/Bai/BaiDates/baidate.rpy:72
 translate french baienddate_18491609:
@@ -250,7 +250,7 @@ translate french baidateleave_a9d8a21a:
 translate french baidateleave_07771937:
 
     # "Hopefully after a couple more dates, we'll get more comfortable with each other and our relationship."
-    "J'espère qu'après quelques rendez-vous supplémentaires, on sera plus à l'aise l'un avec l'autre et avec notre relation."
+    "J'espère qu'après quelques rendez-vous de plus, on sera plus à l'aise l'un avec l'autre et avec notre relation."
 
 translate french strings:
 
