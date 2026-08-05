@@ -592,7 +592,7 @@ translate french bai15_e4e4e222:
 translate french bai15_ae781b3c:
 
     # "I guess I'm going to have to decide soon how serious I am about this relationship."
-    "Je suppose que je vais bientôt devoir décider à quel point je prends cette relation au sérieux."
+    "On dirait que je vais bientôt devoir décider si cette relation, c'est du sérieux."
 
 translate french strings:
 
