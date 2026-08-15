@@ -22,7 +22,7 @@ translate french bais10_ac714f3e:
 translate french bais10_30e413ca:
 
     # pc "There's got to be something you've done."
-    pc "T'as forcément fait <i>quelque chose</i>."
+    pc "T'as forcément fait {i}quelque chose{/i}."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:21
 translate french bais10_9c14f05f:
