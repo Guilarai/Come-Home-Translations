@@ -10,7 +10,7 @@ translate french bais11_558dae26:
 translate french bais11_6651723a:
 
     # bai "Okay? What's up?"
-    bai "D'accord ? Qu'est-ce qu'il y a ?"
+    bai "Oui ? Qu'est-ce qu'il y a ?"
 
 # game/Scenes/Bai/BaiConversations/bais11.rpy:21
 translate french bais11_f0aa4f3c:
