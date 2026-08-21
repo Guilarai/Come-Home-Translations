@@ -16,7 +16,7 @@ translate french bais10_3633a31f:
 translate french bais10_ac714f3e:
 
     # bai "Maybe I'm more like my parents than I thought. Conservative. Boring."
-    bai "Peut-être que je ressemble plus à mes parents que je ne le pensais. Que je suis conservateur... ennuyeux..."
+    bai "Peut-être que je ressemble plus à mes parents que je croyais. Que je suis conservateur... ennuyeux..."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:19
 translate french bais10_30e413ca:
@@ -58,7 +58,7 @@ translate french bais10_8b0d24fb:
 translate french bais10_3ef34cd0:
 
     # bai "Well, yeah."
-    bai "Eh bien, ouais."
+    bai "Eh ben, ouais."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:28
 translate french bais10_97f3cec6:
@@ -76,7 +76,7 @@ translate french bais10_81bd648b:
 translate french bais10_ab910e91:
 
     # bai "So I bought a bunch of clear pens and before every test, I'd stand out in the hallway and sell them to the other students for ten bucks each."
-    bai "J'ai donc acheté tout un tas de stylos transparents et, avant chaque examen, je me tenais dans le couloir et je les vendais aux autres élèves pour dix dollars pièce."
+    bai "Du coup, j'ai acheté tout un tas de stylos transparents et, avant chaque examen, je me tenais dans le couloir et je les vendais aux autres élèves pour dix dollars pièce."
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:32
 translate french bais10_c8710b8f:
@@ -106,7 +106,7 @@ translate french bais10_a2832bb3:
 translate french bais10_e911d852:
 
     # bai "I guess that's not really all that crazy though, is it?"
-    bai "Mais je suppose que c'est pas si fou que ça, non ?"
+    bai "Mais je suppose que c'est pas si dingue que ça, non ?"
 
 # game/Scenes/Bai/BaiConversations/bais10.rpy:39
 translate french bais10_ce27e975:
