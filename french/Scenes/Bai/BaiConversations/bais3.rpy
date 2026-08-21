@@ -28,7 +28,7 @@ translate french bais3_de9e539b:
 translate french bais3_3729b795:
 
     # bai "Like I'm some servant, or a dog, here to do their bidding."
-    bai "Comme si j’étais une sorte de serviteur, ou un chien, juste là pour obéir à leurs ordres."
+    bai "Comme si j’étais une sorte de serviteur, ou un chien, juste là pour obéir à ses ordres."
 
 # game/Scenes/Bai/BaiConversations/bais3.rpy:21
 translate french bais3_757545bb:
