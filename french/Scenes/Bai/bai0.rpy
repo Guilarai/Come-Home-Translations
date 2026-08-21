@@ -10,7 +10,7 @@ translate french bai0_83c73565:
 translate french bai0_c5b78178:
 
     # bai "Hey there, welcome to Café Skyhill. I'm Bai."
-    bai "Salut, bienvenue au Café Skyhill. Je m'appelle Bai."
+    bai "Salut, bienvenue au Skyhill Café. Je m'appelle Bai."
 
 # game/Scenes/Bai/bai0.rpy:19
 translate french bai0_55b3e59a:
@@ -88,7 +88,7 @@ translate french strings:
 
     # game/Scenes/Bai/bai0.rpy:2
     old "Bai works as a barrista at the Skyhill Cafe on weekday mornings."
-    new "Bai travaille comme barista au Skyhill Cafe les matins en semaine."
+    new "Bai travaille comme barista au Skyhill Café les matins en semaine."
 
     # game/Scenes/Bai/bai0.rpy:3
     old "Go there and order a drink from him."
