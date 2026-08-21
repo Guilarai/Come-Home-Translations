@@ -724,7 +724,7 @@ translate french bai11_fe0bdf4c:
 translate french bai11_b61ba038:
 
     # bai "Oh hey, [pcname]. Good morning. I'm just doing my morning exercises."
-    bai "Oh salut, [pcname]. Bonjour. Je fais mes exercices matinaux."
+    bai "Ah, [pcname]. Bonjour. Je fais mes exercices matinaux."
 
 # game/Scenes/Bai/bai11.rpy:180
 translate french bai11_19701553:
