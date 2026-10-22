@@ -40,7 +40,7 @@ translate french brandi14_90b6d097:
 translate french brandi14_1706c4c5:
 
     # fd "No promises on the sleeping part, but we'll have a good time."
-    fd "Je ne te promets rien pour la nuit, mais on va passer un bon moment."
+    fd "Je ne promets rien pour la nuit, mais on va passer un bon moment."
 
 # game/Scenes/Brandi/brandi14.rpy:21
 translate french brandi14_8c7b2d81:
@@ -70,19 +70,19 @@ translate french brandi14_325b830b:
 translate french brandi14_f377a5ec:
 
     # fd "Hey there, mister. Want to come in and spend the night with me?"
-    fd "Salut, monsieur. Tu veux entrer et passer la nuit avec moi ?"
+    fd "Salut, toi. Tu veux entrer et passer la nuit avec moi ?"
 
 # game/Scenes/Brandi/brandi14.rpy:34
 translate french brandi14_33ad1d0d:
 
     # pc "Fuck yes, I do."
-    pc "Putain, oui, bien sûr."
+    pc "Oh que oui."
 
 # game/Scenes/Brandi/brandi14.rpy:37
 translate french brandi14_8554a232:
 
     # "I walk in and pull her into a deep kiss that she returns enthusiastically."
-    "J'entre et je l'attire vers moi pour un baiser profond qu'elle me rend avec enthousiasme."
+    "J'entre, la serre contre moi et l'embrasse profondément, à sa grande joie."
 
 # game/Scenes/Brandi/brandi14.rpy:38
 translate french brandi14_b823a941:
@@ -118,7 +118,7 @@ translate french brandi14_1f526794:
 translate french brandi14_133930f2:
 
     # fd "[pcname] is here now."
-    fd "[pcname] est là maintenant."
+    fd "[pcname] est arrivé."
 
 # game/Scenes/Brandi/brandi14.rpy:46
 translate french brandi14_9b5bf2bd:
@@ -196,7 +196,7 @@ translate french brandi14_c3973432:
 translate french brandi14_901368dd:
 
     # fd "Hush, you."
-    fd "Tais-toi."
+    fd "Oh, tais-toi."
 
 # game/Scenes/Brandi/brandi14.rpy:65
 translate french brandi14_30a95ff9:
@@ -274,7 +274,7 @@ translate french brandi14_7a92c499:
 translate french brandi14_f4caba0a:
 
     # fd "You have people watching you out there, you know?"
-    fd "Il y a des gens qui te regardent là-bas, tu sais ?"
+    fd "Il y a des gens qui te regardent, tu sais ?"
 
 # game/Scenes/Brandi/brandi14.rpy:82
 translate french brandi14_25b599a4:
@@ -292,7 +292,7 @@ translate french brandi14_0c17e674:
 translate french brandi14_6ffab8f7:
 
     # fd "We have things to do {i}after{/i} the show too, you know."
-    fd "On a des choses à faire {i}après{/i} l'émission aussi, tu sais."
+    fd "On a aussi des choses à faire {i}après{/i} l'émission, tu sais."
 
 # game/Scenes/Brandi/brandi14.rpy:85
 translate french brandi14_ae871f39:
@@ -304,7 +304,7 @@ translate french brandi14_ae871f39:
 translate french brandi14_3243e946:
 
     # fd "Oh yeah."
-    fd "Oh oui."
+    fd "Ah oui."
 
 # game/Scenes/Brandi/brandi14.rpy:89
 translate french brandi14_23f543e6:
@@ -370,7 +370,7 @@ translate french brandi14_198be159:
 translate french brandi14_1b634790:
 
     # fd "Bye, guys."
-    fd "Salut, les gars."
+    fd "Salut à tous."
 
 # game/Scenes/Brandi/brandi14.rpy:104
 translate french brandi14_e59cc9a8:
@@ -394,7 +394,7 @@ translate french brandi14_92ec97dc:
 translate french brandi14_08dfef8e:
 
     # fd "Gods, I've been wanting you as soon as you walked through the door."
-    fd "Mon Dieu, j’ai eu envie de toi dès que tu as franchi la porte."
+    fd "Mon dieu, j’ai eu envie de toi dès que tu as franchi la porte."
 
 # game/Scenes/Brandi/brandi14.rpy:114
 translate french brandi14_288cfb44:
@@ -412,7 +412,7 @@ translate french brandi14_151da98c:
 translate french brandi14_a0526a29:
 
     # pc "No, I'm serious. I've never had meatloaf, cauliflower, or broccoli that tasted even close to that good."
-    pc "Non, je suis sérieuse. Je n’ai jamais mangé de pain de viande, de chou-fleur ou de brocoli qui ait été aussi bon."
+    pc "Non, je suis sérieux. Je n’ai jamais mangé de pain de viande, de chou-fleur ou de brocoli qui ait été aussi bon."
 
 # game/Scenes/Brandi/brandi14.rpy:120
 translate french brandi14_d41d8cd9_2:
@@ -424,7 +424,7 @@ translate french brandi14_d41d8cd9_2:
 translate french brandi14_59548ec2:
 
     # fd "Ugh, I'm so fucking wet right now."
-    fd "Pff, je suis tellement mouillée en ce moment."
+    fd "Oh, je suis tellement mouillée, là."
 
 # game/Scenes/Brandi/brandi14.rpy:123
 translate french brandi14_d41d8cd9_3:
@@ -466,7 +466,7 @@ translate french brandi14_c129c6fe:
 translate french brandi14_52783741:
 
     # fd "Just knock all those pillows out of the way."
-    fd "Écarte juste tous ces oreillers."
+    fd "Enlève les oreillers."
 
 # game/Scenes/Brandi/brandi14.rpy:135
 translate french brandi14_a77e04b0:
@@ -478,7 +478,7 @@ translate french brandi14_a77e04b0:
 translate french brandi14_317474ff:
 
     # fd "Ugh, it looks so good. I just want to swallow it all."
-    fd "Oh, ça a l'air tellement bon. J'ai juste envie de tout avaler."
+    fd "Oh, ça a l'air tellement bon. J'ai envie de tout avaler."
 
 # game/Scenes/Brandi/brandi14.rpy:139
 translate french brandi14_debd7fc6:
@@ -490,19 +490,19 @@ translate french brandi14_debd7fc6:
 translate french brandi14_b2c1be12:
 
     # pc "Fuck, that feels good."
-    pc "Putain, ça fait du bien."
+    pc "Putain, c'est bon."
 
 # game/Scenes/Brandi/brandi14.rpy:143
 translate french brandi14_3456edbf:
 
     # fd "You know, when I'm with you is when I'm happiest."
-    fd "Tu sais, c'est quand je suis avec toi que je suis le plus heureux."
+    fd "Tu sais, c'est quand je suis avec toi que je suis le plus heureuse."
 
 # game/Scenes/Brandi/brandi14.rpy:144
 translate french brandi14_af1b98e3:
 
     # fd "I mean, generally I'm pretty happy. But you make me even happier."
-    fd "Je veux dire, en général, je suis plutôt heureux. Mais tu me rends encore plus heureux."
+    fd "Enfin, en général, je suis plutôt heureuse. Mais tu me rends encore plus heureuse."
 
 # game/Scenes/Brandi/brandi14.rpy:145
 translate french brandi14_684fa067:
@@ -514,7 +514,7 @@ translate french brandi14_684fa067:
 translate french brandi14_8a9ed0c4:
 
     # pc "Yeah, I know what you mean. You make me really happy too."
-    pc "Oui, je vois ce que tu veux dire. Tu me rends vraiment heureuse aussi."
+    pc "Oui, je vois ce que tu veux dire. Tu me rends vraiment heureux aussi."
 
 # game/Scenes/Brandi/brandi14.rpy:147
 translate french brandi14_de3d38f3:
@@ -550,7 +550,7 @@ translate french brandi14_2fd7bb34:
 translate french brandi14_8a36fd52:
 
     # fd "I'm going to ride your dick now."
-    fd "Je vais chevaucher ta bite maintenant."
+    fd "Maintenant, je vais chevaucher ta bite."
 
 # game/Scenes/Brandi/brandi14.rpy:159
 translate french brandi14_fb242d88:
@@ -574,7 +574,7 @@ translate french brandi14_12705ee8:
 translate french brandi14_704dca13:
 
     # fd "Gods, I love how much you fill me."
-    fd "Mon Dieu, j’adore à quel point tu me remplis."
+    fd "Mon dieu, j’adore comme tu me remplis."
 
 # game/Scenes/Brandi/brandi14.rpy:165
 translate french brandi14_9e30fa5b:
@@ -592,7 +592,7 @@ translate french brandi14_37c2ec8a:
 translate french brandi14_3fc9f0a2:
 
     # fd "I'm going to go get cleaned up real quick, then maybe we can go another round before bed."
-    fd "Je vais aller me rafraîchir rapidement, puis on pourra peut-être enchaîner avant d’aller se coucher."
+    fd "Je vais aller me nettoyer vite fait, puis on pourra peut-être enchaîner avant d’aller se coucher."
 
 # game/Scenes/Brandi/brandi14.rpy:190
 translate french brandi14_3853cfaf:
@@ -652,7 +652,7 @@ translate french brandi14_d41d8cd9_8:
 translate french brandi14_554621f7:
 
     # fd "Fuck, I'm so sorry."
-    fd "Putain, je suis vraiment désolé."
+    fd "Putain, je suis vraiment désolée."
 
 # game/Scenes/Brandi/brandi14.rpy:209
 translate french brandi14_055304d4:
@@ -706,7 +706,7 @@ translate french brandi14_d41d8cd9_11:
 translate french brandi14_baf87c62:
 
     # fd "Fuck! I can't believe I did that."
-    fd "Putain ! Je n'arrive pas à croire que j'ai fait ça."
+    fd "Putain ! J'arrive pas à croire que j'ai fait ça."
 
 # game/Scenes/Brandi/brandi14.rpy:224
 translate french brandi14_d41d8cd9_12:
@@ -736,7 +736,7 @@ translate french brandi14_d41d8cd9_13:
 translate french brandi14_393d3d85:
 
     # fd "I have to go to the bathroom and wash your fucking cum off my face!"
-    fd "Je dois aller aux toilettes pour te laver ton putain de sperme du visage !"
+    fd "Je dois aller à la salle de bain pour laver ton putain de sperme sur mon visage !"
 
 # game/Scenes/Brandi/brandi14.rpy:233
 translate french brandi14_d41d8cd9_14:
@@ -772,7 +772,7 @@ translate french brandi14_4516847c:
 translate french brandi14_de4b65f4:
 
     # "At least try to help in some way."
-    "Au moins, j'essaie de l'aider d'une manière ou d'une autre."
+    "Au moins pour l'aider, d'une manière ou d'une autre."
 
 # game/Scenes/Brandi/brandi14.rpy:245
 translate french brandi14_f9f6523d:
@@ -868,13 +868,13 @@ translate french brandi14_954fe6a0:
 translate french brandi14_00282f1f:
 
     # fd "Not to mention that me getting fucked is now going to be on the internet forever."
-    fd "Sans parler du fait que cette situation va rester sur Internet pour toujours."
+    fd "Sans parler du fait que ma partie de jambes en l'air va être sur Internet pour toujours."
 
 # game/Scenes/Brandi/brandi14.rpy:268
 translate french brandi14_7c219d96:
 
     # fd "I'm so sorry. You were on screen too, so you have to deal with that too."
-    fd "Je suis vraiment désolé. Tu étais à l'écran toi aussi, donc tu vas devoir gérer ça aussi."
+    fd "Je suis vraiment désolée. Tu étais à l'écran toi aussi, donc tu devras gérer ça aussi."
 
 # game/Scenes/Brandi/brandi14.rpy:269
 translate french brandi14_877bbc15:
@@ -910,7 +910,7 @@ translate french brandi14_49cf815e:
 translate french brandi14_353ed38a:
 
     # pc "I have no doubt in you at all."
-    pc "Je n’ai aucun doute à ton sujet."
+    pc "Je n’ai aucun doute à ce sujet."
 
 # game/Scenes/Brandi/brandi14.rpy:279
 translate french brandi14_427dd934:
@@ -1018,7 +1018,7 @@ translate french brandi14_34df53b4:
 translate french brandi14_6ecd5153:
 
     # fd "No, after you fell asleep, I got up and got on the computer."
-    fd "Non, après que tu t'es endormi, je me suis levée et je me suis mise à l'ordinateur."
+    fd "Non, quand tu t'es endormi, je me suis levée et je me suis mise à l'ordinateur."
 
 # game/Scenes/Brandi/brandi14.rpy:309
 translate french brandi14_510548ac:
@@ -1042,7 +1042,7 @@ translate french brandi14_e8e1eb56:
 translate french brandi14_9eb9eec8:
 
     # fd "Probably not, I'm full of coffee and ideas right now. There's coffee in the pot down there, if you want any."
-    fd "Probablement pas, je déborde d'énergie et d'idées en ce moment. Il y a du café dans la cafetière en bas, si tu en veux."
+    fd "Probablement pas, je suis pleine de café et d'idées. Il y en a dans la cafetière en bas, si tu en veux."
 
 # game/Scenes/Brandi/brandi14.rpy:315
 translate french brandi14_fa75bbc3_2:
@@ -1072,7 +1072,7 @@ translate french brandi14_4dde1eea:
 translate french brandi14_f9180bca:
 
     # fd "Okay. I'll make us some breakfast and tell you what's going on then."
-    fd "D'accord. Je vais nous préparer un petit-déjeuner et je te raconterai tout ça à ce moment-là."
+    fd "D'accord. Je nous prépare un petit-déjeuner et je te raconterai tout après."
 
 # game/Scenes/Brandi/brandi14.rpy:322
 translate french brandi14_e26e25c7:
@@ -1084,31 +1084,31 @@ translate french brandi14_e26e25c7:
 translate french brandi14_de42810d:
 
     # fd "So, I did get permanently banned from Kitch. That, I expected."
-    fd "Bon, j’ai été banni définitivement de Kitch. Je m’y attendais."
+    fd "Alors, je suis bannie définitivement de Kitch. Comme je le pensais."
 
 # game/Scenes/Brandi/brandi14.rpy:324
 translate french brandi14_e87a9094:
 
     # fd "But I made $5,000 last night. From that one stream."
-    fd "Mais j’ai gagné 5 000 dollars hier soir. Grâce à ce seul stream."
+    fd "Mais j’ai gagné 5 000 dollars hier soir. Juste avec ce stream."
 
 # game/Scenes/Brandi/brandi14.rpy:325
 translate french brandi14_85b01137:
 
     # fd "And I got a lot of messages afterwards, urging me to come back and do something."
-    fd "Et j’ai reçu plein de messages après, me poussant à revenir et à faire quelque chose."
+    fd "Et j’ai reçu plein de messages, qui me poussaient à revenir et à faire quelque chose."
 
 # game/Scenes/Brandi/brandi14.rpy:326
 translate french brandi14_7e1a6ba9:
 
     # fd "So, I can't be on Kitch anymore, but I have an idea for something else."
-    fd "Donc, je ne peux plus être sur Kitch, mais j’ai une idée pour autre chose."
+    fd "Du coup, je ne peux plus être sur Kitch, mais j’ai une idée pour autre chose."
 
 # game/Scenes/Brandi/brandi14.rpy:329
 translate french brandi14_8222e6bf:
 
     # fd "I think my fan base is big enough now that I can maybe break away and start my own thing."
-    fd "Je pense que ma communauté de fans est assez grande maintenant pour que je puisse peut-être me lancer et monter mon propre projet."
+    fd "Je pense que ma communauté est assez grande maintenant pour que je puisse peut-être me lancer et monter mon propre projet."
 
 # game/Scenes/Brandi/brandi14.rpy:330
 translate french brandi14_7463d342:
@@ -1138,13 +1138,13 @@ translate french brandi14_758e4441:
 translate french brandi14_69e8bca9:
 
     # fd "I'm still upset that it happened, but it doesn't look like I'm going to lose my job and have to move back in with my parents or anything, at least."
-    fd "Je suis toujours contrarié par ce qui s'est passé, mais au moins, on dirait que je ne vais pas perdre mon boulot ni devoir retourner vivre chez mes parents."
+    fd "Je suis toujours contrariée que ce soit arrivé, mais au moins, on dirait que je ne vais pas perdre mon boulot ni devoir retourner vivre chez mes parents."
 
 # game/Scenes/Brandi/brandi14.rpy:337
 translate french brandi14_3b737833:
 
     # fd "I'm working on getting everything set up now. Doing a lot of research and planning to figure out the right way to go about this."
-    fd "Je m’occupe de tout mettre en place en ce moment. Je fais beaucoup de recherches et de planification pour trouver la bonne façon de m’y prendre."
+    fd "Je suis en train de tout mettre en place. Je fais beaucoup de recherches et de planification pour trouver la bonne façon de m’y prendre."
 
 # game/Scenes/Brandi/brandi14.rpy:338
 translate french brandi14_630e9e48:
@@ -1204,7 +1204,7 @@ translate french brandi14_0080a153:
 translate french brandi14_98a43648:
 
     # fd "Ha! Such a ho."
-    fd "Ha ! Quelle salope."
+    fd "Ha ! Quelle traînée."
 
 # game/Scenes/Brandi/brandi14.rpy:351
 translate french brandi14_e83fc31a:
