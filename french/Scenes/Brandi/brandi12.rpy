@@ -4,7 +4,7 @@
 translate french brandi12_40614d91:
 
     # "We make our way up to her apartment, unable to keep our hands off each other."
-    "Nous montons à son appartement, incapables de nous empêcher de nous toucher."
+    "Nous montons à son appartement, et aucun de nous n'a envie de se retenir."
 
 # game/Scenes/Brandi/brandi12.rpy:16
 translate french brandi12_d1b1203f:
@@ -16,19 +16,19 @@ translate french brandi12_d1b1203f:
 translate french brandi12_09ee7b1f:
 
     # pc "Whoa, you have nipple piercings?"
-    pc "Waouh, tu as des piercings aux tétons ?"
+    pc "Wow, tu as des piercings aux tétons ?"
 
 # game/Scenes/Brandi/brandi12.rpy:18
 translate french brandi12_c7a36a44:
 
     # fd "Oh yeah. My nipples are super sensitive and these make it feel even better when they're played with."
-    fd "Oh oui. Mes tétons sont super sensibles et ça me fait encore plus de bien quand on joue avec."
+    fd "Oh oui. Mes tétons sont super sensibles, et avec les piercings, c'est encore meilleur quand on joue avec."
 
 # game/Scenes/Brandi/brandi12.rpy:21
 translate french brandi12_0d2e3e74:
 
     # "I push her back on the bed, knock the pillows to the side, and bury my head in her breasts, wrapping my lips around one of those nipples."
-    "Je la pousse sur le lit, jette les oreillers sur le côté et enfouis ma tête dans ses seins, enroulant mes lèvres autour d’un de ces tétons."
+    "Je la pousse sur le lit, écarte les oreillers et enfouis ma tête dans ses seins, enroulant mes lèvres autour d’un de ces tétons."
 
 # game/Scenes/Brandi/brandi12.rpy:22
 translate french brandi12_80303518:
@@ -46,19 +46,19 @@ translate french brandi12_9d449c00:
 translate french brandi12_f968d90a:
 
     # fd "Oh gods. You're going to make me cum before we even begin."
-    fd "Oh mon Dieu. Tu vas me faire jouir avant même qu’on ait commencé."
+    fd "Oh mon dieu. Tu vas me faire jouir avant même qu’on ait commencé."
 
 # game/Scenes/Brandi/brandi12.rpy:27
 translate french brandi12_f66da774:
 
     # fd "Bring your big dick up here, please. I want to suck it so bad."
-    fd "Apporte ta grosse bite ici, s'il te plaît. J'ai tellement envie de la sucer."
+    fd "Viens voir là-haut avec ta grosse bite, s'il te plaît. J'ai tellement envie de la sucer."
 
 # game/Scenes/Brandi/brandi12.rpy:30
 translate french brandi12_284486d1:
 
     # pc "Well, I can't deny a lady what she wants."
-    pc "Eh bien, je ne peux pas refuser à une dame ce qu'elle veut."
+    pc "Eh bien, je ne peux me refuser à une dame."
 
 # game/Scenes/Brandi/brandi12.rpy:31
 translate french brandi12_63249683:
@@ -88,7 +88,7 @@ translate french brandi12_d6d88af7:
 translate french brandi12_9cd99d4f:
 
     # fd "That's okay. I'm on the pill. I'm safe."
-    fd "C'est bon. Je prends la pilule. Je ne risque rien."
+    fd "C'est bon. Je prends la pilule. Je risque rien."
 
 # game/Scenes/Brandi/brandi12.rpy:38
 translate french brandi12_35743d5e:
@@ -100,7 +100,7 @@ translate french brandi12_35743d5e:
 translate french brandi12_8eb6c1a8:
 
     # fd "Yeah, baby, put that big dick inside me."
-    fd "Ouais, bébé, enfonce cette grosse bite en moi."
+    fd "Ouais, bébé, enfonce-moi cette grosse bite."
 
 # game/Scenes/Brandi/brandi12.rpy:42
 translate french brandi12_a8a3db79:
@@ -118,25 +118,25 @@ translate french brandi12_6af77e9c:
 translate french brandi12_6a85e38b:
 
     # fd "I can't believe how lucky I am."
-    fd "Je n'arrive pas à croire à quel point j'ai de la chance."
+    fd "J'arrive pas à croire la chance que j'ai eue."
 
 # game/Scenes/Brandi/brandi12.rpy:49
 translate french brandi12_020915c9:
 
     # pc "Are you kidding me?"
-    pc "Tu te fous de moi ?"
+    pc "Tu rigoles ?"
 
 # game/Scenes/Brandi/brandi12.rpy:50
 translate french brandi12_64cb0dd1:
 
     # pc "I get to have sex with this beautiful goddess, and you think you're lucky?"
-    pc "J'ai le droit de baiser avec cette magnifique déesse, et tu trouves que c'est de la chance ?"
+    pc "Je peux baiser une déesse magnifique, et c'est toi qui as de la chance ?"
 
 # game/Scenes/Brandi/brandi12.rpy:51
 translate french brandi12_a56d07c2:
 
     # fd "You're crazy."
-    fd "T'es fou."
+    fd "T'es dingue."
 
 # game/Scenes/Brandi/brandi12.rpy:52
 translate french brandi12_95c84e9c:
@@ -154,7 +154,7 @@ translate french brandi12_c1cf1376:
 translate french brandi12_f13872c2:
 
     # fd "You might have noticed, but I'm very orally focused."
-    fd "Tu l'as peut-être remarqué, mais je suis très axée sur le contact oral."
+    fd "T'as peut-être remarqué, mais je suis très axée bouche."
 
 # game/Scenes/Brandi/brandi12.rpy:57
 translate french brandi12_b2877d84:
@@ -172,13 +172,13 @@ translate french brandi12_db0397dd:
 translate french brandi12_8895d4f8:
 
     # fd "Keep fucking me!"
-    fd "Continue à me baiser !"
+    fd "Continue de me baiser !"
 
 # game/Scenes/Brandi/brandi12.rpy:64
 translate french brandi12_5128099e:
 
     # fd "Keep kissing me!"
-    fd "Continue à m'embrasser !"
+    fd "Continue de m'embrasser !"
 
 # game/Scenes/Brandi/brandi12.rpy:65
 translate french brandi12_760dcbb0:
@@ -238,7 +238,7 @@ translate french brandi12_66d4adf1:
 translate french brandi12_33ac98c4:
 
     # fd "Oh gods, yes."
-    fd "Oh mon Dieu, oui."
+    fd "Oh mon dieu, oui."
 
 # game/Scenes/Brandi/brandi12.rpy:87
 translate french brandi12_525b7ba2:
@@ -256,7 +256,7 @@ translate french brandi12_e6780889:
 translate french brandi12_0b4a50d7:
 
     # "She slides down and takes my still-sensitive cock gently into her mouth, her fingers tracing lines along my balls."
-    "Elle glisse vers le bas et prend ma bite encore sensible doucement dans sa bouche, ses doigts traçant des lignes le long de mes couilles."
+    "Elle descend et prend ma bite encore sensible doucement dans sa bouche, ses doigts traçant des lignes le long de mes couilles."
 
 # game/Scenes/Brandi/brandi12.rpy:92
 translate french brandi12_7777225f:
@@ -274,7 +274,7 @@ translate french brandi12_0f8b8b53:
 translate french brandi12_a3e4511b:
 
     # fd "You're staying the night, right?"
-    fd "Tu restes dormir, n'est-ce pas ?"
+    fd "Tu restes dormir, hein ?"
 
 # game/Scenes/Brandi/brandi12.rpy:97
 translate french brandi12_3e636157:
@@ -298,7 +298,7 @@ translate french brandi12_b9e3e017:
 translate french brandi12_70f00998:
 
     # fd "I don't sleep with very many guys. And in the past, when I have, it hasn't really worked out afterwards."
-    fd "Je ne couche pas avec beaucoup de mecs. Et dans le passé, quand je l'ai fait, ça n'a pas vraiment marché après."
+    fd "Je ne couche pas avec beaucoup de mecs. Et dans le passé, quand je l'ai fait, ça marchait pas vraiment après."
 
 # game/Scenes/Brandi/brandi12.rpy:103
 translate french brandi12_9d43ddfc:
@@ -322,13 +322,13 @@ translate french brandi12_03eaad50:
 translate french brandi12_b347fece:
 
     # "We lie there cuddling, talking occasionally about small things, until we both drift off to sleep together."
-    "On reste allongés là, blottis l'un contre l'autre, à parler de temps en temps de petites choses, jusqu'à ce qu'on s'endorme tous les deux ensemble."
+    "On reste allongés là, blottis l'un contre l'autre, à parler de choses et d'autres, jusqu'à ce qu'on s'endorme tous les deux ensemble."
 
 # game/Scenes/Brandi/brandi12.rpy:112
 translate french brandi12_36dfa9a2:
 
     # "I sleep through the night. Her bed is soft and her even softer body against me is comforting."
-    "Je dors toute la nuit. Son lit est moelleux et son corps, encore plus doux contre moi, est réconfortant."
+    "Je dors toute la nuit. Son lit est moelleux, et son corps encore plus."
 
 # game/Scenes/Brandi/brandi12.rpy:116
 translate french brandi12_19c1cb85:
@@ -352,19 +352,19 @@ translate french brandi12_fe0bdf4c:
 translate french brandi12_3c3de792:
 
     # fd "Oh {i}HELLO{/i} there. All awake I see, haha!"
-    fd "Oh {i}BONJOUR{/i} ! Tout à fait réveillé, je vois, haha !"
+    fd "Oh {i}SALUT{/i} ! Tout à fait réveillé, je vois, haha !"
 
 # game/Scenes/Brandi/brandi12.rpy:122
 translate french brandi12_ee9bb13a:
 
     # pc "Ha, yeah. Guess I should put some clothes on."
-    pc "Ha, ouais. Je devrais sûrement m’habiller."
+    pc "Ha, ouais. Faudrait que je mette quelques vêtements."
 
 # game/Scenes/Brandi/brandi12.rpy:123
 translate french brandi12_968534ce:
 
     # fd "No need. I didn't."
-    fd "Pas besoin. Je ne l’ai pas fait."
+    fd "Pas besoin. J'en ai pas mis."
 
 # game/Scenes/Brandi/brandi12.rpy:124
 translate french brandi12_08804f49:
@@ -460,7 +460,7 @@ translate french brandi12_d5c0e86c:
 translate french brandi12_048aede8:
 
     # fd "French press."
-    fd "Une cafetière à piston."
+    fd "Cafetière à piston."
 
 # game/Scenes/Brandi/brandi12.rpy:150
 translate french brandi12_83df1d17:
@@ -490,7 +490,7 @@ translate french brandi12_50c81b8e:
 translate french brandi12_6ab44879:
 
     # fd "Yeah, give it to me."
-    fd "Oui, donne-le-moi."
+    fd "Oui, vas-y, je le prends."
 
 # game/Scenes/Brandi/brandi12.rpy:159
 translate french brandi12_efe5e9cc:
@@ -532,13 +532,13 @@ translate french brandi12_ad6d7aa2:
 translate french brandi12_04da012d:
 
     # pc "Goddamn, Brandi. That was incredible. What did I do to deserve this? I feel like a king right now."
-    pc "Bon sang, Brandi. C’était incroyable. Qu’est-ce que j’ai fait pour mériter ça ? Je me sens comme un roi en ce moment."
+    pc "Bon sang, Brandi. C’était incroyable. Qu’est-ce que j’ai fait pour mériter ça ? J'ai l'impression d'être un roi."
 
 # game/Scenes/Brandi/brandi12.rpy:170
 translate french brandi12_f57e116f:
 
     # fd "Baby, if you keep treating me like a queen, I'll keep treating you like a king."
-    fd "Bébé, si tu continues à me traiter comme une reine, je continuerai à te traiter comme un roi."
+    fd "Bébé, continue à me traiter comme une reine, je continuerai à te traiter comme un roi."
 
 # game/Scenes/Brandi/brandi12.rpy:171
 translate french brandi12_dacbd80e:
@@ -562,7 +562,7 @@ translate french brandi12_a2069694:
 translate french brandi12_cd97ba55:
 
     # fd "As much as I'd love to just spend all day in bed with you, I have things I have to get done today."
-    fd "Même si j'adorerais passer toute la journée au lit avec toi, j'ai des choses à faire aujourd'hui."
+    fd "Même si j'adorerais qu'on passe toute la journée au lit, j'ai des choses à faire aujourd'hui."
 
 # game/Scenes/Brandi/brandi12.rpy:179
 translate french brandi12_c7cef681:
@@ -574,13 +574,13 @@ translate french brandi12_c7cef681:
 translate french brandi12_414292d9:
 
     # fd "Last night was fantastic though. I'm looking forward to doing it again soon."
-    fd "Mais la nuit dernière était fantastique. J'ai hâte de recommencer bientôt."
+    fd "Mais la nuit dernière était fantastique. J'ai hâte qu'on remette ça."
 
 # game/Scenes/Brandi/brandi12.rpy:181
 translate french brandi12_319510b7:
 
     # pc "We definitely will."
-    pc "On le fera sans aucun doute."
+    pc "On le fera, sans aucun doute."
 
 # game/Scenes/Brandi/brandi12.rpy:182
 translate french brandi12_ffbab366:
