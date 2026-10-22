@@ -34,25 +34,25 @@ translate french brandi16a_61f77a4c:
 translate french brandi16a_915640c3:
 
     # fd "Well... I've been thinking about this a lot, and now that I don't have to follow the rules on Kitch, I think I'm going to go for it."
-    fd "Eh bien... J'y ai beaucoup réfléchi, et maintenant que je n'ai plus à suivre les règles de Kitch, je pense que je vais me lancer."
+    fd "Bon... J'y ai beaucoup réfléchi, et maintenant que je n'ai plus à suivre les règles de Kitch, je pense que je vais me lancer."
 
 # game/Scenes/Brandi/brandi16.rpy:28
 translate french brandi16a_9299b2ca:
 
     # fd "I made so much money the other night when I accidentally streamed us having sex."
-    fd "J'ai gagné tellement d'argent l'autre soir quand j'ai accidentellement diffusé en direct nos ébats."
+    fd "J'ai gagné tellement d'argent l'autre soir quand j'ai accidentellement diffusé nos ébats en direct."
 
 # game/Scenes/Brandi/brandi16.rpy:30
 translate french brandi16a_4faefb9d:
 
     # fd "I can't help but imagine how much I'd make if I did it on purpose, with good camera angles and advertising and stuff."
-    fd "Je ne peux m'empêcher d'imaginer combien je gagnerais si je le faisais exprès, avec de bons angles de caméra, de la pub et tout ça."
+    fd "J'arrête pas d'imaginer combien je gagnerais si je le faisais exprès, avec de bons angles de caméra, de la pub et tout ça."
 
 # game/Scenes/Brandi/brandi16.rpy:32
 translate french brandi16a_cc464637:
 
     # fd "So, I want to start streaming more sexual content."
-    fd "Du coup, je veux commencer à diffuser plus de contenu sexuel."
+    fd "Du coup, je veux commencer à diffuser du contenu plus sexuel."
 
 # game/Scenes/Brandi/brandi16.rpy:34
 translate french brandi16a_08ab6049:
@@ -76,7 +76,7 @@ translate french brandi16a_03b87755:
 translate french brandi16a_932bf910:
 
     # fd "I was really hoping that you would be okay with it."
-    fd "J'espérais vraiment que ça ne te dérangerait pas."
+    fd "J'espérais vraiment que ça te dérangerait pas."
 
 # game/Scenes/Brandi/brandi16.rpy:42
 translate french brandi16a_36051e44:
@@ -250,7 +250,7 @@ translate french brandi16uncomfortable_7b65be44:
 translate french brandi16uncomfortable_d693640a:
 
     # fd "Thanks for being cool about this. I think it's going to end up being a very good thing."
-    fd "Merci d'être cool à ce sujet. Je pense que ça va finir par être une très bonne chose."
+    fd "Merci d'être cool pour ça. Je pense que ça va finir par être un truc très très bien."
 
 # game/Scenes/Brandi/brandi16.rpy:107
 translate french brandi16uncomfortable_018464d2:
@@ -424,13 +424,13 @@ translate french brandi16_f267e51b:
 translate french brandi16_ccb60dc4:
 
     # fd "I mean, I got pants on, but nothing up top."
-    fd "Je veux dire, j'ai un pantalon, mais rien en haut."
+    fd "Oh, j'ai un pantalon, mais rien en haut."
 
 # game/Scenes/Brandi/brandi16.rpy:181
 translate french brandi16_e493be3f:
 
     # fd "I'm free from rules now. I can wear as little as I want!"
-    fd "Je suis libérée des règles maintenant. Je peux porter aussi peu que je veux !"
+    fd "Je suis libérée des règles maintenant. Je peux porter, ou ne pas porter, ce que je veux !"
 
 # game/Scenes/Brandi/brandi16.rpy:182
 translate french brandi16_71133ecc:
@@ -568,7 +568,7 @@ translate french brandi16_43074f33:
 translate french brandi16_53451771:
 
     # fd "Okay, let's start getting a little naughty."
-    fd "Bon, on va commencer à être un peu coquines."
+    fd "Bon, on va commencer à être un peu coquins."
 
 # game/Scenes/Brandi/brandi16.rpy:215
 translate french brandi16_ea67e95f:
@@ -580,13 +580,13 @@ translate french brandi16_ea67e95f:
 translate french brandi16_94996696:
 
     # fd "I know a lot of you watched my streams on Kitch, just hoping that one of these boobs would pop out."
-    fd "Je sais que beaucoup d'entre vous ont regardé mes streams sur Kitch, en espérant juste que l'un de ces seins finisse par sortir."
+    fd "Je sais que beaucoup d'entre vous ont regardé mes streams sur Kitch, rien que pour espérer voir l'un de ces seins sortir."
 
 # game/Scenes/Brandi/brandi16.rpy:217
 translate french brandi16_70009350:
 
     # fd "I flirted and teased a lot on there, but on my own site now, I can give you exactly what you want."
-    fd "J'ai beaucoup flirté et taquiné là-bas, mais maintenant, sur mon propre site, je peux vous donner exactement ce que vous voulez."
+    fd "J'ai beaucoup flirté et taquiné sur Kitch, mais maintenant, sur mon propre site, je peux vous donner exactement ce que vous voulez."
 
 # game/Scenes/Brandi/brandi16.rpy:220
 translate french brandi16_2dea418e:
@@ -646,7 +646,7 @@ translate french brandi16_a27987bc:
 translate french brandi16_98b8de38:
 
     # fd "I don't blame you. They're pretty great."
-    fd "Je vous comprends. Ils sont plutôt géniaux."
+    fd "Je vous comprends. Ils sont pas mal du tout."
 
 # game/Scenes/Brandi/brandi16.rpy:232
 translate french brandi16_f755c347:
@@ -664,7 +664,7 @@ translate french brandi16_f40c5a51:
 translate french brandi16_533a550e:
 
     # fd "My nipples are so sensitive. Sometimes, just somebody sucking on my nipples can make me cum."
-    fd "Mes tétons sont tellement sensibles. Parfois, le simple fait que quelqu’un me suce les tétons peut me faire jouir."
+    fd "Mes tétons sont tellement sensibles. Parfois, je jouis juste parce qu'on me les suce."
 
 # game/Scenes/Brandi/brandi16.rpy:237
 translate french brandi16_54a65268:
@@ -688,7 +688,7 @@ translate french brandi16_ea7db9e5:
 translate french brandi16_6dc142be:
 
     # fd "You notice how as soon as I charge anything, even a tiny $2 fee, all the negativity in the chatroom is just gone?"
-    fd "Tu remarques que dès que je fais payer quoi que ce soit, même un tout petit montant de 2 $, toute la négativité dans le chat disparaît d’un coup ?"
+    fd "Vous avez remarqué ? Dès que je fais payer quoi que ce soit, même deux misérbales dollars, toute la négativité dans le chat disparaît d’un coup ?"
 
 # game/Scenes/Brandi/brandi16.rpy:243
 translate french brandi16_004c106a:
@@ -778,7 +778,7 @@ translate french brandi16_2bb4d7be:
 translate french brandi16_eb9f7e50:
 
     # fd "Oh, and thorough."
-    fd "Oh, et en profondeur."
+    fd "Oh, et méticuleux."
 
 # game/Scenes/Brandi/brandi16.rpy:266
 translate french brandi16_a9394658:
@@ -820,7 +820,7 @@ translate french brandi16_f7569f27:
 translate french brandi16_c7b09aa0:
 
     # fd "And I promise that Brandi Swallows is not just a silly name. I'm going to get my dessert."
-    fd "Et je vous promets que Brandi Swallows n'est pas juste un nom ridicule. Je vais avoir mon dessert."
+    fd "Et je vous promets que Brandi Swallows n'est pas juste un pseudo ridicule. Je vais avoir mon dessert."
 
 # game/Scenes/Brandi/brandi16.rpy:275
 translate french brandi16_102ff2fc:
@@ -838,7 +838,7 @@ translate french brandi16_3db482fa:
 translate french brandi16_6c4afd3a:
 
     # fd "He's getting so hard, guys."
-    fd "Il bande de plus en plus, les gars."
+    fd "Il bande de plus en plus, les gens."
 
 # game/Scenes/Brandi/brandi16.rpy:280
 translate french brandi16_e1ae7545:
@@ -928,7 +928,7 @@ translate french brandi16_8654f70d:
 translate french brandi16_a47867d1:
 
     # fd "Can't forget the balls either."
-    fd "Je ne peux pas oublier les couilles non plus."
+    fd "Et bien sûr, on n'oublie pas les couilles."
 
 # game/Scenes/Brandi/brandi16.rpy:301
 translate french brandi16_d918e8e2:
@@ -994,7 +994,7 @@ translate french brandi16_03fe4231:
 translate french brandi16_711d1a56:
 
     # pc "Fuuuck..."
-    pc "Putain..."
+    pc "Puuutaaaain..."
 
 # game/Scenes/Brandi/brandi16.rpy:323
 translate french brandi16_73173fb8:
@@ -1300,7 +1300,7 @@ translate french brandi16_9eba2f3d:
 translate french brandi16_b5b2c907:
 
     # pc "Sounds good to me. It was fun and I could definitely use the money."
-    pc "Ça me va. C'était sympa et j'ai vraiment besoin de l'argent."
+    pc "Ça me va. C'était sympa et j'ai bien besoin de l'argent."
 
 # game/Scenes/Brandi/brandi16.rpy:418
 translate french brandi16_3f37ddf0:
@@ -1360,7 +1360,7 @@ translate french strings:
 
     # game/Scenes/Brandi/brandi16.rpy:47
     old "I don't think I want to be on camera"
-    new "Je ne pense pas vouloir passer devant la caméra"
+    new "Je n'ai pas trop envie de passer devant la caméra"
 
     # game/Scenes/Brandi/brandi16.rpy:49
     old "I'm not comfortable with it"
