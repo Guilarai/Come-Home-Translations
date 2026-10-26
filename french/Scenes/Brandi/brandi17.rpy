@@ -22,7 +22,7 @@ translate french brandi17_5281a818:
 translate french brandi17_049e33fc:
 
     # fd "I thought about doing another cam show with you tonight? Think you might be interested?"
-    fd "Je pensais refaire un show en webcam avec toi ce soir. Ça te dirait ?"
+    fd "Je pensais refaire un show avec toi ce soir. Ça te dirait ?"
 
 # game/Scenes/Brandi/brandi17.rpy:23
 translate french brandi17_02fc6643:
@@ -52,7 +52,7 @@ translate french brandi17_7a6e4bc1:
 translate french brandi17_444a7dd7:
 
     # fd "You know it."
-    fd "Tu le sais bien."
+    fd "Tu l'as dit."
 
 # game/Scenes/Brandi/brandi17.rpy:29
 translate french brandi17_733bee01:
@@ -76,31 +76,31 @@ translate french brandi17_65ff043a:
 translate french brandi17_814ea28a:
 
     # "We hang up and I get ready, then drive over to her apartment."
-    "On raccroche, je me prépare, puis je prends la route pour me rendre à son appartement."
+    "On raccroche, je me prépare, et je me rends à son appartement."
 
 # game/Scenes/Brandi/brandi17.rpy:39
 translate french brandi17_46e03a51:
 
     # pc "Wow, already getting started, huh?"
-    pc "Wow, tu t'y mets déjà, hein ?"
+    pc "Oh, je vois que tu as pris de l'avance ?"
 
 # game/Scenes/Brandi/brandi17.rpy:40
 translate french brandi17_37ac21d3:
 
     # fd "Yeah, the show has been going good so far."
-    fd "Ouais, le show se passe bien jusqu'à présent."
+    fd "Ouais, le show se passe très bien."
 
 # game/Scenes/Brandi/brandi17.rpy:41
 translate french brandi17_dcadf8b5:
 
     # fd "Definitely better with you here though."
-    fd "Mais c'est nettement mieux avec toi ici."
+    fd "Mais ce sera nettement mieux maintenant que t'es là."
 
 # game/Scenes/Brandi/brandi17.rpy:44
 translate french brandi17_77cf5f2b:
 
     # fd "I was just finishing up dinner. Are you hungry?"
-    fd "Je finissais juste de préparer le dîner. T'as faim ?"
+    fd "Je finissais de préparer le dîner. T'as faim ?"
 
 # game/Scenes/Brandi/brandi17.rpy:45
 translate french brandi17_ad853a3e:
@@ -112,7 +112,7 @@ translate french brandi17_ad853a3e:
 translate french brandi17_7a833a28:
 
     # pc "Should I take my top off too? I feel a little overdressed."
-    pc "Je devrais enlever mon haut aussi ? Je me sens un peu trop habillée."
+    pc "J'enlève aussi mon haut ? Je me sens un peu trop habillé."
 
 # game/Scenes/Brandi/brandi17.rpy:47
 translate french brandi17_92f8fe6d:
@@ -130,13 +130,13 @@ translate french brandi17_38d222c0:
 translate french brandi17_67c91b16:
 
     # fd "Yeah? I'm glad you like it."
-    fd "Ah oui ? Je suis contente que ça te plaise."
+    fd "Ah oui ? Ça me fait plaisir que tu aimes."
 
 # game/Scenes/Brandi/brandi17.rpy:52
 translate french brandi17_6dd2265c:
 
     # pc "Chat, if you can get you a girl who cooks you dinner with her tits out, you have to jump on that."
-    pc "Les gars, si vous pouvez vous trouver une fille qui vous prépare à dîner les seins à l'air, vous devez sauter sur l'occasion."
+    pc "Les gars, si vous pouvez vous trouver une fille qui vous prépare à dîner les seins à l'air, sautez sur l'occasion."
 
 # game/Scenes/Brandi/brandi17.rpy:53
 translate french brandi17_997a9899:
@@ -154,7 +154,7 @@ translate french brandi17_12694e9e:
 translate french brandi17_e2e8ee61:
 
     # fd "Haha, not too fast. You don't want to get sick tonight, I promise."
-    fd "Haha, pas trop vite. Tu ne veux pas être malade ce soir, je te le promets."
+    fd "Haha, pas trop vite. Crois-moi, il vaut mieux pas que tu sois malade ce soir."
 
 # game/Scenes/Brandi/brandi17.rpy:58
 translate french brandi17_b14ca248:
@@ -166,19 +166,19 @@ translate french brandi17_b14ca248:
 translate french brandi17_cf58bbb1:
 
     # fd "I know a few of you have been asking to see this, so I'm going to tittyfuck him tonight."
-    fd "Je sais que certains d’entre vous ont demandé à voir ça, alors je vais lui faire une branlette espagnole ce soir."
+    fd "Je sais que plusieurs d’entre vous ont demandé à le voir, alors ce soir : branlette espagnole."
 
 # game/Scenes/Brandi/brandi17.rpy:60
 translate french brandi17_58957f86:
 
     # fd "We've actually never done this before."
-    fd "En fait, on n’a jamais fait ça avant."
+    fd "En fait, on n'en avait jamais fait."
 
 # game/Scenes/Brandi/brandi17.rpy:61
 translate french brandi17_76d563d0:
 
     # pc "We haven't?"
-    pc "Ah bon ?"
+    pc "Ah non ?"
 
 # game/Scenes/Brandi/brandi17.rpy:62
 translate french brandi17_9f800b4f:
@@ -190,13 +190,13 @@ translate french brandi17_9f800b4f:
 translate french brandi17_e774913e:
 
     # fd "Here, let's move the camera so the audience can get a better view."
-    fd "Tiens, on va déplacer la caméra pour que les spectateurs aient une meilleure vue."
+    fd "Allez, on déplace la caméra, que les spectateurs aient une meilleure vue..."
 
 # game/Scenes/Brandi/brandi17.rpy:66
 translate french brandi17_3604abdc:
 
     # fd "Make your donations if you want to watch, guys."
-    fd "Faites vos dons si vous voulez regarder, les gars."
+    fd "Faites vos dons si vous voulez regarder, tout le monde."
 
 # game/Scenes/Brandi/brandi17.rpy:67
 translate french brandi17_75b894d8:
@@ -226,13 +226,13 @@ translate french brandi17_9ea28238:
 translate french brandi17_7f0c70cb:
 
     # fd "Mmm... it looks so delicious every time I see it."
-    fd "Mmm... elle a l'air si délicieuse à chaque fois que je la vois."
+    fd "Mmm... chaque fois que je la vois, elle a l'air délicieuse."
 
 # game/Scenes/Brandi/brandi17.rpy:74
 translate french brandi17_66aa6852:
 
     # fd "Don't you guys want to see this thing sliding between my tits?"
-    fd "Vous ne voulez pas voir ce truc glisser entre mes seins ?"
+    fd "Vous voulez voir ce truc glisser entre mes seins, pas vrai ?"
 
 # game/Scenes/Brandi/brandi17.rpy:75
 translate french brandi17_69253fe6:
@@ -262,7 +262,7 @@ translate french brandi17_dd8a4902:
 translate french brandi17_598b7da6:
 
     # "I feel my cock harden in her mouth, but she doesn't pull back."
-    "Je sens ma bite durcir dans sa bouche, mais elle ne se recule pas."
+    "Je sens ma bite durcir dans sa bouche, mais elle ne se retire pas."
 
 # game/Scenes/Brandi/brandi17.rpy:82
 translate french brandi17_fad976a8:
@@ -280,13 +280,13 @@ translate french brandi17_8b1234c0:
 translate french brandi17_d5154e2b:
 
     # fd "Fuck, that feels good. I can't believe we've never done this before."
-    fd "Putain, ça fait du bien. Je n’arrive pas à croire qu’on n’ait jamais fait ça avant."
+    fd "Putain, ça fait du bien. J’arrive pas à croire qu’on ait jamais fait ça."
 
 # game/Scenes/Brandi/brandi17.rpy:87
 translate french brandi17_8959630e:
 
     # fd "Seriously guys, we've had sex several times, but he's never fucked my tits."
-    fd "Sérieusement les gars, on a couché ensemble plusieurs fois, mais il ne m'a jamais baisé les seins."
+    fd "Sérieux, on a couché ensemble plusieurs fois, mais il ne m'a jamais baisé les seins."
 
 # game/Scenes/Brandi/brandi17.rpy:88
 translate french brandi17_b76eae06:
@@ -298,13 +298,13 @@ translate french brandi17_b76eae06:
 translate french brandi17_353ccc6a:
 
     # "She strokes my cock up and down between her soft tits."
-    "Elle caresse ma bite de haut en bas entre ses seins doux."
+    "Elle caresse ma bite de haut en bas entre ses doux seins."
 
 # game/Scenes/Brandi/brandi17.rpy:91
 translate french brandi17_c62fb73f:
 
     # fd "Does it feel good, baby?"
-    fd "Ça te fait du bien, bébé ?"
+    fd "C'est bon, bébé ?"
 
 # game/Scenes/Brandi/brandi17.rpy:92
 translate french brandi17_408aa59e:
@@ -316,7 +316,7 @@ translate french brandi17_408aa59e:
 translate french brandi17_e544812e:
 
     # fd "I love when it pokes up through the top."
-    fd "J'adore quand ça dépasse du haut."
+    fd "J'adore quand elle dépasse."
 
 # game/Scenes/Brandi/brandi17.rpy:94
 translate french brandi17_30764fb7:
@@ -328,19 +328,19 @@ translate french brandi17_30764fb7:
 translate french brandi17_c79251a0:
 
     # fd "Ugh, this is turning me on so much."
-    fd "Ugh, ça m'excite tellement."
+    fd "Aah, ça m'excite tellement."
 
 # game/Scenes/Brandi/brandi17.rpy:96
 translate french brandi17_ac7ff848:
 
     # fd "I could probably cum like this, but I kind of want it in my pussy just a little."
-    fd "Je pourrais probablement jouir comme ça, mais j’ai un peu envie de le sentir dans ma chatte."
+    fd "Je pourrais sûrement jouir comme ça, mais j’ai un peu envie de le sentir dans ma chatte."
 
 # game/Scenes/Brandi/brandi17.rpy:99
 translate french brandi17_8e9de0d9:
 
     # fd "You guys are lucky. I won't even charge any more for this."
-    fd "Vous avez de la chance, les gars. Je ne vous ferai même pas payer de supplément pour ça."
+    fd "Vous avez de la chance. Je ne vous ferai même pas payer de supplément pour ça."
 
 # game/Scenes/Brandi/brandi17.rpy:100
 translate french brandi17_4bad0a89:
@@ -364,7 +364,7 @@ translate french brandi17_0ee819a0:
 translate french brandi17_eb697669:
 
     # fd "It's not going to take me long at all."
-    fd "Ça ne va pas me prendre longtemps du tout."
+    fd "Je vais vraiment pas tenir longtemps."
 
 # game/Scenes/Brandi/brandi17.rpy:105
 translate french brandi17_d44abcba:
@@ -406,7 +406,7 @@ translate french brandi17_54c648cf:
 translate french brandi17_5786146a:
 
     # pc "It's not going to take much longer."
-    pc "Ça ne va pas prendre beaucoup plus de temps."
+    pc "Il faudra pas beaucoup plus de temps."
 
 # game/Scenes/Brandi/brandi17.rpy:116
 translate french brandi17_7431b6d7:
@@ -430,13 +430,13 @@ translate french brandi17_c816652c:
 translate french brandi17_c75a3308:
 
     # fd "Oh yeah, baby. Get it all out."
-    fd "Oh oui, bébé. Videz-vous complètement."
+    fd "Oh oui, bébé. Vide-toi bien."
 
 # game/Scenes/Brandi/brandi17.rpy:122
 translate french brandi17_61b64095:
 
     # fd "I love how warm it is on my skin."
-    fd "J'adore la chaleur que ça me procure sur la peau."
+    fd "J'adore la chaleur que ça me fait sur la peau."
 
 # game/Scenes/Brandi/brandi17.rpy:123
 translate french brandi17_79d55732:
@@ -508,7 +508,7 @@ translate french brandi17_9af20edf:
 translate french brandi17_87216dc2:
 
     # pc "Maybe give me like five minutes?"
-    pc "Tu peux peut-être me donner genre cinq minutes ?"
+    pc "Hmmm... donne-moi cinq minutes ?"
 
 # game/Scenes/Brandi/brandi17.rpy:144
 translate french brandi17_5bb0faf8:
