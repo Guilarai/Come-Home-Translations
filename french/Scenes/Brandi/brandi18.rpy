@@ -64,7 +64,7 @@ translate french brandi18_d41d8cd9_2:
 translate french brandi18_56d1ac21:
 
     # fd "I've never done anal before. Well except with toys and stuff."
-    fd "Je n'ai jamais fait de sodomie avant. Enfin, sauf avec des jouets et tout ça."
+    fd "J'ai jamais fait d'anal. Enfin, sauf avec des jouets et tout ça."
 
 # game/Scenes/Brandi/brandi18.rpy:39
 translate french brandi18_d41d8cd9_3:
@@ -118,7 +118,7 @@ translate french brandi18_3ea56295:
 translate french brandi18_5ff418f7:
 
     # fd "Oh okay. I guess it doesn't have to be. I just kind of wanted it to be."
-    fd "Oh d'accord. Je suppose que ce n'est pas obligatoire. C'est juste que j'avais envie que ce soit le cas."
+    fd "Oh d'accord. Je suppose que ce n'est pas obligatoire. C'est juste que j'en avais envie."
 
 # game/Scenes/Brandi/brandi18.rpy:59
 translate french brandi18_1f8dd1ab:
@@ -148,7 +148,7 @@ translate french brandi18_03b87755:
 translate french brandi18_65af3171:
 
     # fd "Okay... well... do you want to come over and do it now?"
-    fd "D'accord... eh bien... tu veux venir chez moi pour le faire maintenant ?"
+    fd "Bon... alors... tu veux venir chez moi pour le faire maintenant ?"
 
 # game/Scenes/Brandi/brandi18.rpy:70
 translate french brandi18_cc85b2b6:
@@ -250,7 +250,7 @@ translate french brandi18_937e153c:
 translate french brandi18show_e6c10736:
 
     # "Once we go to the bedroom and get set up, she starts the camera and turns on her streamer voice."
-    "Une fois qu'on est allés dans la chambre et qu'on s'est installés, elle allume la caméra et met sa voix de streamer."
+    "Une fois qu'on est allés dans la chambre et qu'on s'est installés, elle allume la caméra et prend sa voix de streameuse."
 
 # game/Scenes/Brandi/brandi18.rpy:102
 translate french brandi18show_d41d8cd9:
@@ -262,7 +262,7 @@ translate french brandi18show_d41d8cd9:
 translate french brandi18show_49646517:
 
     # fd "Hey everybody, welcome back my boyfriend, [pcname]."
-    fd "Salut tout le monde, bienvenue à mon copain, [pcname]."
+    fd "Salut tout le monde, une ola pour mon copain, [pcname]."
 
 # game/Scenes/Brandi/brandi18.rpy:105
 translate french brandi18show_d41d8cd9_1:
@@ -310,7 +310,7 @@ translate french brandi18show_d41d8cd9_4:
 translate french brandi18show_d97bd35a:
 
     # fd "That's right, I'll be taking that big cock of his up my ass."
-    fd "C’est ça, je vais prendre sa grosse bite dans le cul."
+    fd "Hé oui, je vais prendre sa grosse bite dans le cul."
 
 # game/Scenes/Brandi/brandi18.rpy:119
 translate french brandi18show_d41d8cd9_5:
@@ -346,7 +346,7 @@ translate french brandi18show_d3f3f5c7:
 translate french brandi18show_3d2257e1:
 
     # fd "Let me just get it here..."
-    fd "Je vais juste le chercher…"
+    fd "Il faut juste que je l'attrape…"
 
 # game/Scenes/Brandi/brandi18.rpy:130
 translate french brandi18show_8347c841:
@@ -358,37 +358,37 @@ translate french brandi18show_8347c841:
 translate french brandi18show_ed0c5a03:
 
     # fd "Wait, stop! No freebies! Gotta wait til the show starts."
-    fd "Attends, arrête ! Pas de cadeaux ! Il faut attendre que le show commence."
+    fd "Attends, arrête ! Pas de cadeaux à la caméra ! Il faut attendre que le show commence."
 
 # game/Scenes/Brandi/brandi18.rpy:134
 translate french brandi18show_13ca4c98:
 
     # fd "I bought this camera for you to hold, so we can give the viewers a different angle."
-    fd "J'ai acheté cette caméra pour que tu la tiennes, comme ça on pourra offrir un angle différent aux spectateurs."
+    fd "J'ai acheté cette caméra pour que tu la tiennes, que les spectateurs aient un angle différent."
 
 # game/Scenes/Brandi/brandi18.rpy:135
 translate french brandi18show_03379efe:
 
     # fd "I know some people like the POV stuff. Hard to get a good angle with a laptop sometimes."
-    fd "Je sais que certains aiment les vidéos en POV. C'est parfois difficile d'avoir un bon angle avec un ordinateur portable."
+    fd "Je sais que certains aiment les vidéos en POV. C'est parfois difficile d'avoir un bon angle avec un ordi portable."
 
 # game/Scenes/Brandi/brandi18.rpy:136
 translate french brandi18show_943a9315:
 
     # fd "Turn it on and try it out."
-    fd "Allume-la et essaie-la."
+    fd "Allume-la et essaie."
 
 # game/Scenes/Brandi/brandi18.rpy:139
 translate french brandi18show_439f1be5:
 
     # pc "Yeah, it seems like it works pretty well to me."
-    pc "Ouais, ça a l'air de bien marcher."
+    pc "Elle a l'air de bien marcher."
 
 # game/Scenes/Brandi/brandi18.rpy:140
 translate french brandi18show_e7aecf90:
 
     # fd "Alright, buster. We obviously need to get to the paid show."
-    fd "Bon, mon pote. Il faut clairement qu'on passe au show payant."
+    fd "Allez, l'étalon. Il faut temps de passer au show payant."
 
 # game/Scenes/Brandi/brandi18.rpy:141
 translate french brandi18show_9537aa90:
@@ -400,19 +400,19 @@ translate french brandi18show_9537aa90:
 translate french brandi18show_ace3f30a:
 
     # fd "I don't want to be bloated or have any accidents during my first anal experience, you know?"
-    fd "Je ne veux pas être ballonnée ni avoir d’accident pendant ma première expérience anale, tu vois ?"
+    fd "Je ne veux pas être ballonnée ni avoir d’accident pendant ma première expérience anale."
 
 # game/Scenes/Brandi/brandi18.rpy:145
 translate french brandi18show_b210df58:
 
     # fd "So get in now if you want to see the show. It's just going to be one payment today, because once we start, I don't want to stop."
-    fd "Alors connecte-toi tout de suite si tu veux voir le show. Ce sera un paiement unique aujourd’hui, parce qu’une fois qu’on aura commencé, je ne veux pas m’arrêter."
+    fd "Alors si vous voulez en être, c'est maintenant. Ce sera un paiement unique aujourd’hui, parce qu’une fois qu’on aura commencé, je veux pas m’arrêter."
 
 # game/Scenes/Brandi/brandi18.rpy:146
 translate french brandi18show_23f9f6c9:
 
     # fd "We're going all the way though. You will see his dick in my ass."
-    fd "On va aller jusqu’au bout. Tu verras sa bite dans mon cul."
+    fd "On va aller jusqu’au bout. Vous verrez sa bite dans mon cul."
 
 # game/Scenes/Brandi/brandi18.rpy:147
 translate french brandi18show_85617876:
@@ -436,7 +436,7 @@ translate french brandi18show_edc72683:
 translate french brandi18show_09e8c400:
 
     # fd "Alright, I'm starting the show now. Get in if you want to see any of this."
-    fd "Bon, je commence le show maintenant. Connectez-vous si vous voulez voir tout ça."
+    fd "Bon, je commence le show maintenant. Tippez si vous voulez voir tout ça."
 
 # game/Scenes/Brandi/brandi18.rpy:155
 translate french brandi18show_b6c1b324:
@@ -448,7 +448,7 @@ translate french brandi18show_b6c1b324:
 translate french brandi18show_edecdcac:
 
     # fd "Do you guys like this butt? I've always thought I had a pretty good butt."
-    fd "Vous aimez ce cul, les gars ? J'ai toujours pensé que j'avais un joli cul."
+    fd "Vous aimez ce cul ? J'ai toujours pensé que j'avais un joli petit cul."
 
 # game/Scenes/Brandi/brandi18.rpy:157
 translate french brandi18show_23d093b7:
@@ -472,7 +472,7 @@ translate french brandi18show_29ccbfe4:
 translate french brandi18show_04dccd40:
 
     # fd "Damn, I don't know how I'm going to get that thing inside of me. Look at how big it is! And it's not even fully hard yet!"
-    fd "Merde, je sais pas comment je vais faire pour que ce truc rentre en moi. Regarde comme il est gros ! Et il est même pas encore complètement dur !"
+    fd "Merde, je sais pas comment je vais faire pour que ce truc rentre en moi. Regardez comme il est gros ! Et il est même pas encore complètement dur !"
 
 # game/Scenes/Brandi/brandi18.rpy:163
 translate french brandi18show_4c164195:
@@ -502,7 +502,7 @@ translate french brandi18show_afc7aeef:
 translate french brandi18show_baadb68a:
 
     # "When I first touch her sensitive asshole, she puckers and gasps, the sudden suction in her mouth making my cock feel even more incredible."
-    "Quand je touche pour la première fois son petit trou sensible, elle se crispe et halète, la succion soudaine dans sa bouche rendant ma bite encore plus incroyable."
+    "Quand je touche pour la première fois son petit trou sensible, elle se crispe et halète, la succion soudaine dans sa bouche rendant la sensation encore plus incroyable."
 
 # game/Scenes/Brandi/brandi18.rpy:172
 translate french brandi18show_6fe167e9:
@@ -676,7 +676,7 @@ translate french brandi18show_c5847b6b:
 translate french brandi18show_76c96a3a:
 
     # fd "Yeah, baby. Thanks for checking on me. I'm good."
-    fd "Ouais, bébé. Merci de prendre de mes nouvelles. Je vais bien."
+    fd "Ouais, bébé. Merci de t'en assurer. Je vais bien."
 
 # game/Scenes/Brandi/brandi18.rpy:216
 translate french brandi18show_8a62a810:
@@ -784,7 +784,7 @@ translate french brandi18show_d41d8cd9_13:
 translate french brandi18show_4a6dd1c9:
 
     # fd "Oh gods, I'm cumming!"
-    fd "Oh mon Dieu, je jouis !"
+    fd "Oh mon dieu, je jouis !"
 
 # game/Scenes/Brandi/brandi18.rpy:248
 translate french brandi18show_d41d8cd9_14:
@@ -838,7 +838,7 @@ translate french brandi18show_9df70d55:
 translate french brandi18show_33e7a1b8:
 
     # fd "I bet I'm a mess back there."
-    fd "Je parie que je suis dans un état là-derrière."
+    fd "Je dois être dans un état là-derrière."
 
 # game/Scenes/Brandi/brandi18.rpy:264
 translate french brandi18show_d41d8cd9_17:
@@ -862,7 +862,7 @@ translate french brandi18show_d41d8cd9_18:
 translate french brandi18show_55a7595a:
 
     # fd "I thought it was amazing. Definitely the nastiest, sexiest thing I've ever done."
-    fd "J'ai trouvé ça incroyable. C'est sans aucun doute la chose la plus cochonne et la plus sexy que j'aie jamais faite."
+    fd "J'ai trouvé ça incroyable. C'est sans aucun doute la chose la plus cochonne et sexy que j'aie jamais faite."
 
 # game/Scenes/Brandi/brandi18.rpy:270
 translate french brandi18show_d41d8cd9_19:
@@ -1144,7 +1144,7 @@ translate french brandi18show_81d5391d:
 translate french brandi18show_c293af4d:
 
     # fd "I'm sure I won't be doing this kind of show forever, but it's nice to make that money while I can."
-    fd "Je suis sûre que je ne ferai pas ce genre de spectacle toute ma vie, mais c'est sympa de gagner cet argent tant que je le peux."
+    fd "Je suis sûre que je ne ferai pas ce genre de show toute ma vie, mais c'est sympa de gagner cet argent tant que je peux."
 
 # game/Scenes/Brandi/brandi18.rpy:346
 translate french brandi18show_9976ffff:
@@ -1192,7 +1192,7 @@ translate french brandi18show_35d12c84:
 translate french brandi18show_82cc84d4:
 
     # fd "Let's do this again soon. Any night you want."
-    fd "On recommence bientôt. N'importe quel soir, si tu veux."
+    fd "On refait ça vite. N'importe quel soir."
 
 # game/Scenes/Brandi/brandi18.rpy:361
 translate french brandi18show_9a12f6c6:
@@ -1246,7 +1246,7 @@ translate french brandioffcamanal_18edd385:
 translate french brandioffcamanal_bd11104a:
 
     # pc "Sure, that sounds fair."
-    pc "Bien sûr, ça me semble juste."
+    pc "Oui, ça me va."
 
 # game/Scenes/Brandi/brandi18.rpy:387
 translate french brandioffcamanal_4ef2eb8b:
@@ -1420,7 +1420,7 @@ translate french brandioffcamanal_770d4c99:
 translate french brandioffcamanal_996a1ea9:
 
     # "Meanwhile, she does a bunch of promotion stuff on her phone."
-    "Pendant ce temps, elle s'occupe de tout un tas de trucs de promo sur son téléphone."
+    "Pendant ce temps, elle fait la promotion sur son téléphone."
 
 # game/Scenes/Brandi/brandi18.rpy:430
 translate french brandioffcamanal_637ee62e:
@@ -1444,7 +1444,7 @@ translate french strings:
 
     # game/Scenes/Brandi/brandi18.rpy:45
     old "I'm not into anal"
-    new "Je ne suis pas fan de l'anal"
+    new "Je suis pas fan de l'anal"
 
     # game/Scenes/Brandi/brandi18.rpy:56
     old "I'd rather it not be on camera"
@@ -1456,5 +1456,5 @@ translate french strings:
 
     # game/Scenes/Brandi/brandi18.rpy:67
     old "I just want it to be just us"
-    new "Je veux juste que ce soit entre nous"
+    new "Je veux que ce soit juste entre nous"
 
