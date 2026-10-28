@@ -4,7 +4,7 @@
 translate french brandip3_451e8757:
 
     # fd "Oh man, I have no idea!"
-    fd "Oh là là, je n'en ai aucune idée !"
+    fd "Oh là là, j'en ai aucune idée !"
 
 # game/Scenes/Brandi/BrandiConversations/brandip3.rpy:14
 translate french brandip3_d9bfb51c:
@@ -22,7 +22,7 @@ translate french brandip3_33c088ff:
 translate french brandip3_89bb84ef:
 
     # fd "I've never really been good at much of anything except making people laugh."
-    fd "Je n'ai jamais vraiment été doué pour grand-chose, à part faire rire les gens."
+    fd "J'ai jamais vraiment été douée pour grand-chose, à part faire rire les gens."
 
 # game/Scenes/Brandi/BrandiConversations/brandip3.rpy:19
 translate french brandip3_979cf061:
@@ -40,13 +40,13 @@ translate french brandip3_9a74c397:
 translate french brandip3_6741fc82:
 
     # "Her Seinfeld impression isn't bad, actually."
-    "Son imitation de Seinfeld n'est pas mal, en fait."
+    "Oh, son imitation de Seinfeld est pas mal."
 
 # game/Scenes/Brandi/BrandiConversations/brandip3.rpy:23
 translate french brandip3_dc1f9b5d:
 
     # pc "Uh... I don't know. I guess it's pretty bad?"
-    pc "Euh... Je ne sais pas. Je suppose que c'est assez mauvais ?"
+    pc "Euh... Je ne sais pas. J'imagine qu'elle est pas bonne ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandip3.rpy:25
 translate french brandip3_050a707a:
@@ -58,13 +58,13 @@ translate french brandip3_050a707a:
 translate french brandip3_4e14c42b:
 
     # fd "I'm usually funnier than this, I promise."
-    fd "Je suis généralement plus drôle que ça, je te le promets."
+    fd "Je te jure, je suis plus drôle que ça d'habitude."
 
 # game/Scenes/Brandi/BrandiConversations/brandip3.rpy:29
 translate french brandip3_833e1f0c:
 
     # fd "Anyway, I kind of stumbled into this whole thing, but I can't really see myself doing anything else now."
-    fd "Bref, je suis tombée là-dedans un peu par hasard, mais je ne me vois pas vraiment faire autre chose maintenant."
+    fd "Bref, je suis tombée là-dedans un peu par hasard, mais maintenant je ne me vois plus faire autre chose."
 
 # game/Scenes/Brandi/BrandiConversations/brandip3.rpy:30
 translate french brandip3_a8b1b18a:
@@ -76,7 +76,7 @@ translate french brandip3_a8b1b18a:
 translate french brandip3_5f50f675:
 
     # fd "Honestly I just really love the attention too."
-    fd "Honnêtement, j’adore aussi vraiment l’attention que ça me porte."
+    fd "Mais honnêtement, j’adore aussi l’attention."
 
 # game/Scenes/Brandi/BrandiConversations/brandip3.rpy:33
 translate french brandip3_296b0824:
@@ -88,19 +88,19 @@ translate french brandip3_296b0824:
 translate french brandip3_496cc768:
 
     # fd "... but the community that hangs around and I talk to regularly is really nice and friendly and supportive."
-    fd "… mais la communauté qui traîne par là et à qui je parle régulièrement est vraiment sympa, amicale et encourageante."
+    fd "… mais les habitués, ils sont vraiment sympas, amicaux, encourageants."
 
 # game/Scenes/Brandi/BrandiConversations/brandip3.rpy:35
 translate french brandip3_5d77c744:
 
     # fd "It's cliché but true that I wouldn't be doing this if it weren't for them."
-    fd "C’est un cliché, mais c’est vrai que je ne ferais pas ça s’ils n’étaient pas là."
+    fd "C’est un cliché, mais c’est vrai que je ferais pas ça s’ils étaient pas là."
 
 # game/Scenes/Brandi/BrandiConversations/brandip3.rpy:36
 translate french brandip3_33fda46f:
 
     # fd "I don't even really know any of them, but I still love them."
-    fd "Je ne connais même pas vraiment aucun d’entre eux, mais je les adore quand même."
+    fd "En plus, je ne connais réellement aucun d’entre eux, mais je les adore quand même."
 
 # game/Scenes/Brandi/BrandiConversations/brandip3.rpy:37
 translate french brandip3_d10f6c20:
@@ -118,11 +118,11 @@ translate french brandip3_d99739c2:
 translate french brandip3_5dd765de:
 
     # fd "So I don't even want to think about what I'd be doing otherwise."
-    fd "Du coup, je ne veux même pas imaginer ce que je ferais sinon."
+    fd "Du coup, je veux même pas imaginer ce que je ferais sinon."
 
 # game/Scenes/Brandi/BrandiConversations/brandip3.rpy:41
 translate french brandip3_bf1ac0bb:
 
     # fd "It definitely wouldn't be as fun."
-    fd "Ce serait certainement pas aussi marrant."
+    fd "Ce serait sûrement pas aussi marrant."
 
