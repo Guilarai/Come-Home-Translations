@@ -4,7 +4,7 @@
 translate french brandip2_6e77a8cf:
 
     # fd "Oh yeah. Four of them. Two sisters and two brothers."
-    fd "Oh oui. Ils sont quatre. Deux sœurs et deux frères."
+    fd "Oh oui. J'en ai quatre. Deux sœurs et deux frères."
 
 # game/Scenes/Brandi/BrandiConversations/brandip2.rpy:14
 translate french brandip2_a197bf4a:
@@ -22,13 +22,13 @@ translate french brandip2_72a866b0:
 translate french brandip2_63b25528:
 
     # fd "Well, we don't see each other very often in person, but we keep in touch."
-    fd "Eh bien, on ne se voit pas très souvent en personne, mais on reste en contact."
+    fd "Ben, on ne se voit pas très souvent en personne, mais on reste en contact."
 
 # game/Scenes/Brandi/BrandiConversations/brandip2.rpy:18
 translate french brandip2_28bfe54c:
 
     # fd "We do facecam chats pretty often. With my mom and dad too."
-    fd "On discute assez souvent par webcam. Avec ma mère et mon père aussi."
+    fd "On discute assez souvent en visio. Avec ma mère et mon père aussi."
 
 # game/Scenes/Brandi/BrandiConversations/brandip2.rpy:20
 translate french brandip2_8322966a:
@@ -70,7 +70,7 @@ translate french brandip2_3cc5072c:
 translate french brandip2_e7735d9f:
 
     # fd "Mom and dad taught us that we could do anything if we worked hard enough, and we all took that to heart."
-    fd "Maman et papa nous ont appris qu'on pouvait tout faire si on travaillait assez dur, et on a tous pris ça très à cœur."
+    fd "Maman et Papa nous ont appris qu'on pouvait tout faire si on travaillait assez dur, et on a tous pris ça très à cœur."
 
 # game/Scenes/Brandi/BrandiConversations/brandip2.rpy:30
 translate french brandip2_e25f786d:
@@ -82,43 +82,43 @@ translate french brandip2_e25f786d:
 translate french brandip2_fac9a4d7:
 
     # fd "Well, my sisters - one is an artist and the other is literally a supermodel."
-    fd "Eh bien, mes sœurs : l’une est artiste et l’autre est littéralement un top model."
+    fd "Alors, mes sœurs : l’une est artiste et l’autre est littéralement un top model."
 
 # game/Scenes/Brandi/BrandiConversations/brandip2.rpy:33
 translate french brandip2_178a98e0:
 
     # fd "My older brother is a surgeon and my younger brother developed this phone app - something to do with cryptocurrency."
-    fd "Mon grand frère est chirurgien et mon petit frère a développé cette appli pour téléphone – quelque chose en rapport avec la cryptomonnaie."
+    fd "Mon grand frère est chirurgien et mon petit frère a développé une appli – un truc de cryptomonnaie."
 
 # game/Scenes/Brandi/BrandiConversations/brandip2.rpy:35
 translate french brandip2_307f4906:
 
     # fd "I don't really understand it, but if you ask him about it, or even if you don't, he'll explain it to you in excruciating detail."
-    fd "Je ne comprends pas vraiment, mais si tu lui poses la question, ou même si tu ne le fais pas, il te l’expliquera dans les moindres détails."
+    fd "Je ne comprends pas vraiment, mais si tu lui poses la question, et même si tu la poses pas, il t’expliquera dans les moindres détails."
 
 # game/Scenes/Brandi/BrandiConversations/brandip2.rpy:37
 translate french brandip2_1b54e0af:
 
     # fd "And then there's me. I eat food and make sexy innuendo online."
-    fd "Et puis il y a moi. Je mange et je fais des sous-entendus sexy en ligne."
+    fd "Et puis il y a moi. Je mange et je fais des sous-entendus en ligne."
 
 # game/Scenes/Brandi/BrandiConversations/brandip2.rpy:38
 translate french brandip2_11921a24:
 
     # pc "Don't sell yourself short."
-    pc "Ne te sous-estime pas."
+    pc "Ne te résume pas à ça."
 
 # game/Scenes/Brandi/BrandiConversations/brandip2.rpy:39
 translate french brandip2_b6b8ea7a:
 
     # pc "You also give really good head."
-    pc "Tu es aussi très douée pour les fellations."
+    pc "Tu fais aussi de très bonnes pipes."
 
 # game/Scenes/Brandi/BrandiConversations/brandip2.rpy:41
 translate french brandip2_8baa08dc:
 
     # fd "Haha! Yeah, I guess I'm pretty good at that too."
-    fd "Haha ! Ouais, je suppose que je suis plutôt douée pour ça aussi."
+    fd "Haha ! Ouais, je suis assez douée pour ça aussi."
 
 # game/Scenes/Brandi/BrandiConversations/brandip2.rpy:43
 translate french brandip2_885101cc:
@@ -148,5 +148,5 @@ translate french brandip2_a2f0975f:
 translate french brandip2_000f9b0b:
 
     # pc "That's all that really matters in the end, I think."
-    pc "C'est tout ce qui compte vraiment au final, je pense."
+    pc "Au bout du compte, c'est le plus important, non ?"
 
