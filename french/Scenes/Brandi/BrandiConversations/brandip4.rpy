@@ -22,13 +22,13 @@ translate french brandip4_e480da6d:
 translate french brandip4_ed1e05b2:
 
     # pc "I'm looking forward to meeting them one day."
-    pc "J’ai hâte de les rencontrer un jour."
+    pc "J’ai hâte de les rencontrer."
 
 # game/Scenes/Brandi/BrandiConversations/brandip4.rpy:22
 translate french brandip4_fc6a8f93:
 
     # fd "Maybe you will. They're in Bangkok right now, though."
-    fd "Peut-être que tu le feras. Mais ils sont à Bangkok en ce moment."
+    fd "Un jour, peut-être. Ils sont à Bangkok en ce moment."
 
 # game/Scenes/Brandi/BrandiConversations/brandip4.rpy:24
 translate french brandip4_764e5d87:
@@ -58,7 +58,7 @@ translate french brandip4_b05c3cdb:
 translate french brandip4_02fbf62a:
 
     # fd "I'm not embarrassed. I just wish I could have released that kind of thing on my own terms. Not by accident."
-    fd "Je n'ai pas honte. J'aurais juste aimé pouvoir diffuser ce genre de chose de mon propre chef. Pas par accident."
+    fd "J'ai pas honte. J'aurais juste aimé pouvoir diffuser ce genre de chose de mon propre chef. Pas par accident."
 
 # game/Scenes/Brandi/BrandiConversations/brandip4.rpy:32
 translate french brandip4_4b1464b5:
@@ -82,7 +82,7 @@ translate french brandip4_e41f3abd:
 translate french brandip4_14ed8ada:
 
     # pc "I can't imagine that anybody I know would just happen to stumble upon it."
-    pc "Je ne peux pas imaginer qu’une de mes connaissances tombe dessus par hasard."
+    pc "J'imagine mal qu’une de mes connaissances tombe dessus par hasard."
 
 # game/Scenes/Brandi/BrandiConversations/brandip4.rpy:38
 translate french brandip4_4d197018:
@@ -94,7 +94,7 @@ translate french brandip4_4d197018:
 translate french brandip4_655593ef:
 
     # pc "I think most of the town has seen my dick by now anyway."
-    pc "Je pense que la plupart des gens de la ville ont déjà vu ma bite de toute façon."
+    pc "Je pense que la majorité de la ville a déjà vu ma bite de toute façon."
 
 # game/Scenes/Brandi/BrandiConversations/brandip4.rpy:43
 translate french brandip4_a9f4385c:
@@ -106,9 +106,9 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiConversations/brandip4.rpy:2
     old "This is a personal conversation with Brandi that you can have on any date."
-    new "Voici une conversation personnelle avec Brandi que tu peux avoir à n'importe quel moment."
+    new "Ceci est une conversation personnelle avec Brandi que tu peux avoir à n'importe quel rencard."
 
     # game/Scenes/Brandi/BrandiConversations/brandip4.rpy:3
     old "To unlock this conversation, you must have advanced her story to the point where she accidentally shows her livestream audience more than she intended to."
-    new "Pour débloquer cette conversation, tu dois avoir fait avancer son histoire jusqu'au moment où elle montre accidentellement à son public en direct plus qu'elle ne le souhaitait."
+    new "Pour débloquer cette conversation, tu dois avoir fait avancer son histoire jusqu'au moment où elle montre accidentellement à ses viewers plus qu'elle ne le souhaitait."
 
