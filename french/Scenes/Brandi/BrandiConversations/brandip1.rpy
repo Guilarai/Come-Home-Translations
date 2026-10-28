@@ -4,31 +4,31 @@
 translate french brandip1_db0ed071:
 
     # fd "Oh gods, no!"
-    fd "Oh mon Dieu, non !"
+    fd "Oh mon dieu, non !"
 
 # game/Scenes/Brandi/BrandiConversations/brandip1.rpy:15
 translate french brandip1_f9756f83:
 
     # fd "My mom couldn't toast bread and I don't think my dad even knew where the kitchen was."
-    fd "Ma mère ne savait pas faire griller du pain et je crois que mon père ne savait même pas où se trouvait la cuisine."
+    fd "Ma mère ne savait pas faire griller du pain, et je crois que mon père ne savait même pas où se trouvait la cuisine."
 
 # game/Scenes/Brandi/BrandiConversations/brandip1.rpy:16
 translate french brandip1_351a9ec7:
 
     # fd "That's why we ate out for almost every meal."
-    fd "C’est pour ça qu’on mangeait dehors presque à chaque repas."
+    fd "Résultat, on mangeait dehors presque à chaque repas."
 
 # game/Scenes/Brandi/BrandiConversations/brandip1.rpy:18
 translate french brandip1_9b5ac48c:
 
     # fd "My parents always had a lot more money than time, so we would order food and either eat at a restaurant or get takeout at home."
-    fd "Mes parents avaient toujours beaucoup plus d’argent que de temps, alors on commandait à manger et on allait soit au restaurant, soit on prenait des plats à emporter à la maison."
+    fd "Mes parents avaient toujours beaucoup plus d’argent que de temps, alors un coup on allait au restaurant, un coup on prenait à emporter."
 
 # game/Scenes/Brandi/BrandiConversations/brandip1.rpy:19
 translate french brandip1_5fffdecd:
 
     # fd "And any big dinner, like Thanksgiving or Christmas, we always had catered."
-    fd "Et pour tous les grands dîners, comme Thanksgiving ou Noël, on faisait toujours appel à un traiteur."
+    fd "Et aux grandes occasions, comme Thanksgiving ou Noël, on faisait toujours appel à un traiteur."
 
 # game/Scenes/Brandi/BrandiConversations/brandip1.rpy:20
 translate french brandip1_272cb526:
@@ -40,13 +40,13 @@ translate french brandip1_272cb526:
 translate french brandip1_8d2952eb:
 
     # pc "Well what got you into cooking?"
-    pc "Eh bien, qu’est-ce qui t’a donné envie de cuisiner ?"
+    pc "Alors qu’est-ce qui t’a donné envie de cuisiner ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandip1.rpy:22
 translate french brandip1_87b5f7ac:
 
     # fd "I'd always been kind of interested in food and cooking, and when I got older I discovered Food Network."
-    fd "J’ai toujours été un peu intéressé par la nourriture et la cuisine, et quand j’ai grandi, j’ai découvert Food Network."
+    fd "J’ai toujours été un peu intéressée par la nourriture, la cuisine, et quand j’ai grandi, j’ai découvert Food Network."
 
 # game/Scenes/Brandi/BrandiConversations/brandip1.rpy:24
 translate french brandip1_b593950e:
@@ -82,7 +82,7 @@ translate french brandip1_c803afd9:
 translate french brandip1_5379ec32:
 
     # fd "And even better, I could {i}be{/i} one of those wizards!"
-    fd "Et mieux encore, je pouvais {i}devenir{/i} l’un de ces magiciens !"
+    fd "Et mieux encore, je pouvais {i}être{/i} l’un de ces magiciens !"
 
 # game/Scenes/Brandi/BrandiConversations/brandip1.rpy:31
 translate french brandip1_ce689ce1:
@@ -94,7 +94,7 @@ translate french brandip1_ce689ce1:
 translate french brandip1_204d6109:
 
     # pc "Have you ever thought about opening your own restaurant?"
-    pc "As-tu déjà pensé à ouvrir ton propre restaurant ?"
+    pc "Tu as déjà pensé à ouvrir ton propre restaurant ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandip1.rpy:34
 translate french brandip1_b091d350:
@@ -118,13 +118,13 @@ translate french brandip1_8b468e9d:
 translate french brandip1_9af58283:
 
     # fd "They like things a specific way and if it's not done that way, they think that it's wrong."
-    fd "Ils aiment les choses d’une certaine manière et si ce n’est pas fait comme ça, ils pensent que c’est faux."
+    fd "Ils aiment les choses d’une certaine manière et si ce n’est pas fait de {i}cette{/i} manière, c'est mal fait."
 
 # game/Scenes/Brandi/BrandiConversations/brandip1.rpy:40
 translate french brandip1_8e7b9703:
 
     # fd "It's like they don't understand that people all have different tastes."
-    fd "C’est comme s’ils ne comprenaient pas que tout le monde a des goûts différents."
+    fd "C’est comme s’ils comprenaient pas que tout le monde a des goûts différents."
 
 # game/Scenes/Brandi/BrandiConversations/brandip1.rpy:41
 translate french brandip1_b6c3a98e:
