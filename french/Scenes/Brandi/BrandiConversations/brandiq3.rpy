@@ -16,7 +16,7 @@ translate french brandiq3_48998402:
 translate french brandiq3_7ce23110:
 
     # pc "A banana. At least the way you use it is sexy as hell."
-    pc "Une banane. En tout cas, la façon dont tu l'utilises est super sexy."
+    pc "Une banane. En tout cas, ta façon de l'utiliser est super sexy."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:18
 translate french brandiq3_535a396b:
@@ -34,7 +34,7 @@ translate french brandiq3_dcb11981:
 translate french brandiq3_9e1337e8:
 
     # fd "There's just something about putting one of those in my mouth that really turns me on."
-    fd "Il y a juste quelque chose dans le fait d'en mettre une dans ma bouche qui m'excite vraiment."
+    fd "Il y a un truc dans le fait d'en mettre une dans ma bouche, je sais pas, ça m'excite."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:23
 translate french brandiq3_74ef432e:
@@ -46,19 +46,19 @@ translate french brandiq3_74ef432e:
 translate french brandiq3_f88589e7:
 
     # fd "And they kind of look like a butt!"
-    fd "Et elles ressemblent un peu à un cul !"
+    fd "Et elles ressemblent un peu à des fesses !"
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:26
 translate french brandiq3_c521116c:
 
     # pc "Yeah, that too. But they make me think of eating pussy."
-    pc "Ouais, ça aussi. Mais elles me font penser à lécher une chatte."
+    pc "Ouais, ça aussi. Mais elles me donnent l'impression de lécher une chatte."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:28
 translate french brandiq3_e2e13f3d:
 
     # fd "Oh yeah... that's pretty hot."
-    fd "Oh ouais... c'est plutôt excitant."
+    fd "Ah oui... c'est plutôt excitant."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:30
 translate french brandiq3_a69c32b3:
@@ -70,19 +70,19 @@ translate french brandiq3_a69c32b3:
 translate french brandiq3_d378ab0b:
 
     # fd "Because of that one movie?"
-    fd "À cause de ce film-là ?"
+    fd "À cause du film ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:32
 translate french brandiq3_b8ceb9be:
 
     # fd "The one where that nerd fucks a pie?"
-    fd "Celui où ce nerd baise une tarte ?"
+    fd "Celui où un nerd baise une tarte ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:33
 translate french brandiq3_247940d1:
 
     # fd "You don't like fucking pies, do you?"
-    fd "Tu n'aimes pas baiser des tartes, n'est-ce pas ?"
+    fd "T'aimes pas baiser des tartes, si ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:34
 translate french brandiq3_60860dd1:
@@ -94,7 +94,7 @@ translate french brandiq3_60860dd1:
 translate french brandiq3_e4587e3d:
 
     # fd "That doesn't sound very convincing."
-    fd "Ça ne semble pas très convaincant."
+    fd "C'était pas très convaincant."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:38
 translate french brandiq3_f1429e66:
@@ -106,7 +106,7 @@ translate french brandiq3_f1429e66:
 translate french brandiq3_fd8617a9:
 
     # pc "Well not anymore. Not after all this judgment."
-    pc "Eh bien, plus maintenant. Pas après tous ces jugements."
+    pc "Plus maintenant. Vu qu'on me juge."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:41
 translate french brandiq3_1a6b143d:
@@ -142,7 +142,7 @@ translate french brandiq3_95d7fa4d:
 translate french brandiq3_eb8cd9dc:
 
     # fd "But you like pussy too? You're a bisexual?"
-    fd "Mais tu aimes aussi la chatte ? T'es bisexuel ?"
+    fd "Mais tu aimes aussi les chattes ? T'es bisexuel ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:51
 translate french brandiq3_c417e350:
@@ -184,7 +184,7 @@ translate french brandiq3_023e0945:
 translate french brandiq3_b6b11812:
 
     # pc "Oh, I didn't realize that. I just like eggplant."
-    pc "Oh, je ne m’en étais pas rendu compte. J’aime juste les aubergines."
+    pc "Ah bon, je m’en étais pas rendu compte. J’aime juste les aubergines."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:63
 translate french brandiq3_41fd10c9:
@@ -202,25 +202,25 @@ translate french brandiq3_a3209017:
 translate french brandiq3_699ae6cd:
 
     # pc "I'd say raw chicken."
-    pc "Je dirais le poulet cru."
+    pc "Je dirais du poulet cru."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:69
 translate french brandiq3_1fdd93ef:
 
     # fd "What!? How is raw chicken sexy?"
-    fd "Quoi ?! En quoi le poulet cru est-il sexy ?"
+    fd "Quoi ?! En quoi le poulet cru est sexy ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:70
 translate french brandiq3_ea95e391:
 
     # pc "If you look at a whole chicken, with its pink skin and supple flesh."
-    pc "Si tu regardes un poulet entier, avec sa peau rose et sa chair souple."
+    pc "Imagine le poulet cru en entier, avec sa peau rose, sa chair souple."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:71
 translate french brandiq3_0156c0f4:
 
     # pc "It's like a small, chubby, naked woman, with no head, hands, or feet."
-    pc "C'est comme une petite femme potelée et nue, sans tête, sans mains ni pieds."
+    pc "C'est comme une petite femme potelée à poil, sans tête, sans mains, et sans pieds."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:73
 translate french brandiq3_abf03020:
@@ -232,13 +232,13 @@ translate french brandiq3_abf03020:
 translate french brandiq3_62fa5337:
 
     # pc "Ha, it's just a joke."
-    pc "Ha, c'est juste une blague."
+    pc "Ha, je rigole."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:75
 translate french brandiq3_b1730890:
 
     # fd "Oh! Um... okay..."
-    fd "Oh ! Euh... d'accord..."
+    fd "Oh ! Euh... OK..."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:77
 translate french brandiq3_dda4696d:
@@ -268,13 +268,13 @@ translate french brandiq3_9aefed4f:
 translate french brandiq3_bb802cf1:
 
     # fd "Oh, like cum. I get it."
-    fd "Oh, comme du sperme. Je comprends."
+    fd "Oh, comme du sperme. Je vois."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:85
 translate french brandiq3_30dc4cd6:
 
     # pc "And you can put it on different body parts and lick it off."
-    pc "Et on peut en mettre sur différentes parties du corps et le lécher."
+    pc "Et on peut s'en mettre partout sur le corps et la lécher."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq3.rpy:87
 translate french brandiq3_2ce5f7aa:
