@@ -34,13 +34,13 @@ translate french brandiq4_547f95f2:
 translate french brandiq4_f154a303:
 
     # fd "You're the only person I'd want to go on an adventure like that with."
-    fd "Tu es la seule personne avec qui j’aimerais partir dans une aventure comme ça."
+    fd "Tu es la seule personne avec qui j’aimerais partir à l'aventure comme ça."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq4.rpy:27
 translate french brandiq4_248d7a8d:
 
     # fd "After you finish school?"
-    fd "Une fois tes études terminées ?"
+    fd "Quand t'auras fini tes études ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandiq4.rpy:28
 translate french brandiq4_fd659db9:
@@ -124,7 +124,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiConversations/brandiq4.rpy:3
     old "To unlock this conversation, Brandi must have talked to you about her new streaming strategy."
-    new "Pour débloquer cette conversation, Brandi a dû te parler de sa nouvelle stratégie de streaming."
+    new "Pour débloquer cette conversation, il faut que Brandi t'ait parlé de sa nouvelle stratégie de streaming."
 
     # game/Scenes/Brandi/BrandiConversations/brandiq4.rpy:19
     old "Sounds fun to me"
