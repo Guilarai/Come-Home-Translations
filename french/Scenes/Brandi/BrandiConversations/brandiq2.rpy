@@ -40,19 +40,19 @@ translate french brandiq2_f367056c:
 translate french brandiq2_fd376ab9:
 
     # pc "Yeah, that's why I came back here to Skyhill. I thought I might have told you this already."
-    pc "Oui, c’est pour ça que je suis revenu ici, à Skyhill. Je croyais t’en avoir déjà parlé."
+    pc "Oui, c’est pour ça que je suis revenu à Skyhill. Je croyais t’en avoir déjà parlé."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:22
 translate french brandiq2_d7720200:
 
     # fd "I'm sorry if you have. I don't remember. My memory is {i}so{/i} bad."
-    fd "Désolé si c’est le cas. Je ne m’en souviens pas. J’ai une mémoire {i}tellement{/i} mauvaise."
+    fd "Désolée si c’est le cas. Je m’en souviens pas. J’ai une mémoire {i}tellement{/i} mauvaise."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:23
 translate french brandiq2_0e585714:
 
     # fd "I'm sad to hear that your dad is missing though. That's awful."
-    fd "Je suis triste d’apprendre que ton père a disparu. C’est horrible."
+    fd "Je suis triste d’apprendre que ton père a disparu. C’est rude."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:25
 translate french brandiq2_ed412479:
@@ -94,25 +94,25 @@ translate french brandiq2_c8403001:
 translate french brandiq2_ca5dd637:
 
     # fd "No. I'm sorry. I really don't understand."
-    fd "Non. Je suis désolé. Je ne comprends vraiment pas."
+    fd "Non. Je suis désolée. J'y comprends que dalle."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:36
 translate french brandiq2_28facd42:
 
     # pc "It's okay. It's hard to explain and kind of crazy."
-    pc "Ce n'est pas grave. C'est difficile à expliquer et un peu fou."
+    pc "C'est pas grave. C'est difficile à expliquer et un peu fou."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:38
 translate french brandiq2_3ab3c729:
 
     # fd "Crazy or not, I really hope you find him."
-    fd "Folle ou pas, j'espère vraiment que tu le retrouveras."
+    fd "Fou ou pas, j'espère vraiment que tu le retrouveras."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:40
 translate french brandiq2_8ab18ffd:
 
     # pc "No, I really don't have any idea."
-    pc "Non, je n'en ai vraiment aucune idée."
+    pc "Non, vraiment aucune idée."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:41
 translate french brandiq2_632d8521:
@@ -124,7 +124,7 @@ translate french brandiq2_632d8521:
 translate french brandiq2_8ab18ffd_1:
 
     # pc "No, I really don't have any idea."
-    pc "Non, je n'en ai vraiment aucune idée."
+    pc "Non, vraiment aucune idée."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:44
 translate french brandiq2_632d8521_1:
@@ -136,7 +136,7 @@ translate french brandiq2_632d8521_1:
 translate french brandiq2_64172d37:
 
     # fd "Well, if I can help in some way, let me know."
-    fd "Eh bien, si je peux t'aider d'une manière ou d'une autre, fais-le-moi savoir."
+    fd "Si je peux t'aider, d'une manière ou d'une autre, fais-le-moi savoir."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:46
 translate french brandiq2_02a54d9a:
@@ -148,7 +148,7 @@ translate french brandiq2_02a54d9a:
 translate french brandiq2_cbde01f4:
 
     # pc "That's actually a pretty good idea."
-    pc "C'est en fait une très bonne idée."
+    pc "Ça, c'est une très bonne idée."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:48
 translate french brandiq2_f6a654b1:
@@ -160,7 +160,7 @@ translate french brandiq2_f6a654b1:
 translate french brandiq2_8c41cc76:
 
     # fd "I'll do it on my next show. Just send me a pic sometime."
-    fd "Je le ferai dans ma prochaine émission. Envoie-moi juste une photo un de ces jours."
+    fd "Je ferai ça dans ma prochaine émission. Envoie-moi juste une photo un de ces jours."
 
 # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:50
 translate french brandiq2_830a13a1:
@@ -178,9 +178,9 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:30
     old "Tell her"
-    new "Dis-lui"
+    new "Lui dire"
 
     # game/Scenes/Brandi/BrandiConversations/brandiq2.rpy:39
     old "Don't tell her"
-    new "Ne lui dis pas"
+    new "Ne pas lui dire"
 
