@@ -22,7 +22,7 @@ translate french brandis2_0c034a31:
 translate french brandis2_2c85a5e8:
 
     # fd "Streaming started off as a hobby."
-    fd "Le streaming, c'était un loisir à la base."
+    fd "Le stream, c'était un loisir à la base."
 
 # game/Scenes/Brandi/BrandiConversations/brandis2.rpy:20
 translate french brandis2_f739aef6:
