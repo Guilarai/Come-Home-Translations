@@ -4,7 +4,7 @@
 translate french brandis4_6a136676:
 
     # fd "That 15-burger record at Jackson's is pretty impressive, isn't it?"
-    fd "Ce record de 15 burgers chez Jackson's est assez impressionnant, non ?"
+    fd "Mon record de 15 burgers chez Jackson est assez impressionnant, non ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandis4.rpy:16
 translate french brandis4_e8b9166b:
@@ -16,13 +16,13 @@ translate french brandis4_e8b9166b:
 translate french brandis4_238ceb23:
 
     # fd "Nah, I beat that last weekend."
-    fd "Non, j'ai battu ce record le week-end dernier."
+    fd "Non, j'ai fait 15 le week-end dernier."
 
 # game/Scenes/Brandi/BrandiConversations/brandis4.rpy:19
 translate french brandis4_084db522:
 
     # fd "I was mostly joking with that answer though. I'm most proud of what I've done with my streaming."
-    fd "Mais je plaisantais surtout avec cette réponse. Je suis surtout fier de ce que j’ai accompli avec mon streaming."
+    fd "Mais je plaisantais surtout avec cette réponse. Je suis surtout fière de ce que j’ai accompli avec mon stream."
 
 # game/Scenes/Brandi/BrandiConversations/brandis4.rpy:20
 translate french brandis4_751cb59c:
@@ -40,19 +40,19 @@ translate french brandis4_7ed41871:
 translate french brandis4_1e56ee91:
 
     # fd "And I did all of that by myself."
-    fd "Et j’ai fait tout ça tout seul."
+    fd "Et j’ai fait tout ça toute seule."
 
 # game/Scenes/Brandi/BrandiConversations/brandis4.rpy:24
 translate french brandis4_2419a503:
 
     # fd "So yeah, I'm really proud of that."
-    fd "Alors oui, j’en suis vraiment fier."
+    fd "Alors oui, j’en suis vraiment fière."
 
 # game/Scenes/Brandi/BrandiConversations/brandis4.rpy:25
 translate french brandis4_36c55645:
 
     # pc "You should be. It's incredible."
-    pc "Tu as raison de l'être. C'est incroyable."
+    pc "Tu as bien raison. C'est incroyable."
 
 # game/Scenes/Brandi/BrandiConversations/brandis4.rpy:27
 translate french brandis4_d41d8cd9:
