@@ -10,13 +10,13 @@ translate french brandis1_a62517a3:
 translate french brandis1_dfe249fc:
 
     # pc "Really? Did we go to school together?"
-    pc "Vraiment ? On est allés à l'école ensemble ?"
+    pc "Ah ouais ? Est-ce qu'on est allés à l'école ensemble ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandis1.rpy:17
 translate french brandis1_adbdf97b:
 
     # fd "I was homeschooled."
-    fd "J'ai suivi un enseignement à domicile."
+    fd "J'avais mes cours à la maison."
 
 # game/Scenes/Brandi/BrandiConversations/brandis1.rpy:18
 translate french brandis1_cc5944f4:
@@ -34,7 +34,7 @@ translate french brandis1_77760cf3:
 translate french brandis1_cebbbeda:
 
     # pc "Why'd you move back?"
-    pc "Pourquoi es-tu revenue ?"
+    pc "Pourquoi tu es revenue ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandis1.rpy:22
 translate french brandis1_01768677:
@@ -46,19 +46,19 @@ translate french brandis1_01768677:
 translate french brandis1_496f7e0e:
 
     # fd "I traveled with my parents to a lot of different places, but there's just something about Skyhill that I love."
-    fd "J'ai voyagé avec mes parents dans plein d'endroits différents, mais il y a quelque chose à Skyhill que j'adore."
+    fd "J'ai voyagé avec mes parents dans plein d'endroits différents, mais c'est Skyhill que j'adore, j'arrive pas à l'expliquer."
 
 # game/Scenes/Brandi/BrandiConversations/brandis1.rpy:25
 translate french brandis1_1049c078:
 
     # fd "Nowhere else felt like home to me."
-    fd "Nulle part ailleurs je ne me suis sentie chez moi."
+    fd "Nulle part ailleurs je me suis sentie chez moi."
 
 # game/Scenes/Brandi/BrandiConversations/brandis1.rpy:27
 translate french brandis1_b803d47d:
 
     # fd "Kind of weird I guess, huh?"
-    fd "C'est un peu bizarre, je suppose, hein ?"
+    fd "Tu trouves ça bizarre ?"
 
 # game/Scenes/Brandi/BrandiConversations/brandis1.rpy:28
 translate french brandis1_3f5bf1e9:
@@ -70,7 +70,7 @@ translate french brandis1_3f5bf1e9:
 translate french brandis1_381b77b4:
 
     # pc "For a long time I just wanted to get away from here, but more and more I'm finding it difficult to imagine leaving."
-    pc "Pendant longtemps, je voulais juste partir d’ici, mais j’ai de plus en plus de mal à imaginer partir."
+    pc "Pendant longtemps, je voulais juste partir d’ici, mais aujourd'hui j’ai de plus en plus de mal à m'imaginer partir."
 
 # game/Scenes/Brandi/BrandiConversations/brandis1.rpy:31
 translate french brandis1_892eafa0:
@@ -88,19 +88,19 @@ translate french brandis1_6b9b4a38:
 translate french brandis1_0d233edf:
 
     # fd "It's kind of strange, but even the food tastes better here for some reason."
-    fd "C’est un peu bizarre, mais même la nourriture a meilleur goût ici, pour une raison que j’ignore."
+    fd "C’est un peu bizarre, mais même la nourriture a meilleur goût ici, je sais pas pourquoi."
 
 # game/Scenes/Brandi/BrandiConversations/brandis1.rpy:34
 translate french brandis1_2643738c:
 
     # pc "I don't know about that."
-    pc "Je ne sais pas trop."
+    pc "Je suis pas sûr de ça."
 
 # game/Scenes/Brandi/BrandiConversations/brandis1.rpy:36
 translate french brandis1_89b010bc:
 
     # fd "It does!"
-    fd "C’est vrai !"
+    fd "Si, je te jure !"
 
 # game/Scenes/Brandi/BrandiConversations/brandis1.rpy:37
 translate french brandis1_25cec234:
