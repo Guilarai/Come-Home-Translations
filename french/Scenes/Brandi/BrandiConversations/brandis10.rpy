@@ -4,7 +4,7 @@
 translate french brandis10_e1effc13:
 
     # fd "I know the absolute bare minimum of like five other languages."
-    fd "Je connais le strict minimum d’environ cinq autres langues."
+    fd "Je connais le strict minimum dans, euh, cinq autres langues."
 
 # game/Scenes/Brandi/BrandiConversations/brandis10.rpy:16
 translate french brandis10_f0d12372:
@@ -16,7 +16,7 @@ translate french brandis10_f0d12372:
 translate french brandis10_2cc6a207:
 
     # fd "It's not, I promise."
-    fd "Pas du tout, je te le promets."
+    fd "Oh non, je t'assure."
 
 # game/Scenes/Brandi/BrandiConversations/brandis10.rpy:19
 translate french brandis10_0a882c40:
@@ -46,7 +46,7 @@ translate french brandis10_0d3f38b8:
 translate french brandis10_512f6617:
 
     # fd "French. Je veux du boeuf bourguignon et un croissant, s'il vous plaît."
-    fd "Le français. Je veux du bœuf bourguignon et un croissant, s'il vous plaît."
+    fd "Le français. {i}Je veux du bœuf bourguignon et un croissant, s'il vous plaît.{/i}"
 
 # game/Scenes/Brandi/BrandiConversations/brandis10.rpy:28
 translate french brandis10_dc4968ae:
@@ -64,13 +64,13 @@ translate french brandis10_0071a9a2:
 translate french brandis10_d9dcb011:
 
     # pc "I know you said it's not impressive... but I'm still impressed."
-    pc "Je sais que tu as dit que ce n'était pas impressionnant... mais je suis quand même impressionné."
+    pc "Je sais que tu as dit que c'était pas impressionnant... mais je suis quand même impressionné."
 
 # game/Scenes/Brandi/BrandiConversations/brandis10.rpy:33
 translate french brandis10_b09f767c:
 
     # fd "I should learn a little more, but I never really took the time to."
-    fd "Je devrais en apprendre un peu plus, mais je n'ai jamais vraiment pris le temps de le faire."
+    fd "Je devrais en apprendre un peu plus, mais j'ai jamais vraiment pris le temps de le faire."
 
 # game/Scenes/Brandi/BrandiConversations/brandis10.rpy:35
 translate french brandis10_598841a6:
@@ -82,5 +82,5 @@ translate french brandis10_598841a6:
 translate french brandis10_ff7ce468:
 
     # fd "I should learn a little Hindi. I could devour some masala."
-    fd "Je devrais apprendre un peu d'hindi. Je pourrais me régaler de masala."
+    fd "Je devrais apprendre un peu d'hindi. Les masalas me font très envie."
 
