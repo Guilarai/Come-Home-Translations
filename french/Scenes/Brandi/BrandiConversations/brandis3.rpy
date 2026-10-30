@@ -4,7 +4,7 @@
 translate french brandis3_cfceee9d:
 
     # fd "Oh gods, you can't ask me that!"
-    fd "Oh mon Dieu, tu ne peux pas me demander ça !"
+    fd "Oh non, t'es vache de me demander ça !"
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:16
 translate french brandis3_139d2114:
@@ -22,19 +22,19 @@ translate french brandis3_db6fa431:
 translate french brandis3_93dd0586:
 
     # fd "It would be easier to tell you the foods I dislike."
-    fd "Ce serait plus facile de te dire les aliments que je n'aime pas."
+    fd "Ce serait plus facile de te dire les aliments que j'aime pas."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:20
 translate french brandis3_3728a41b:
 
     # fd "I hate horse radish. I don't eat any chicken innards - liver, gizzard, any of that. And I'm not a big fan of kiwi."
-    fd "Je déteste le raifort. Je ne mange pas les abats de poulet : le foie, le gésier, tout ça. Et je ne suis pas très fan du kiwi."
+    fd "Je déteste le raifort. Je ne mange pas les abats de poulet : le foie, le gésier, tout ça. Et je ne suis pas très fan des kiwis."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:21
 translate french brandis3_8b70bdb8:
 
     # fd "Pretty much anything else, I love. And if there's something new to try, I'm gonna get me a taste of it."
-    fd "À part ça, j'aime à peu près tout. Et s'il y a quelque chose de nouveau à essayer, je vais y goûter."
+    fd "À peu près tout le reste, j'adore. Et si je trouve un truc nouveau à essayer, j'y goûte."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:22
 translate french brandis3_a3c8178c:
@@ -46,13 +46,13 @@ translate french brandis3_a3c8178c:
 translate french brandis3_50937df8:
 
     # fd "I will say that right now, I'm kind of addicted to Brussels sprouts."
-    fd "Je dirais que là, en ce moment, je suis un peu accro aux choux de Bruxelles."
+    fd "Mais par exemple, en ce moment, je suis un peu accro aux choux de Bruxelles."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:24
 translate french brandis3_c305cb5d:
 
     # pc "I think that's probably the only time in the history of mankind that anybody has said those words."
-    pc "Je crois que c'est probablement la seule fois dans l'histoire de l'humanité où quelqu'un a prononcé ces mots."
+    pc "Ça doit être la seule fois dans l'histoire de l'humanité que quelqu'un a prononcé ces mots."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:26
 translate french brandis3_e0b1efaa:
@@ -64,7 +64,7 @@ translate french brandis3_e0b1efaa:
 translate french brandis3_08f5277b:
 
     # fd "You rub them in olive oil and roast them 'til they're tender. Then you roll them around in some melted butter and sprinkle salt all over them and oh gods..."
-    fd "Tu les badigeonnes d'huile d'olive et tu les fais rôtir jusqu'à ce qu'ils soient tendres. Ensuite, tu les roules dans du beurre fondu, tu les saupoudres de sel partout et, oh mon Dieu..."
+    fd "Tu les badigeonnes d'huile d'olive et tu les fais rôtir jusqu'à ce qu'ils soient tendres. Ensuite, tu les roules dans du beurre fondu, tu les saupoudres de sel partout, et oh mon dieu..."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:30
 translate french brandis3_778c2e81:
@@ -76,7 +76,7 @@ translate french brandis3_778c2e81:
 translate french brandis3_79ad54a9:
 
     # pc "You're the expert. I'll take your word for it."
-    pc "C'est toi l'expert. Je te crois sur parole."
+    pc "C'est toi l'experte. Je te crois sur parole."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:34
 translate french brandis3_c4ce8747:
@@ -94,37 +94,37 @@ translate french brandis3_c7ccb5f8:
 translate french brandis3_5291ccc7:
 
     # fd "Me too. I don't get to cook for other people as often as I'd like, and it gets a little old going out for every meal."
-    fd "Moi aussi. Je n'ai pas l'occasion de cuisiner pour d'autres personnes aussi souvent que je le voudrais, et ça devient un peu lassant de sortir à chaque repas."
+    fd "Moi aussi. J'ai pas l'occasion de cuisiner pour d'autres personnes aussi souvent que je voudrais, et c'est un peu lassant de sortir à chaque repas."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:38
 translate french brandis3_01049090:
 
     # pc "Let's do it then."
-    pc "Alors, c'est parti."
+    pc "Alors on le fait."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:40
 translate french brandis3_a1a5e225:
 
     # fd "We will soon, I promise. I'm not quite ready to invite you over to my house, but if things keep going good, I will soon."
-    fd "On le fera bientôt, je te le promets. Je ne suis pas encore tout à fait prêt à t'inviter chez moi, mais si tout continue à bien se passer, je le ferai bientôt."
+    fd "On le fera bientôt, je te le promets. Je ne suis pas encore tout à fait prête à t'inviter chez moi, mais si tout continue à bien se passer, je le ferai bientôt."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:41
 translate french brandis3_b1c85d48:
 
     # pc "No rush. I want you to be comfortable."
-    pc "Pas de précipitation. Je veux que tu te sentes à l'aise."
+    pc "On est pas pressés. Je veux que tu te sentes à l'aise."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:44
 translate french brandis3_a7695f5c:
 
     # fd "Maybe I'll cook them for you sometime."
-    fd "Peut-être que je te les cuisinerai un de ces jours."
+    fd "Peut-être que je t'en cuisinerai un de ces jours."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:45
 translate french brandis3_e5346912:
 
     # pc "I'll eat anything you cook for me. You're an amazing cook."
-    pc "Je mangerai tout ce que tu me cuisineras. Tu es un cuisinier incroyable."
+    pc "Je mangerai tout ce que tu me cuisineras. Tu es une cuisinière incroyable."
 
 # game/Scenes/Brandi/BrandiConversations/brandis3.rpy:47
 translate french brandis3_d41d8cd9:
