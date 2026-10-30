@@ -4,19 +4,19 @@
 translate french brandis7_a15b4356:
 
     # fd "Well, not counting the things that we've done together..."
-    fd "Enfin, sans compter les choses qu'on a déjà faites ensemble..."
+    fd "Hmmm, si on ne compte pas les choses qu'on a faites tous les deux..."
 
 # game/Scenes/Brandi/BrandiConversations/brandis7.rpy:19
 translate french brandis7_8b92ba1a:
 
     # fd "There was a time when one of my viewers saw where I was and recognized the restaurant."
-    fd "Il y a eu une fois où un de mes spectateurs a vu où j’étais et a reconnu le restaurant."
+    fd "Il y a eu une fois où un viewer a vu où j’étais et a reconnu le restaurant."
 
 # game/Scenes/Brandi/BrandiConversations/brandis7.rpy:21
 translate french brandis7_28707f8c:
 
     # fd "He showed up there and came up to me when I was leaving. He approached me when I was walking through the parking lot by myself in the dark."
-    fd "Il s’est pointé là-bas et est venu vers moi alors que je partais. Il m’a abordée alors que je traversais le parking toute seule dans le noir."
+    fd "Il s’est pointé là-bas et est venu vers moi pendant que je partais. Il m’a abordée alors que je traversais le parking toute seule dans le noir."
 
 # game/Scenes/Brandi/BrandiConversations/brandis7.rpy:22
 translate french brandis7_8b0e3d87:
@@ -28,13 +28,13 @@ translate french brandis7_8b0e3d87:
 translate french brandis7_532e2146:
 
     # fd "I don't think he meant to be creepy by doing it, but it really scared me."
-    fd "Je ne pense pas qu’il voulait être effrayant en faisant ça, mais ça m’a vraiment fait peur."
+    fd "Je ne pense pas qu’il voulait être effrayant, mais ça m’a vraiment fait peur."
 
 # game/Scenes/Brandi/BrandiConversations/brandis7.rpy:25
 translate french brandis7_d5498641:
 
     # pc "That does seem a little dangerous. Live streaming exactly where you are all the time."
-    pc "Ça a l’air un peu dangereux. Diffuser en direct exactement là où tu es tout le temps."
+    pc "Ça a l’air un peu dangereux. Diffuser en direct l'endroit où tu es tout le temps."
 
 # game/Scenes/Brandi/BrandiConversations/brandis7.rpy:27
 translate french brandis7_ca04f966:
@@ -46,7 +46,7 @@ translate french brandis7_ca04f966:
 translate french brandis7_920e3529:
 
     # fd "That guy was harmless, fortunately."
-    fd "Heureusement, ce type était inoffensif."
+    fd "Heureusement, le type était inoffensif."
 
 # game/Scenes/Brandi/BrandiConversations/brandis7.rpy:29
 translate french brandis7_d44d2b91:
@@ -58,13 +58,13 @@ translate french brandis7_d44d2b91:
 translate french brandis7_cda930ba:
 
     # fd "I know they're not all like that though."
-    fd "Je sais bien qu’ils ne sont pas tous comme ça, par contre."
+    fd "Même si je sais qu'ils sont pas tous inoffensifs."
 
 # game/Scenes/Brandi/BrandiConversations/brandis7.rpy:32
 translate french brandis7_f97a0886:
 
     # fd "And the bigger my following gets, the more likely that one of them will be dangerous."
-    fd "Et plus mon audience grandit, plus il y a de chances que l’un d’entre eux soit dangereux."
+    fd "Et plus mon audience grandit, plus il y a de chances qu'il y en ait un dangereux."
 
 # game/Scenes/Brandi/BrandiConversations/brandis7.rpy:33
 translate french brandis7_497bb93f:
@@ -82,13 +82,13 @@ translate french brandis7_e158751a:
 translate french brandis7_3b22d5d8:
 
     # fd "I might stop doing public live streams entirely and instead do restaurant views pre-recorded and edited."
-    fd "Je vais peut-être arrêter complètement les lives en public et me contenter de vidéos préenregistrées et montées depuis des restaurants."
+    fd "Je vais peut-être arrêter complètement les lives en public et me contenter de vidéos dans des restaurants préenregistrées et montées."
 
 # game/Scenes/Brandi/BrandiConversations/brandis7.rpy:38
 translate french brandis7_4b125d45:
 
     # fd "I'll miss that personal connection, but I think I'd feel safer that way, at least."
-    fd "Ce contact personnel va me manquer, mais je pense que je me sentirai plus en sécurité comme ça, au moins."
+    fd "Le contact personnel me manquerait, mais au moins je me sentirais plus en sécurité."
 
 # game/Scenes/Brandi/BrandiConversations/brandis7.rpy:40
 translate french brandis7_6e8c54ff:
@@ -112,13 +112,13 @@ translate french brandis7_194ef5a1:
 translate french brandis7_ee31eb87:
 
     # fd "Scary and great. Just like the rest of the world."
-    fd "Effrayant et génial. Tout comme le reste du monde."
+    fd "Effrayant et génial. Comme le reste du monde, en fait."
 
 # game/Scenes/Brandi/BrandiConversations/brandis7.rpy:45
 translate french brandis7_d0c89101:
 
     # pc "I guess that's true."
-    pc "Je suppose que c'est vrai."
+    pc "Oui, c'est assez vrai."
 
 translate french strings:
 
