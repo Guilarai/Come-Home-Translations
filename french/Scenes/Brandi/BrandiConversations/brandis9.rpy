@@ -4,7 +4,7 @@
 translate french brandis9_00a350a1:
 
     # fd "I hate to be obvious, but of course it's Thanksgiving."
-    fd "Je déteste être évident, mais bien sûr, c'est Thanksgiving."
+    fd "Bon, tu t'en doutais sûrement, mais c'est Thanksgiving."
 
 # game/Scenes/Brandi/BrandiConversations/brandis9.rpy:17
 translate french brandis9_031202c4:
@@ -16,7 +16,7 @@ translate french brandis9_031202c4:
 translate french brandis9_84785f07:
 
     # fd "It's one of the reasons I fell in love with food."
-    fd "C'est l'une des raisons pour lesquelles je suis tombé amoureux de la cuisine."
+    fd "C'est une des raisons pour lesquelles je suis tombé amoureuse de la cuisine."
 
 # game/Scenes/Brandi/BrandiConversations/brandis9.rpy:20
 translate french brandis9_bcdd243b:
@@ -28,7 +28,7 @@ translate french brandis9_bcdd243b:
 translate french brandis9_a900be2b:
 
     # fd "I know the holiday is a little problematic, because of how English settlers treated the Native Americans and everything."
-    fd "Je sais que cette fête pose un peu problème, à cause de la façon dont les colons anglais ont traité les Amérindiens et tout ça."
+    fd "Je sais que cette fête pose un peu problème, par rapport à la façon dont les colons anglais ont traité les Amérindiens et tout ça."
 
 # game/Scenes/Brandi/BrandiConversations/brandis9.rpy:23
 translate french brandis9_f7ec8c4c:
@@ -46,7 +46,7 @@ translate french brandis9_f9ba4978:
 translate french brandis9_1c07957e:
 
     # fd "For us, it's just about getting together and celebrating all the good things that we've been given."
-    fd "Pour nous, il s'agit simplement de se retrouver et de célébrer toutes les bonnes choses qui nous ont été données."
+    fd "Pour nous, il s'agit juste de se retrouver et de célébrer toutes les bonnes choses qui nous ont été données."
 
 # game/Scenes/Brandi/BrandiConversations/brandis9.rpy:28
 translate french brandis9_8676432d:
