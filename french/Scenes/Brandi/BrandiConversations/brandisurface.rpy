@@ -4,7 +4,7 @@
 translate french brandisurface_04b8b8d0:
 
     # "We just chat for a while about nothing important."
-    "On discute juste un moment de choses sans importance."
+    "On discute un moment, de choses sans importance."
 
 translate french strings:
 
@@ -14,7 +14,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiConversations/brandisurface.rpy:9
     old "What are you most proud of?"
-    new "De quoi es-tu le plus fier ?"
+    new "De quoi es-tu la plus fière ?"
 
     # game/Scenes/Brandi/BrandiConversations/brandisurface.rpy:11
     old "What's your favorite holiday?"
@@ -30,13 +30,13 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiConversations/brandisurface.rpy:17
     old "What's the weirdest thing that's happened to you from live streaming?"
-    new "Quelle est la chose la plus bizarre qui t'est arrivée pendant un live ?"
+    new "C'est quoi la chose la plus bizarre qui te soit arrivée pendant un live ?"
 
     # game/Scenes/Brandi/BrandiConversations/brandisurface.rpy:19
     old "Do you have any close friends?"
-    new "As-tu des amis proches ?"
+    new "Tu as des amis proches ?"
 
     # game/Scenes/Brandi/BrandiConversations/brandisurface.rpy:21
     old "Do you know any other languages?"
-    new "Parles-tu d'autres langues ?"
+    new "Tu parles d'autres langues ?"
 
