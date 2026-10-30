@@ -16,31 +16,31 @@ translate french brandis2_6137a3e9:
 translate french brandis2_0c034a31:
 
     # fd "Writing a food blog started off as a hobby."
-    fd "Écrire un blog culinaire a commencé comme un hobby."
+    fd "Écrire un blog culinaire, c'était un loisir à la base."
 
 # game/Scenes/Brandi/BrandiConversations/brandis2.rpy:19
 translate french brandis2_2c85a5e8:
 
     # fd "Streaming started off as a hobby."
-    fd "Le streaming a commencé comme un passe-temps."
+    fd "Le streaming, c'était un loisir à la base."
 
 # game/Scenes/Brandi/BrandiConversations/brandis2.rpy:20
 translate french brandis2_f739aef6:
 
     # fd "Now they're just jobs."
-    fd "Maintenant, ce ne sont plus que des métiers."
+    fd "Maintenant, c'est plus que des métiers."
 
 # game/Scenes/Brandi/BrandiConversations/brandis2.rpy:21
 translate french brandis2_f8ee4427:
 
     # fd "But I really enjoy my jobs. It's kind of like I get paid to do my hobbies."
-    fd "Mais j’apprécie vraiment mes métiers. C’est un peu comme si j’étais payé pour faire mes passe-temps."
+    fd "Mais j’apprécie vraiment les faire. C’est un peu comme si j’étais payée pour faire mes loisirs."
 
 # game/Scenes/Brandi/BrandiConversations/brandis2.rpy:22
 translate french brandis2_8bc9cb29:
 
     # fd "I'm not sure if I really have any other hobbies. Pretty much all I do is eat, stream, write, and market my channel."
-    fd "Je ne sais pas si j’ai vraiment d’autres passe-temps. Je ne fais pratiquement que manger, streamer, écrire et promouvoir ma chaîne."
+    fd "Je sais pas si j’ai d’autres passe-temps. Je fais pratiquement que manger, streamer, écrire et promouvoir ma chaîne."
 
 # game/Scenes/Brandi/BrandiConversations/brandis2.rpy:23
 translate french brandis2_65bb8e19:
@@ -100,5 +100,5 @@ translate french brandis2_dc0d9139:
 translate french brandis2_1e6bc9cc:
 
     # fd "I will."
-    fd "Je le ferai."
+    fd "Exactement."
 
