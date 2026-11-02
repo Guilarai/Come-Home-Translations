@@ -4,13 +4,13 @@
 translate french brandiparkstartdate_5ae11aa5:
 
     # "Brandi and I walk around the trails, chit-chatting for a while."
-    "Brandi et moi, on se promène sur les sentiers en bavardant un moment."
+    "Brandi et moi nous promenons sur les sentiers en bavardant un moment."
 
 # game/Scenes/Brandi/BrandiDates/brandiparkdate.rpy:37
 translate french brandiparkstartdate_4de7804b:
 
     # "It's just nice being here, getting fresh air with her."
-    "C'est juste agréable d'être ici, de prendre l'air avec elle."
+    "C'est agréable d'être simplement là, de prendre l'air avec elle."
 
 # game/Scenes/Brandi/BrandiDates/brandiparkdate.rpy:41
 translate french brandiparkstartdate_236ab045:
@@ -22,13 +22,13 @@ translate french brandiparkstartdate_236ab045:
 translate french brandiparkstartdate_e78d1bf7:
 
     # fd "Want to make out?"
-    fd "Tu veux qu'on s'embrasse ?"
+    fd "Tu veux fricoter ?"
 
 # game/Scenes/Brandi/BrandiDates/brandiparkdate.rpy:50
 translate french brandiparkstartdate_7d961064:
 
     # pc "Um, yes please."
-    pc "Euh, oui, s'il te plaît."
+    pc "Oh que oui."
 
 # game/Scenes/Brandi/BrandiDates/brandiparkdate.rpy:56
 translate french brandiparkstartdate_0cbc9416:
