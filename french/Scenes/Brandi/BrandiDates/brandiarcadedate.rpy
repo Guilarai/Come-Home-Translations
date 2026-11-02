@@ -4,13 +4,13 @@
 translate french brandiarcadestartdate_338a7daf:
 
     # fd "Oh man, I haven't been to an arcade in forever."
-    fd "Oh là là, ça fait une éternité que je ne suis pas allé dans une salle d'arcade."
+    fd "Oh là là, ça fait une éternité que je suis pas allée dans une salle d'arcade."
 
 # game/Scenes/Brandi/BrandiDates/brandiarcadedate.rpy:28
 translate french brandiarcadestartdate_edaddf14:
 
     # fd "I've always loved playing these old games, but I've never been any good at them."
-    fd "J'ai toujours adoré jouer à ces vieux jeux, mais je n'ai jamais été doué pour ça."
+    fd "J'ai toujours adoré jouer à ces vieux jeux, mais j'ai jamais été douée pour ça."
 
 # game/Scenes/Brandi/BrandiDates/brandiarcadedate.rpy:29
 translate french brandiarcadestartdate_84b5659a:
@@ -22,7 +22,7 @@ translate french brandiarcadestartdate_84b5659a:
 translate french brandiarcadestartdate_25d15330:
 
     # fd "Let's go play!"
-    fd "Allons jouer !"
+    fd "Allez, on joue !"
 
 # game/Scenes/Brandi/BrandiDates/brandiarcadedate.rpy:34
 translate french brandiarcadestartdate_e839fdaf:
@@ -34,13 +34,13 @@ translate french brandiarcadestartdate_e839fdaf:
 translate french brandiarcadestartdate_4a2d1196:
 
     # fd "Wow, I really suck at these don't I?"
-    fd "Ouah, je suis vraiment nul à ces jeux, pas vrai ?"
+    fd "Ouah, je suis vraiment nulle à ces jeux, hein ?"
 
 # game/Scenes/Brandi/BrandiDates/brandiarcadedate.rpy:49
 translate french brandiarcadestartdate_62c328ce:
 
     # pc "You weren't that bad!"
-    pc "Tu n’étais pas si mauvais que ça !"
+    pc "T'étais pas si terrible !"
 
 # game/Scenes/Brandi/BrandiDates/brandiarcadedate.rpy:51
 translate french brandiarcadestartdate_d41d8cd9:
@@ -52,13 +52,13 @@ translate french brandiarcadestartdate_d41d8cd9:
 translate french brandiarcadestartdate_e493ab66:
 
     # fd "Thanks, but I really was."
-    fd "Merci, mais c’est vrai que j’étais nul."
+    fd "Merci, même si c’est pas vrai."
 
 # game/Scenes/Brandi/BrandiDates/brandiarcadedate.rpy:53
 translate french brandiarcadestartdate_eaed3bf0:
 
     # fd "But if they had Burger Time, I would have trashed you at that!"
-    fd "Mais s’ils avaient eu Burger Time, je t’aurais écrasé à ce jeu-là !"
+    fd "Mais s’ils avaient eu Burger Time, je t’aurais écrasé !"
 
 # game/Scenes/Brandi/BrandiDates/brandiarcadedate.rpy:57
 translate french brandiarcadestartdate_14828dba:
@@ -82,7 +82,7 @@ translate french brandiarcadestartdate_8dde8a11:
 translate french brandiarcadestartdate_257413e9:
 
     # fd "I'm talking about sex. I want to have sex."
-    fd "Je parle de sexe. J'ai envie de faire l'amour."
+    fd "Je parle de sexe. J'ai envie de sexe."
 
 # game/Scenes/Brandi/BrandiDates/brandiarcadedate.rpy:67
 translate french brandiarcadestartdate_67e5ed47:
@@ -94,7 +94,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiDates/brandiarcadedate.rpy:4
     old "This is a date with Brandi that you can take her on by calling her in the evening after you have had sex."
-    new "C'est un rendez-vous avec Brandi auquel tu peux l'emmener en l'appelant le soir après avoir fait l'amour."
+    new "C'est un rendez-vous avec Brandi auquel tu peux l'emmener en l'appelant le soir si vous vous êtes déjà envoyés en l'air."
 
     # game/Scenes/Brandi/BrandiDates/brandiarcadedate.rpy:5
     old "To take her to the arcade, you have to have unlocked the arcade by going there with Adrian."
