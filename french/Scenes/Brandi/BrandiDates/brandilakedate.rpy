@@ -4,7 +4,7 @@
 translate french brandilakestartdate_4ea98cb1:
 
     # "I drive over to Brandi's apartment and pick her up."
-    "Je me rends en voiture à l'appartement de Brandi et je passe la prendre."
+    "Je passe prendre Brandi à son appartement."
 
 # game/Scenes/Brandi/BrandiDates/brandilakedate.rpy:27
 translate french brandilakestartdate_6d212bbc:
@@ -22,19 +22,19 @@ translate french brandilakestartdate_f634ee70:
 translate french brandilakestartdate_4861442e:
 
     # pc "You're really pretty. The way the sun shines through your hair."
-    pc "Tu es vraiment jolie. La façon dont le soleil brille à travers tes cheveux."
+    pc "Tu es vraiment jolie. Le soleil brille à travers tes cheveux."
 
 # game/Scenes/Brandi/BrandiDates/brandilakedate.rpy:33
 translate french brandilakestartdate_0aa6a56a:
 
     # pc "Just wow."
-    pc "C'est juste waouh."
+    pc "C'est juste... waouh."
 
 # game/Scenes/Brandi/BrandiDates/brandilakedate.rpy:34
 translate french brandilakestartdate_43b54510:
 
     # fd "You're sweet. I need to put some sunscreen on fast though. I can already feel more freckles popping up."
-    fd "Tu es gentil. Mais je dois vite mettre de la crème solaire. Je sens déjà que d'autres taches de rousseur apparaissent."
+    fd "Tu es gentil. Mais je dois vite mettre de la crème solaire. Je sens déjà d'autres taches de rousseur apparaître."
 
 # game/Scenes/Brandi/BrandiDates/brandilakedate.rpy:38
 translate french brandilakestartdate_93384999:
@@ -58,7 +58,7 @@ translate french brandilakestartdate_b5c5d532:
 translate french brandilakestartdate_26776725:
 
     # pc "I think I can do that."
-    pc "Je pense que je peux m'en charger."
+    pc "C'est dans mes cordes."
 
 # game/Scenes/Brandi/BrandiDates/brandilakedate.rpy:45
 translate french brandilakestartdate_5febc9f6:
@@ -76,13 +76,13 @@ translate french brandilakestartdate_4f42bd75:
 translate french brandilakestartdate_89dd67f7:
 
     # pc "I just want to make sure. Wouldn't want you to burn these gorgeous ginger buns."
-    pc "Je veux juste m'en assurer. Je ne voudrais pas que tu brûles ces magnifiques fesses rousses."
+    pc "Je veux juste être sûr. Je ne voudrais pas que tu brûles ces magnifiques fesses rousses."
 
 # game/Scenes/Brandi/BrandiDates/brandilakedate.rpy:48
 translate french brandilakestartdate_fc410af9:
 
     # fd "You're such a dork."
-    fd "Tu es vraiment un idiot."
+    fd "T'es vraiment bête."
 
 # game/Scenes/Brandi/BrandiDates/brandilakedate.rpy:51
 translate french brandilakestartdate_7c877071:
@@ -94,13 +94,13 @@ translate french brandilakestartdate_7c877071:
 translate french brandilakestartdate_8e62e9e4:
 
     # fd "I haven't gone swimming in so long. The water feels really nice."
-    fd "Je n'ai pas nagé depuis tellement longtemps. L'eau est vraiment agréable."
+    fd "Ça fait super longtemps que j'ai pas nagé. L'eau est vraiment agréable."
 
 # game/Scenes/Brandi/BrandiDates/brandilakedate.rpy:53
 translate french brandilakestartdate_d0eb297f:
 
     # fd "There's not like alligators out here or anything, is there?"
-    fd "Il n'y a pas d'alligators par ici, n'est-ce pas ?"
+    fd "Il y a pas d'alligators par ici, hein ?"
 
 # game/Scenes/Brandi/BrandiDates/brandilakedate.rpy:54
 translate french brandilakestartdate_55349d70:
