@@ -22,7 +22,7 @@ translate french brandienddate_d41d8cd9:
 translate french brandienddate_438032e1:
 
     # fd "Thanks for taking me out. I can't wait to do it again."
-    fd "Merci de m'avoir emmenée. J'ai hâte de recommencer."
+    fd "Merci de m'avoir emmenée. J'ai hâte de remettre ça."
 
 # game/Scenes/Brandi/BrandiDates/brandienddate.rpy:13
 translate french brandienddate_763b9936:
@@ -34,25 +34,25 @@ translate french brandienddate_763b9936:
 translate french brandienddate_f24da32b:
 
     # fd "I know we're getting very close, but I'm not quite ready for sex. That's okay, isn't it?"
-    fd "Je sais qu'on est très proches, mais je ne suis pas tout à fait prête pour le sexe. Ça ne te dérange pas, n'est-ce pas ?"
+    fd "Je sais qu'on se rapproche pas mal, mais je ne suis pas tout à fait prête pour le sexe. Ça ne te dérange pas, hein ?"
 
 # game/Scenes/Brandi/BrandiDates/brandienddate.rpy:16
 translate french brandienddate_f32161a2:
 
     # pc "We'll move as slowly as you want, Brandi. But I'm ready whenever you are."
-    pc "On ira aussi lentement que tu le souhaites, Brandi. Mais je suis prêt quand tu l'es."
+    pc "On ira aussi lentement qu'il te faut, Brandi. Mais quand tu seras prête, je serai là."
 
 # game/Scenes/Brandi/BrandiDates/brandienddate.rpy:19
 translate french brandienddate_a040f57f:
 
     # fd "Yeah I bet you are. I'm really looking forward to it too."
-    fd "Ouais, j'en suis sûr. J'ai vraiment hâte moi aussi."
+    fd "Ouais, j'en doute pas. J'ai vraiment hâte moi aussi."
 
 # game/Scenes/Brandi/BrandiDates/brandienddate.rpy:22
 translate french brandienddate_d2149d53:
 
     # fd "Did you, um... want to come inside?"
-    fd "Tu voulais... entrer ?"
+    fd "Tu voulais, euh... entrer ?"
 
 # game/Scenes/Brandi/BrandiDates/brandienddate.rpy:26
 translate french brandienddate_a36a87f7:
@@ -70,13 +70,13 @@ translate french brandienddate_5f7bd982:
 translate french brandienddate_5bc14b8d:
 
     # pc "Fuck, that's hot. Let's go."
-    pc "Putain, c'est excitant. Allons-y."
+    pc "Oh, tu me chauffes. Allons-y."
 
 # game/Scenes/Brandi/BrandiDates/brandienddate.rpy:31
 translate french brandienddate_c13a9df3:
 
     # fd "Good, let's go."
-    fd "Bien, allons-y."
+    fd "Oui, allons-y."
 
 # game/Scenes/Brandi/BrandiDates/brandienddate.rpy:32
 translate french brandienddate_eea1e575:
