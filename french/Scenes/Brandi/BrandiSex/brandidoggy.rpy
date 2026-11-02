@@ -10,19 +10,19 @@ translate french brandidoggy_4a09eaa8:
 translate french brandidoggy_82e26357:
 
     # "She wiggles it a little, as if she can't wait for me to be inside her."
-    "Elle remue un peu, comme si elle ne pouvait pas attendre que je sois en elle."
+    "Elle remue un peu, comme si elle était impatiente que je sois en elle."
 
 # game/Scenes/Brandi/BrandiSex/brandidoggy.rpy:16
 translate french brandidoggy_090afcb0:
 
     # pc "God damn..."
-    pc "Bon sang..."
+    pc "La vache..."
 
 # game/Scenes/Brandi/BrandiSex/brandidoggy.rpy:17
 translate french brandidoggy_1452d55b:
 
     # fd "You like that view, baby?"
-    fd "Tu aimes cette vue, bébé ?"
+    fd "Tu aimes la vue, bébé ?"
 
 # game/Scenes/Brandi/BrandiSex/brandidoggy.rpy:18
 translate french brandidoggy_879d91a0:
@@ -40,7 +40,7 @@ translate french brandidoggy_7ddb575b:
 translate french brandidoggy_aca51d2d:
 
     # pc "Yeah you do."
-    pc "Oui, c'est vrai."
+    pc "Ça c'est sûr."
 
 # game/Scenes/Brandi/BrandiSex/brandidoggy.rpy:26
 translate french brandidoggy_d6f78420:
@@ -52,7 +52,7 @@ translate french brandidoggy_d6f78420:
 translate french brandidoggy_33ac98c4:
 
     # fd "Oh gods, yes."
-    fd "Oh mon Dieu, oui."
+    fd "Oh mon dieu, oui."
 
 # game/Scenes/Brandi/BrandiSex/brandidoggy.rpy:28
 translate french brandidoggy_6d77cffe:
@@ -82,7 +82,7 @@ translate french brandidoggy_08551511:
 translate french brandidoggy_54ae96e5:
 
     # "Once she's lubed up enough that I can slide my cock easily in and out of her, I start moving faster, slamming my cock into her harder."
-    "Une fois qu’elle est suffisamment lubrifiée pour que je puisse faire glisser ma bite facilement en elle, je commence à aller plus vite, enfonçant ma bite en elle plus fort."
+    "Une fois qu’elle est assez lubrifiée pour que ma bite glisse facilement en elle, je commence à aller plus vite, enfonçant ma bite en elle plus fort."
 
 # game/Scenes/Brandi/BrandiSex/brandidoggy.rpy:39
 translate french brandidoggy_264d989e:
@@ -160,7 +160,7 @@ translate french brandidoggy_46c27801:
 translate french brandidoggy_a5371db3:
 
     # "I thrust my cock into her as deep as I can before I let go."
-    "J’enfonce ma bite en elle aussi profondément que possible avant de me laisser aller."
+    "J’enfonce ma bite en elle aussi profondément que possible avant de laisser aller."
 
 # game/Scenes/Brandi/BrandiSex/brandidoggy.rpy:69
 translate french brandidoggy_dd8847ba:
@@ -248,5 +248,5 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiSex/brandidoggy.rpy:81
     old "Cum on her butt"
-    new "Éjacule sur ses fesses"
+    new "Sur ses fesses"
 
