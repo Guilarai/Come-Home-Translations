@@ -22,7 +22,7 @@ translate french brandimovietheaterstartdate_4e350aa8:
 translate french brandimovietheaterstartdate_72767dd3:
 
     # fd "Plus it's just fun to cuddle up in the dark with somebody you like."
-    fd "En plus, c'est juste sympa de se blottir dans le noir avec quelqu'un qu'on aime bien."
+    fd "Et puis rien que se blottir dans le noir avec quelqu'un qu'on aime bien, c'est chouette."
 
 # game/Scenes/Brandi/BrandiDates/brandimoviedate.rpy:33
 translate french brandimovietheaterstartdate_6cc4cd44:
@@ -76,11 +76,11 @@ translate french brandimovietheaterstartdate_3637234b:
 translate french brandimovietheaterstartdate_56a5dea5:
 
     # "We hang out and chat throughout the credits."
-    "On reste ensemble et on discute pendant le générique."
+    "On reste à discuter pendant le générique."
 
 # game/Scenes/Brandi/BrandiDates/brandimoviedate.rpy:58
 translate french brandimovietheaterstartdate_21c5f05c:
 
     # "When the credits end, we go out to my car and I drive her home."
-    "Une fois le générique terminé, on sort vers ma voiture et je la ramène chez elle."
+    "Une fois le générique terminé, on retourne dans ma voiture et je la ramène chez elle."
 
