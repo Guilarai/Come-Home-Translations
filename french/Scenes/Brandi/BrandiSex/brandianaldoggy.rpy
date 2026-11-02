@@ -4,7 +4,7 @@
 translate french brandianaldoggy_83cf13ac:
 
     # "She bends over on the bed, giving me a full view of her from behind, wiggling it for me."
-    "Elle se penche en avant sur le lit, m'offrant une vue complète de son dos, en se trémoussant pour moi."
+    "Elle se penche en avant sur le lit, m'offrant une vue complète de son arrière, se déhanchant pour moi."
 
 # game/Scenes/Brandi/BrandiSex/brandianaldoggy.rpy:13
 translate french brandianaldoggy_3fdb9e1c:
@@ -34,7 +34,7 @@ translate french brandianaldoggy_40e18622:
 translate french brandianaldoggy_33ac98c4:
 
     # fd "Oh gods, yes."
-    fd "Oh mon Dieu, oui."
+    fd "Oh mon dieu, oui."
 
 # game/Scenes/Brandi/BrandiSex/brandianaldoggy.rpy:23
 translate french brandianaldoggy_1d990ac6:
@@ -76,7 +76,7 @@ translate french brandianaldoggy_c0fc9081:
 translate french brandianaldoggy_34b0e3d0:
 
     # fd "I can take it. It's never too much. It feels amazing."
-    fd "Je peux le supporter. C'est jamais trop. C'est incroyable."
+    fd "Je peux encaisser. C'est jamais trop. C'est incroyable."
 
 # game/Scenes/Brandi/BrandiSex/brandianaldoggy.rpy:43
 translate french brandianaldoggy_313bb4c1:
@@ -148,13 +148,13 @@ translate french brandianaldoggy_46c27801:
 translate french brandianaldoggy_a5371db3:
 
     # "I thrust my cock into her as deep as I can before I let go."
-    "J’enfonce ma bite en elle aussi profondément que possible avant de me laisser aller."
+    "J’enfonce ma bite en elle aussi profondément que possible avant de laisser aller."
 
 # game/Scenes/Brandi/BrandiSex/brandianaldoggy.rpy:69
 translate french brandianaldoggy_dd8847ba:
 
     # fd "Oh fuuuuuck!"
-    fd "Oh putain !"
+    fd "Oh puuuutaaaain !"
 
 # game/Scenes/Brandi/BrandiSex/brandianaldoggy.rpy:70
 translate french brandianaldoggy_365c6c40:
@@ -194,5 +194,5 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiSex/brandianaldoggy.rpy:3
     old "you can choose to have doggystyle anal any time you have sex."
-    new "tu peux choisir de la prendre en levrette à chaque fois que vous faites l'amour."
+    new "tu peux choisir de le faire en levrette quand vous couchez ensemble."
 
