@@ -8,5 +8,5 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiSex/brandianalmissionary.rpy:5
     old "you can choose to have anal missionary any time you have sex."
-    new "tu peux choisir de la prendre en missionnaire à chaque fois que vous faites l'amour."
+    new "tu peux choisir de le faire en missionnaire à chaque fois que vous couchez."
 
