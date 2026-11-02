@@ -16,19 +16,19 @@ translate french brandigrottodate_d4bd1cfb:
 translate french brandigrottodate_d764bda6:
 
     # fd "But I'll make an exception for this place. The ambience is worth it."
-    fd "Mais je ferai une exception pour cet endroit. L’ambiance en vaut la peine."
+    fd "Mais pour celui-ci, je ferai une exception. L’ambiance en vaut la peine."
 
 # game/Scenes/Brandi/BrandiDates/brandigrottodate.rpy:24
 translate french brandigrottodate_7b462816:
 
     # fd "I'll pay, okay? No worries."
-    fd "Je paie, d’accord ? Pas de souci."
+    fd "Je paie, d’accord ? T'inquiète."
 
 # game/Scenes/Brandi/BrandiDates/brandigrottodate.rpy:25
 translate french brandigrottodate_dc9c251c:
 
     # fd "I'll make a blog post about it, then count it as a tax write-off."
-    fd "Je ferai un article de blog là-dessus, et je le mettrai en déduction fiscale."
+    fd "J'en ferai un article de blog, et je le mettrai en déduction fiscale."
 
 # game/Scenes/Brandi/BrandiDates/brandigrottodate.rpy:26
 translate french brandigrottodate_eac9d6ce:
@@ -40,7 +40,7 @@ translate french brandigrottodate_eac9d6ce:
 translate french brandigrottodate_56bb4503:
 
     # "Brandi and I just chat the whole time."
-    "Brandi et moi, on discute tout le temps."
+    "Brandi et moi discutons tout du long."
 
 # game/Scenes/Brandi/BrandiDates/brandigrottodate.rpy:35
 translate french brandigrottodate_f4447626:
@@ -118,7 +118,7 @@ translate french brandigrottodate_d3f25016:
 translate french brandigrottodate_a7d4dcfc:
 
     # fd "It's your dick. I'm having your dick for dessert."
-    fd "C'est ta bite. Je vais prendre ta bite en dessert."
+    fd "Je parle de ta bite. Je vais la prendre en dessert."
 
 # game/Scenes/Brandi/BrandiDates/brandigrottodate.rpy:69
 translate french brandigrottodate_caba80db:
@@ -140,5 +140,5 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiDates/brandigrottodate.rpy:3
     old "If you have unlocked The Grotto on Whitney's path, you'll be able to take Brandi there."
-    new "Si tu as débloqué The Grotto dans le parcours de Whitney, tu pourras y emmener Brandi."
+    new "Si tu as débloqué le Grotto dans l'histoire de Whitney, tu pourras y emmener Brandi."
 
