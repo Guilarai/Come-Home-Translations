@@ -34,7 +34,7 @@ translate french brandisexend_43a055b4:
 translate french brandisexend_819047db:
 
     # fd "Let's do it again soon, okay?"
-    fd "On recommence bientôt, d'accord ?"
+    fd "On remet ça bientôt, d'accord ?"
 
 # game/Scenes/Brandi/BrandiSex/brandisex.rpy:44
 translate french brandisexend_118a089e:
@@ -46,7 +46,7 @@ translate french brandisexend_118a089e:
 translate french brandisexend_b347fece:
 
     # "We lie there cuddling, talking occasionally about small things, until we both drift off to sleep together."
-    "On reste allongés là, à se câliner, à parler de temps en temps de petites choses, jusqu’à ce qu’on s’endorme tous les deux ensemble."
+    "On reste allongés là, à se câliner, à parler de temps en temps de petites choses, jusqu’à ce qu’on s’endorme ensemble."
 
 # game/Scenes/Brandi/BrandiSex/brandisex.rpy:52
 translate french brandisexend_d7c9f974:
@@ -58,7 +58,7 @@ translate french brandisexend_d7c9f974:
 translate french brandisexend_6822bfe7:
 
     # "Then in the morning, we eat a quick breakfast together, before we both have to go our separate ways."
-    "Puis, le matin, on prend un petit-déjeuner rapide ensemble, avant de devoir chacun suivre notre chemin."
+    "Puis, le matin, on prend un petit-déjeuner rapide ensemble, avant de devoir se quitter."
 
 # game/Scenes/Brandi/BrandiSex/brandisex.rpy:59
 translate french brandisexend_d41d8cd9:
@@ -70,13 +70,13 @@ translate french brandisexend_d41d8cd9:
 translate french brandisexend_5ca33987:
 
     # fd "I had a great night, [pcname]. Let's do it again soon, okay?"
-    fd "J’ai passé une super nuit, [pcname]. On recommence bientôt, d’accord ?"
+    fd "J’ai passé une super nuit, [pcname]. On remet ça bientôt, d’accord ?"
 
 # game/Scenes/Brandi/BrandiSex/brandisex.rpy:63
 translate french brandisexend_1e2ed4e3:
 
     # "After we say our goodbyes, I leave to go on with my day."
-    "Après s’être dit au revoir, je pars vaquer à mes occupations."
+    "Une fois qu'on s'est dit au revoir, je pars pour la suite de ma journée."
 
 translate french strings:
 
