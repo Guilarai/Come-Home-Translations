@@ -4,7 +4,7 @@
 translate french brandiphone_7f737b46:
 
     # "The phone rings a few times before going to voice mail. I guess she's busy right now, but I'll leave her a message."
-    "Le téléphone sonne plusieurs fois avant de passer sur la messagerie vocale. Je suppose qu'elle est occupée pour le moment, mais je vais lui laisser un message."
+    "Le téléphone sonne plusieurs fois avant d'arriver sur messagerie. On dirait qu'elle est occupée pour le moment, mais je vais lui laisser un message."
 
 # game/Scenes/Brandi/brandiphone.rpy:13
 translate french brandiphone_13b19534:
@@ -64,25 +64,25 @@ translate french brandiphone_33d3bb38:
 translate french brandiphone_aaec8874:
 
     # fd "Sure, what do you want to chat about?"
-    fd "Bien sûr, de quoi veux-tu parler ?"
+    fd "Bien sûr, de quoi tu veux parler ?"
 
 # game/Scenes/Brandi/brandiphone.rpy:33
 translate french brandiphone_b6985f40:
 
     # "We finish talking and eventually hang up."
-    "On finit de parler et on raccroche finalement."
+    "On finit de parler, puis on raccroche."
 
 # game/Scenes/Brandi/brandiphone.rpy:39
 translate french brandiphone_b7c4dd6f:
 
     # "Then I start getting ready for bed."
-    "Puis je commence à me préparer pour aller me coucher."
+    "Et je commence à me préparer pour aller me coucher."
 
 # game/Scenes/Brandi/brandiphone.rpy:42
 translate french brandiphone_451955f4:
 
     # "Then I rush off to school."
-    "Puis je file à l'école."
+    "Et je file à la fac."
 
 # game/Scenes/Brandi/brandiphone.rpy:48
 translate french brandiphone_33d3bb38_1:
@@ -94,25 +94,25 @@ translate french brandiphone_33d3bb38_1:
 translate french brandiphone_aaec8874_1:
 
     # fd "Sure, what do you want to chat about?"
-    fd "D'accord, de quoi veux-tu parler ?"
+    fd "D'accord, de quoi tu veux parler ?"
 
 # game/Scenes/Brandi/brandiphone.rpy:51
 translate french brandiphone_b6985f40_1:
 
     # "We finish talking and eventually hang up."
-    "On finit de parler et on raccroche finalement."
+    "On finit de parler, puis on raccroche."
 
 # game/Scenes/Brandi/brandiphone.rpy:57
 translate french brandiphone_b7c4dd6f_1:
 
     # "Then I start getting ready for bed."
-    "Puis je commence à me préparer pour aller me coucher."
+    "Et je commence à me préparer pour aller me coucher."
 
 # game/Scenes/Brandi/brandiphone.rpy:60
 translate french brandiphone_451955f4_1:
 
     # "Then I rush off to school."
-    "Puis je file à l'école."
+    "Et je file à la fac."
 
 # game/Scenes/Brandi/brandiphone.rpy:72
 translate french brandiphone_96f8eeaa:
@@ -124,7 +124,7 @@ translate french brandiphone_96f8eeaa:
 translate french brandiphone_c55977ff:
 
     # fd "Well, good. I would have hated to break up with you over that."
-    fd "Eh bien, tant mieux. J'aurais détesté rompre avec toi à cause de ça."
+    fd "Eh bien, tant mieux. J'aurais détesté rompre avec toi pour ça."
 
 # game/Scenes/Brandi/brandiphone.rpy:78
 translate french brandiphone_fdb07443:
@@ -154,7 +154,7 @@ translate french brandiphone_d41d8cd9_1:
 translate french brandiphone_1a20803b:
 
     # fd "Awesome! We're going to make a ton of money, I think."
-    fd "Génial ! On va se faire un paquet de fric, je pense."
+    fd "Génial ! On va se faire un paquet de fric, je crois."
 
 # game/Scenes/Brandi/brandiphone.rpy:87
 translate french brandiphone_b1ef7bff:
@@ -286,7 +286,7 @@ translate french brandiphone_7b65be44:
 translate french brandiphone_d693640a:
 
     # fd "Thanks for being cool about this. I think it's going to end up being a very good thing."
-    fd "Merci d'être cool à ce sujet. Je pense que ça va finir par être une très bonne chose."
+    fd "Merci d'être cool avec ça. Je pense que ça va finir par être une très bonne chose."
 
 # game/Scenes/Brandi/brandiphone.rpy:125
 translate french brandiphone_018464d2:
@@ -346,7 +346,7 @@ translate french brandiphone_8019ef22:
 translate french brandidatesetup_97480337:
 
     # fd "Yeah, let's do it!"
-    fd "Ouais, c'est parti !"
+    fd "Oh ouais, allez !"
 
 # game/Scenes/Brandi/brandiphone.rpy:151
 translate french brandidatesetup_c2c95371:
@@ -394,13 +394,13 @@ translate french brandidatesetup_0bec02d2_1:
 translate french brandidatesetup_0bec02d2_2:
 
     # fd "Sounds good to me! I had a big lunch and should probably walk it off anyway."
-    fd "Ça me va ! J'ai bien mangé et je devrais probablement aller marcher pour digérer de toute façon."
+    fd "Ça me va ! J'ai beaucoup mangé au déjeuner et ça me fera du bien de marcher un peu de toute façon."
 
 # game/Scenes/Brandi/brandiphone.rpy:186
 translate french brandidatesetup_0bec02d2_3:
 
     # fd "Sounds good to me! I had a big lunch and should probably walk it off anyway."
-    fd "Ça me va ! J'ai bien mangé et je devrais probablement aller marcher pour digérer de toute façon."
+    fd "Ça me va ! J'ai beaucoup mangé au déjeuner et ça me fera du bien de marcher un peu de toute façon."
 
 # game/Scenes/Brandi/brandiphone.rpy:191
 translate french brandidatesetup_d41d8cd9:
@@ -502,15 +502,15 @@ translate french strings:
 
     # game/Scenes/Brandi/brandiphone.rpy:47
     old "Just chat (NEW CONTENT)"
-    new "Juste discuter (NOUVEAU CONTENU)"
+    new "Discuter (NOUVEAU CONTENU)"
 
     # game/Scenes/Brandi/brandiphone.rpy:66
     old "Go on a date"
-    new "Aller à un rendez-vous"
+    new "Aller à un rencard"
 
     # game/Scenes/Brandi/brandiphone.rpy:68
     old "Go on a date (NEW CONTENT)"
-    new "Aller à un rendez-vous (NOUVEAU CONTENU)"
+    new "Aller à un rencard (NOUVEAU CONTENU)"
 
     # game/Scenes/Brandi/brandiphone.rpy:70
     old "Talk about the cam show"
@@ -550,17 +550,17 @@ translate french strings:
 
     # game/Scenes/Brandi/brandiphone.rpy:229
     old "Grotto"
-    new "Grotte"
+    new "Grotto"
 
     # game/Scenes/Brandi/brandiphone.rpy:233
     old "Grotto (NEW)"
-    new "Grotte (NOUVEAU)"
+    new "Grotto (NOUVEAU)"
 
     # game/Scenes/Brandi/brandiphone.rpy:237
     old "Grotto (NEW SEX CONTENT)"
-    new "Grotte (NOUVEAU CONTENU SEXUEL)"
+    new "Grotto (NOUVEAU CONTENU SEXUEL)"
 
     # game/Scenes/Brandi/brandiphone.rpy:241
     old "Grotto (NEW CONVERSATIONS)"
-    new "Grotte (NOUVELLES CONVERSATIONS)"
+    new "Grotto (NOUVELLES CONVERSATIONS)"
 
