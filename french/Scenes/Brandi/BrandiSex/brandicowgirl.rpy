@@ -10,19 +10,19 @@ translate french brandicowgirl_8ca10f15:
 translate french brandicowgirl_d0e179a8:
 
     # fd "Let me know if I go too hard. I sometimes get carried away."
-    fd "Dis-moi si j'y vais trop fort. Je m'emballe parfois un peu."
+    fd "Dis-moi si j'y vais trop fort. Je m'emballe un peu parfois."
 
 # game/Scenes/Brandi/BrandiSex/brandicowgirl.rpy:15
 translate french brandicowgirl_997d83f8:
 
     # pc "I hope you do. I want to see you get carried away."
-    pc "J'espère bien. J'ai envie de te voir te laisser emporter."
+    pc "J'espère bien. Je veux te voir t'emballer."
 
 # game/Scenes/Brandi/BrandiSex/brandicowgirl.rpy:16
 translate french brandicowgirl_c569e66a:
 
     # fd "You just might."
-    fd "Tu vas peut-être bien le faire."
+    fd "Ton voeu sera peut-être exaucé."
 
 # game/Scenes/Brandi/BrandiSex/brandicowgirl.rpy:21
 translate french brandicowgirl_bfee3f74:
@@ -46,19 +46,19 @@ translate french brandicowgirl_276da21c:
 translate french brandicowgirl_d732f270:
 
     # pc "You're so fucking sexy right now."
-    pc "Tu es tellement sexy en ce moment."
+    pc "Regarde-toi, t'es tellement sexy."
 
 # game/Scenes/Brandi/BrandiSex/brandicowgirl.rpy:30
 translate french brandicowgirl_1fd01567:
 
     # "She starts moving, slowly at first, then building up momentum."
-    "Elle commence à bouger, lentement au début, puis elle prend de l'élan."
+    "Elle commence à bouger, lentement au début, puis de plus en plus vite."
 
 # game/Scenes/Brandi/BrandiSex/brandicowgirl.rpy:31
 translate french brandicowgirl_4e495d8b:
 
     # "Her ass bounces up and down. It's so thick and juicy and every time she drops it down, her cheeks slap against my thighs."
-    "Son cul rebondit de haut en bas. Il est si rebondi et juteux, et à chaque fois qu’elle s’abaisse, ses fesses claquent contre mes cuisses."
+    "Son cul rebondit de haut en bas. Il est si rebondi et voluptueux, et à chaque fois qu’elle s’abaisse, ses fesses claquent contre mes cuisses."
 
 # game/Scenes/Brandi/BrandiSex/brandicowgirl.rpy:32
 translate french brandicowgirl_766f2349:
@@ -100,13 +100,13 @@ translate french brandicowgirl_e81c14ce:
 translate french brandicowgirl_e77d6811:
 
     # fd "Gods, I love your cock so much."
-    fd "Mon Dieu, j'aime tellement ta bite."
+    fd "Mon dieu, j'aime tellement ta bite."
 
 # game/Scenes/Brandi/BrandiSex/brandicowgirl.rpy:45
 translate french brandicowgirl_a886c4ec:
 
     # fd "Where do you want to cum, baby?"
-    fd "Où veux-tu jouir, bébé ?"
+    fd "Tu veux jouir où, bébé ?"
 
 # game/Scenes/Brandi/BrandiSex/brandicowgirl.rpy:56
 translate french brandicowgirl_73a42d2a:
@@ -178,7 +178,7 @@ translate french brandicowgirl_bc6864a5:
 translate french brandicowgirl_1def02a6:
 
     # fd "So delicious."
-    fd "C'est tellement délicieux."
+    fd "Délicieux."
 
 # game/Scenes/Brandi/BrandiSex/brandicowgirl.rpy:88
 translate french brandicowgirl_dc72c0c2:
@@ -198,9 +198,9 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiSex/brandicowgirl.rpy:51
     old "Cum Inside"
-    new "Éjacule à l'intérieur"
+    new "À l'intérieur"
 
     # game/Scenes/Brandi/BrandiSex/brandicowgirl.rpy:67
     old "Cum in her mouth"
-    new "Éjacule dans sa bouche"
+    new "Dans sa bouche"
 
