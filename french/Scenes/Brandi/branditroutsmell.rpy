@@ -22,7 +22,7 @@ translate french branditroutsmell_5281a818:
 translate french branditroutsmell_dcfced76:
 
     # fd "I was wondering... how do you feel about threesomes?"
-    fd "Je me demandais... qu'est-ce que tu penses des trios ?"
+    fd "Je me demandais... ça te dirait, un plan à trois ?"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:21
 translate french branditroutsmell_e4eb0b32:
@@ -40,13 +40,13 @@ translate french branditroutsmell_9272a252:
 translate french branditroutsmell_2dc89fcb:
 
     # fd "There's a girl who has been in my chat for a long time."
-    fd "Il y a une fille qui discute avec moi depuis longtemps."
+    fd "Y a une fille qui est dans mon chat depuis un moment."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:25
 translate french branditroutsmell_b53caecc:
 
     # fd "At first I wasn't too sure about her, but recently we started talking more and she's pretty cool."
-    fd "Au début, je n'étais pas très sûre d'elle, mais récemment, on a commencé à parler davantage et elle est plutôt sympa."
+    fd "Au début, je me méfiais un peu, mais récemment, on a commencé à parler un peu plus et elle est plutôt sympa."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:27
 translate french branditroutsmell_56db4bf3:
@@ -58,25 +58,25 @@ translate french branditroutsmell_56db4bf3:
 translate french branditroutsmell_bfec8c95:
 
     # fd "So I thought, if you're up for it, maybe we do a threesome on cam?"
-    fd "Alors je me suis dit que si ça te disait, on pourrait peut-être faire un plan à trois devant la caméra ?"
+    fd "Alors je me suis dit que si ça te disait, on pourrait peut-être faire un plan à trois en live ?"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:29
 translate french branditroutsmell_47e95897:
 
     # fd "Could be fun and would likely bring in a lot of money."
-    fd "Ça pourrait être sympa et ça nous rapporterait sûrement pas mal d'argent."
+    fd "Ça pourrait être sympa et ça nous rapporterait sûrement pas mal de pognon."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:31
 translate french branditroutsmell_64047bf1:
 
     # fd "I've never really been with another woman before, aside from some experimentation when I was in high school, so it'll be a new experience for me."
-    fd "Je n’ai jamais vraiment été avec une autre femme avant, à part quelques expériences quand j’étais au lycée, donc ce sera une nouvelle expérience pour moi."
+    fd "J’ai jamais fait de trucs avec une autre femme avant, à part quelques expériences quand j’étais au lycée, donc ce sera une nouvelle expérience pour moi."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:33
 translate french branditroutsmell_74c0d89a:
 
     # pc "So it's something you want to do?"
-    pc "C’est quelque chose que tu as envie de faire ?"
+    pc "Et t'aurais envie de le faire ?"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:35
 translate french branditroutsmell_6e599774:
@@ -100,7 +100,7 @@ translate french branditroutsmell_fdf2b39c:
 translate french branditroutsmell_e03527b5:
 
     # fd "Okay, no problem. Won't bring it up again."
-    fd "D’accord, pas de problème. Je n’en reparlerai plus."
+    fd "D’accord, pas de problème. J’en reparlerai plus."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:45
 translate french branditroutsmell_44cee1e8:
@@ -118,19 +118,19 @@ translate french branditroutsmell_2aeade94:
 translate french branditroutsmell_3b93ea51:
 
     # fd "Awesome. I'll call her up then. Want to go ahead and come over?"
-    fd "Génial. Je vais l'appeler alors. Tu veux venir tout de suite ?"
+    fd "Génial. Je l'appelle alors. Tu veux venir tout de suite ?"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:52
 translate french branditroutsmell_0fbfd29f:
 
     # pc "Sure, I'll head that way now."
-    pc "Bien sûr, j'y vais tout de suite."
+    pc "Bien sûr, j'arrive, le temps de me préparer."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:53
 translate french branditroutsmell_ef354151:
 
     # fd "Thanks, [pcname]. This is going to be fun!"
-    fd "Merci, [pcname]. Ça va être sympa !"
+    fd "Merci, [pcname]. On va s'amuser !"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:56
 translate french branditroutsmell_3bce7ed5:
@@ -154,7 +154,7 @@ translate french branditroutsmell_1cb8d44c:
 translate french branditroutsmell_04b148b5:
 
     # "Other woman" "Oh my God, it's him. This is really happening!"
-    "Other woman" "Oh mon Dieu, c’est lui. Ça arrive vraiment !"
+    "Other woman" "Oh mon dieu, c’est lui. On va vraiment le faire !"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:65
 translate french branditroutsmell_6524ed47:
@@ -178,43 +178,43 @@ translate french branditroutsmell_cfa00ece:
 translate french branditroutsmell_a7157f75:
 
     # ts "I can't believe I'm actually here with you two!"
-    ts "Je n’arrive pas à croire que je suis vraiment là avec vous deux !"
+    ts "J’arrive pas à croire que je suis vraiment là avec vous deux !"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:71
 translate french branditroutsmell_df21f1ba:
 
     # "She hugs me close, pressing her whole body against me."
-    "Elle me serre fort dans ses bras, pressant tout son corps contre moi."
+    "Elle me presse son corps tout entier contre moi."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:72
 translate french branditroutsmell_5b68b7d6:
 
     # ts "I promised Brandi that I wouldn't try to steal you away from her..."
-    ts "J'ai promis à Brandi que je n'essaierais pas de te lui voler..."
+    ts "J'ai promis à Brandi que j'essaierai pas de te mettre le grappin dessus..."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:73
 translate french branditroutsmell_b25ef091:
 
     # ts "... but I'll do literally anything you want to do with me."
-    ts "... mais je ferai littéralement tout ce que tu veux faire avec moi."
+    ts "... mais je suis prête à faire tout ce que tu veux qu'on fasse."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:74
 translate french branditroutsmell_9beb28da:
 
     # ts "You're so fucking hot."
-    ts "Tu es tellement sexy."
+    ts "Littéralement. Tu es tellement canon."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:77
 translate french branditroutsmell_c8c85d59:
 
     # fd "Okay, so I guess we should get this show going."
-    fd "Bon, je suppose qu'on devrait lancer le show."
+    fd "Bon, je crois qu'il est temps de lancer le show."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:78
 translate french branditroutsmell_1d196bd2:
 
     # fd "I'll get everything set up."
-    fd "Je vais tout installer."
+    fd "Je vais préparer le nécessaire."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:81
 translate french branditroutsmell_716f034a:
@@ -226,13 +226,13 @@ translate french branditroutsmell_716f034a:
 translate french branditroutsmell_89c9634a:
 
     # fd "Hi everybody! Boy do we have something special for you today."
-    fd "Salut tout le monde ! On a quelque chose de spécial pour vous aujourd’hui."
+    fd "Salut tout le monde ! Aujourd’hui, on a quelque chose de très très spécial pour vous."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:83
 translate french branditroutsmell_991deea2:
 
     # fd "You all probably know my boyfriend, [pcname], by now."
-    fd "Vous connaissez probablement tous mon copain, [pcname], maintenant."
+    fd "Vous connaissez sûrement tous mon mec, [pcname]."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:84
 translate french branditroutsmell_3e6676d9:
@@ -244,13 +244,13 @@ translate french branditroutsmell_3e6676d9:
 translate french branditroutsmell_6ef22699:
 
     # ts "That's right, bitches! I told you I was hot!"
-    ts "C’est ça, les salopes ! Je vous avais dit que j’étais sexy !"
+    ts "Hé ouais, les pétasses ! J'vous avais dit que j’étais bonne !"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:88
 translate french branditroutsmell_0e5343da:
 
     # fd "I brought her here so that we could have our first threesome together."
-    fd "Je l’ai amenée ici pour qu’on puisse faire notre premier plan à trois ensemble."
+    fd "Je l’ai invitée pour qu’on puisse faire notre premier plan à trois ensemble."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:89
 translate french branditroutsmell_66fc4f9c:
@@ -268,7 +268,7 @@ translate french branditroutsmell_07ef53a9:
 translate french branditroutsmell_25c96afc:
 
     # fd "Maybe a little bit of girl on girl."
-    fd "Peut-être un petit peu de fille à fille."
+    fd "Peut-être un peu de fille-sur-fille."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:92
 translate french branditroutsmell_504d00e0:
@@ -298,7 +298,7 @@ translate french branditroutsmell_2b89a239:
 translate french branditroutsmell_da522ab2:
 
     # fd "Yours are quite nice too. Also pierced! So sexy."
-    fd "Les tiens sont plutôt jolis aussi. Et percés en plus ! Tellement sexy."
+    fd "Les tiens sont plutôt jolis aussi. Et percés en plus ! Super sexy."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:99
 translate french branditroutsmell_398516f9:
@@ -322,7 +322,7 @@ translate french branditroutsmell_197ee7fa:
 translate french branditroutsmell_e50c047d:
 
     # ts "God damn, it's so fucking beautiful."
-    ts "Putain, elle est tellement belle."
+    ts "Putain, elle en jette."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:105
 translate french branditroutsmell_9e319325:
@@ -334,7 +334,7 @@ translate french branditroutsmell_9e319325:
 translate french branditroutsmell_68759893:
 
     # ts "It looks delicious on camera, but here in real life... just magnificent."
-    ts "Elle a l'air délicieuse à l'écran, mais ici, en vrai… c'est tout simplement magnifique."
+    ts "Elle est déjà délicieuse à l'écran, mais en vrai… c'est juste magnifique."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:107
 translate french branditroutsmell_4161f180:
@@ -346,13 +346,13 @@ translate french branditroutsmell_4161f180:
 translate french branditroutsmell_eb95cac0:
 
     # ts "Let's see."
-    ts "Voyons voir."
+    ts "On va voir."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:111
 translate french branditroutsmell_f5cddcc4:
 
     # "She tries to go down on my cock, but can't quite take it all the way."
-    "Elle essaie de prendre ma bite en bouche, mais n'arrive pas à la prendre entièrement."
+    "Elle prend ma bite en bouche, mais n'arrive pas à aller jusqu'au bout."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:112
 translate french branditroutsmell_cb824ca0:
@@ -376,19 +376,19 @@ translate french branditroutsmell_56a74df9:
 translate french branditroutsmell_d1dc78f1:
 
     # fd "Let me give it a try now."
-    fd "Laisse-moi essayer maintenant."
+    fd "À mon tour d'essayer."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:118
 translate french branditroutsmell_d074a4d9:
 
     # ts "Okay, I bow to the master."
-    ts "OK, je m'incline devant la maîtresse."
+    ts "OK, je m'incline devant l'experte."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:119
 translate french branditroutsmell_654fd4d8:
 
     # ts "Not as easy as it looks, folks. That's fucking talent right there."
-    ts "C'est pas aussi facile que ça en a l'air, les amis. C'est du putain de talent, ça."
+    ts "C'est pas aussi facile que ça en a l'air, les amis. Y a du putain de talent, là."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:122
 translate french branditroutsmell_d64872a8:
@@ -412,13 +412,13 @@ translate french branditroutsmell_d8e33807:
 translate french branditroutsmell_ef3f08b8:
 
     # fd "Maybe just some kissing to start off with?"
-    fd "Peut-être juste quelques baisers pour commencer ?"
+    fd "Peut-être juste quelques bisous pour commencer ?"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:126
 translate french branditroutsmell_6638b749:
 
     # ts "Sure, that's a good start."
-    ts "Bien sûr, c'est un bon début."
+    ts "Ouais, c'est un bon début."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:129
 translate french branditroutsmell_838bdce0:
@@ -436,7 +436,7 @@ translate french branditroutsmell_cf7a35cb:
 translate french branditroutsmell_6edfdb55:
 
     # "Fuck, it's hot. My cock is rock hard."
-    "Putain, c'est chaud. Ma bite est dure comme du roc."
+    "Putain, c'est chaud. Je bande comme un âne."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:132
 translate french branditroutsmell_d3e86f24:
@@ -460,7 +460,7 @@ translate french branditroutsmell_5b47569f:
 translate french branditroutsmell_fb4cb93a:
 
     # fd "I can confirm for the chat. It does {i}not{/i} smell like trout."
-    fd "Je peux le confirmer pour le chat. Ça ne sent {i}pas{/i} la truite."
+    fd "Je confirme pour le chat : non, ça ne sent pas la truite."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:139
 translate french branditroutsmell_2e74e4b1:
@@ -568,7 +568,7 @@ translate french branditroutsmell_0c675d3d:
 translate french branditroutsmell_b4877324:
 
     # ts "Your pussy tastes so good on his cock, Brandi."
-    ts "Ta chatte a tellement bon sur sa bite, Brandi."
+    ts "Ta chatte a tellement bon goût sur sa bite, Brandi."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:165
 translate french branditroutsmell_795d72c1:
@@ -592,7 +592,7 @@ translate french branditroutsmell_e76c5bb7:
 translate french branditroutsmell_860f0e5e:
 
     # fd "Oh fuck yes, you're so good."
-    fd "Oh putain oui, t’es tellement douée."
+    fd "Oh putain oui, t’es bonne."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:171
 translate french branditroutsmell_d72f5e5a:
@@ -604,7 +604,7 @@ translate french branditroutsmell_d72f5e5a:
 translate french branditroutsmell_ba3587f6:
 
     # ts "Oh please let me have some of that dick. I've been wanting it this whole time."
-    ts "Oh s'il te plaît, laisse-moi goûter à cette bite. J'en ai envie depuis le début."
+    ts "Oh s'il te plaît, je veux cette bite. J'en ai envie depuis le début."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:176
 translate french branditroutsmell_66644cfd:
@@ -634,7 +634,7 @@ translate french branditroutsmell_ae5ef9e0:
 translate french branditroutsmell_48f00715:
 
     # "But it's so hot and it feels so good that before long..."
-    "Mais c'est tellement excitant et ça fait tellement de bien que très vite..."
+    "Mais c'est tellement excitant et tellement bon que très vite..."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:181
 translate french branditroutsmell_a2d39bd6:
@@ -646,7 +646,7 @@ translate french branditroutsmell_a2d39bd6:
 translate french branditroutsmell_0bfc520f:
 
     # "They move quickly, both lying on their backs in front of me, mouths open."
-    "Elles s'esquivèrent rapidement, s'allongeant toutes les deux sur le dos devant moi, la bouche ouverte."
+    "Elles s'enlèvent rapidement, s'allongeant toutes les deux sur le dos devant moi, la bouche ouverte."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:185
 translate french branditroutsmell_ec0b38b6:
@@ -670,7 +670,7 @@ translate french branditroutsmell_15972c3d:
 translate french branditroutsmell_d7476437:
 
     # ts "Oh God, yes, I love it."
-    ts "Oh mon Dieu, oui, j'adore ça."
+    ts "Oh mon Dieu, oui, j'adore."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:191
 translate french branditroutsmell_a6ad664d:
@@ -688,7 +688,7 @@ translate french branditroutsmell_86e9cdac:
 translate french branditroutsmell_6878057b:
 
     # ts "No, you are."
-    ts "Non, c'est toi."
+    ts "C'est toi qui es sexy."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:198
 translate french branditroutsmell_f55b09a9:
@@ -712,25 +712,25 @@ translate french branditroutsmell_e267555c:
 translate french branditroutsmell_e21ba183:
 
     # ts "Oh and here's some feet for that one foot weirdo!"
-    ts "Oh, et voilà des pieds pour ce taré des pieds !"
+    ts "Ah et tiens, et voilà des pieds pour le fétichiste !"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:202
 translate french branditroutsmell_70e4b2f7:
 
     # fd "Haha, okay that's the end of the show. See you all later!"
-    fd "Haha, bon, c'est la fin du show. À plus tard, les gars !"
+    fd "Haha, bon, c'est la fin du show. À plus tard, tout le monde !"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:203
 translate french branditroutsmell_d4387024:
 
     # ts "Bye, bitches!"
-    ts "Salut, les salopes !"
+    ts "Ciao, les pétasses !"
 
 # game/Scenes/Brandi/branditroutsmell.rpy:207
 translate french branditroutsmell_5c2b2e30:
 
     # "When Brandi shuts the stream down, the three of us lie on the bed for a few minutes together, basking in the afterglow of everything."
-    "Quand Brandi coupe le stream, on reste toutes les trois allongées sur le lit pendant quelques minutes, savourant les derniers instants de tout ça."
+    "Quand Brandi coupe le stream, on reste tous les trois allongés sur le lit quelques minutes, savourant cette plénitude d'après-coït."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:208
 translate french branditroutsmell_03410561:
@@ -742,7 +742,7 @@ translate french branditroutsmell_03410561:
 translate french branditroutsmell_84fd6db2:
 
     # ts "Hell yeah. Any time you two want a third, just give me a call. That felt amazing."
-    ts "Oh oui, carrément. Si jamais vous avez envie d'une troisième, appelez-moi. C'était génial."
+    ts "Oh oui, carrément. Quand vous voulez une troisième roue, vous m'appelez. C'était génial."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:210
 translate french branditroutsmell_e0faf12a:
@@ -760,7 +760,7 @@ translate french branditroutsmell_78b8e5ef:
 translate french branditroutsmell_66364e75:
 
     # "It's a little awkward, even after we just fucked each other, but Tracy is pretty cool."
-    "C'est un peu gênant, même après qu'on vient de baiser ensemble, mais Tracy est plutôt cool."
+    "Il y a un petit peu de malaise, même si on vient de baiser ensemble, mais Tracy est plutôt cool."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:215
 translate french branditroutsmell_3f09940c:
@@ -784,25 +784,25 @@ translate french branditroutsmell_35401df2:
 translate french branditroutsmell_355d6e35:
 
     # fd "I could always use more girl friends, that's for sure."
-    fd "J’ai toujours besoin de plus d’amies, ça c’est sûr."
+    fd "J’aurai bien besoin de plus d’amies filles, ça c’est sûr."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:221
 translate french branditroutsmell_ee1d8738:
 
     # fd "I'll definitely keep in touch with you. We'll hang out again sometime."
-    fd "Je resterai définitivement en contact avec vous. On se reverra un de ces jours."
+    fd "Tu peux être sûre que je garderai le contact. On se reverra un de ces jours."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:224
 translate french branditroutsmell_c49c04ab:
 
     # ts "And, I'm sorry about anything mean I ever said about you, Brandi."
-    ts "Et, je suis désolée pour toutes les méchancetés que j’ai pu dire à ton sujet, Brandi."
+    ts "Et, je suis désolée pour les méchancetés que j’ai pu dire à ton sujet, Brandi."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:225
 translate french branditroutsmell_b746e652:
 
     # ts "I think you're really cool. I might have been a bit jealous when I saw how much [pcname] liked you."
-    ts "Je te trouve vraiment cool. J’étais peut-être un peu jalouse quand j’ai vu à quel point [pcname] t’aimait bien."
+    ts "Je te trouve vraiment cool. J’étais peut-être un peu jalouse quand j’ai vu comme [pcname] t’aimait bien."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:226
 translate french branditroutsmell_d596f209:
@@ -838,13 +838,13 @@ translate french branditroutsmell_e9e7dca3:
 translate french branditroutsmell_0ba1bf66:
 
     # ts "Okay, I better take off before I embarrass myself further. You two take care. Text me any time."
-    ts "Bon, je ferais mieux de filer avant de me ridiculiser davantage. Prenez soin de vous. Envoie-moi un texto quand tu veux."
+    ts "Bon, je ferais mieux de filer avant d'avoir encore plus la honte. Prenez soin de vous. Envoyez-moi un message quand vous voulez."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:234
 translate french branditroutsmell_1fec267c:
 
     # fd "Bye, Tracy. I will text you, I promise."
-    fd "Salut, Tracy. Je t'enverrai un texto, c'est promis."
+    fd "Salut, Tracy. Je t'enverrai un message, c'est promis."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:235
 translate french branditroutsmell_26f48b18:
@@ -868,7 +868,7 @@ translate french branditroutsmell_9e5629cf:
 translate french branditroutsmell_231b76ec:
 
     # fd "I really did. I like her a lot actually. I do think we should hang out with her again sometime."
-    fd "Vraiment. Je l'aime beaucoup, en fait. Je pense qu'on devrait ressortir avec elle un de ces jours."
+    fd "Pareil. Je l'aime beaucoup, en fait. Je pense qu'on devrait ressortir avec elle un de ces jours."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:241
 translate french branditroutsmell_78c398d5:
@@ -928,13 +928,13 @@ translate french branditroutsmell_bc0445c5:
 translate french branditroutsmell_ca83b3c0:
 
     # fd "Yeah... I mean it's really nice to get to do something that you enjoy doing and still know that you're going to be okay financially."
-    fd "Ouais... Je veux dire, c'est vraiment sympa de pouvoir faire quelque chose qui te plaît tout en sachant que tu t'en sortiras financièrement."
+    fd "Ouais... Tu sais, c'est vraiment sympa de pouvoir faire quelque chose qui te plaît et de savoir que c'est bon financièrement."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:255
 translate french branditroutsmell_42ee6211:
 
     # pc "I bet. I'm really happy for you, Brandi."
-    pc "J'en suis sûre. Je suis vraiment contente pour toi, Brandi."
+    pc "Tu m'étonnes. Je suis vraiment content pour toi, Brandi."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:256
 translate french branditroutsmell_429a3b87:
@@ -946,7 +946,7 @@ translate french branditroutsmell_429a3b87:
 translate french branditroutsmell_80b50a00:
 
     # pc "That's awesome... but I'm just focusing on having a good time with you."
-    pc "C'est génial... mais pour l'instant, je me concentre juste sur le fait de passer un bon moment avec toi."
+    pc "C'est génial... mais pour l'instant, je me concentre juste sur le bon moment avec toi."
 
 # game/Scenes/Brandi/branditroutsmell.rpy:260
 translate french branditroutsmell_e75ed2e7:
