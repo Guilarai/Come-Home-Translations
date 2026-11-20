@@ -1,5 +1,5 @@
 ﻿# TODO: Translation updated at 2026-06-02 13:12
-(MEMO : ligne 1718)
+(MEMO : ligne 3484)
 
 translate french strings:
 
@@ -1713,11 +1713,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:583
     old "Brandi always finds a way to make me laugh lol =D"
-    new "Brandi trouve toujours le moyen de me faire rire mdr =D"
+    new "Brandi trouve toujours le moyen de me faire rire haha =D"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "Oh good, we're starting!"
-    new "Oh super, on commence !"
+    new "Oh super, ça commence !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "Where is the donate button?"
@@ -1725,7 +1725,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "OMFG she's so hot. Is her hair redder than normal today?"
-    new "OMFG, elle est trop sexy. Ses cheveux sont-ils plus roux que d'habitude aujourd'hui ?"
+    new "OMFG elle est trop sexy. C'est moi ou ses cheveux sont plus roux aujourd'hui ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "<3<3<3"
@@ -1737,11 +1737,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "WHy would you want to donate? Just because she's a girl, with tits? Fucking pathetic."
-    new "Pourquoi voudrais-tu faire un don ? Juste parce que c'est une fille, avec des seins ? Putain, c'est pathétique."
+    new "Pourquoi tu voudrais faire un don ? Juste parce que c'est une fille, avec des seins ? Putain, c'est pathétique."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "Hi Brandi. Have you played this new game called Come Home? I really like it! You can download and support at patreon.com/rjrhodeswrites"
-    new "Salut Brandi. Tu as joué à ce nouveau jeu qui s'appelle Come Home ? Je l'adore ! Tu peux le télécharger et le soutenir sur patreon.com/rjrhodeswrites"
+    new "Salut Brandi. Tu as joué à ce nouveau jeu qui s'appelle Come Home ? Je l'adore ! Vous pouvez le télécharger et le soutenir sur patreon.com/rjrhodeswrites"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "Good evening dear! Good to see you!"
@@ -1753,11 +1753,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "i like her boobies"
-    new "J'aime bien ses seins"
+    new "j'aime bien ses nénés"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "Okay, let's get to the pizza!"
-    new "Bon, passons à la pizza !"
+    new "Bon, on passe à la pizza ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "Hi Brandi! I hope you have a great date."
@@ -1765,43 +1765,43 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "brandi, y dont u let me bury my face in dem tits ill make you amzing"
-    new "Brandi, pourquoi tu me laisses pas enfouir mon visage dans tes seins, je te ferai un bien de fou"
+    new "brandi, laisses moi mettre ma tete ds t sein jte fais du bi1"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:605
     old "Oh good, BurgerBuddy is back! Damn he looks tasty. Forget the pizza...unless it involves a big sausage. ;)"
-    new "Oh super, BurgerBuddy est de retour ! Putain, il a l'air appétissant. Oublie la pizza... à moins qu'il y ait une grosse saucisse dedans. ;)"
+    new "Oh super, BurgerBuddy est de retour ! Hmm, il a l'air appétissant. Oublie la pizza... à moins qu'il y ait une grosse saucisse dedans. ;)"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:623
     old "Fuck this guy. srsly."
-    new "Va te faire foutre, ce mec. Sérieusement."
+    new "J'emmerde ce mec. srx."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:623
     old "fuck this whole channel"
-    new "Va te faire foutre, toute cette chaîne"
+    new j'emmerde cette chaine"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:623
     old "Pineapples are sweet and pair nicely with natural saltiness of pizza dough and the tanginess of tomato sauce. From a scientific viewpoint, pineapples definitely belong on pizza."
-    new "Les ananas sont sucrés et se marient bien avec le goût naturellement salé de la pâte à pizza et l'acidité de la sauce tomate. D'un point de vue scientifique, l'ananas a clairement sa place sur une pizza."
+    new "Les ananas sont doux et se marient bien avec le goût naturellement salé de la pâte à pizza et la sauce tomate. Assurément, d'un point de vue scientifique, l'ananas a sa place sur les pizzas."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:623
     old "fuck pineapples"
-    new "J'emmerde l'ananas."
+    new "j'emmerde les ananas"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:623
     old "And then there is that viewpoint as well, I suppose."
-    new "Et puis il y a aussi ce point de vue-là, je suppose."
+    new "Et puis il y a ce point de vue, j'imagine."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:623
     old "I like cooked pineapple. On pizza. On shish kebabs. In burgers. Battered and deep fried with fish and chips. It's all good ,)"
-    new "J'aime l'ananas cuit. Sur une pizza. Dans des brochettes. Dans des burgers. En beignets avec du fish and chips. Tout ça, c'est bon. )"
+    new "J'aime l'ananas cuit. Sur les pizzas. Les shish kebabs. Dans les burgers. Frits dans l'huile avec du fish and chips. Tout ça c'est bon ,)"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:623
     old "You can batter and deep fry me wibble. ;)"
-    new "Tu peux me faire des beignets et me frire, Wibble. ;)"
+    new "Tu peux me frire quand tu veux wibble. ;)"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:623
     old "Is that supposed to be sexy talk? Fuck that's creepy."
-    new "C'est censé être un propos sexy ? Putain, c'est flippant."
+    new "C'est censé être du flirt ? T'es flippante."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:623
     old "I do not like pineapple on pizza."
@@ -1809,7 +1809,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:623
     old "pineapple on pizza is trash! it should not be allowed! it's wrong!"
-    new "L'ananas sur la pizza, c'est de la merde ! Ça ne devrait pas être autorisé ! C'est une aberration !"
+    new "l'ananas sur la pizza c'est de la merde ! ça devrait pas être légal ! c'est une aberration !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:623
     old "I tried to put a pineapple in my butt once."
@@ -1821,23 +1821,23 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "Does anybody here like pineapple on pizza? Everybody thinks I'm weird because I like it."
-    new "Y a-t-il quelqu'un ici qui aime l'ananas sur la pizza ? Tout le monde pense que je suis bizarre parce que j'aime ça."
+    new "Il y a quelqu'un ici qui aime l'ananas sur la pizza ? Tout le monde me trouve bizarre parce que j'aime ça."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "That is literally what we've been talking about TraynHer."
-    new "C'est exactement de ça qu'on parlait, TraynHer."
+    new "C'est littéralement de ça qu'on parlait, TraynHer."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "this guy is dumb and his opinion is wrong."
-    new "Ce mec est stupide et son opinion est fausse."
+    new "ce mec est con et il a tort."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "ne girls want to suk my dik thru a pizza like that one porno?"
-    new "Y a des filles qui veulent me sucer la bite à travers une pizza, comme dans ce porno ?"
+    new "des meuf qui veule me sucer a travers 1 pizza comme ds le porno ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "Your tiny thing wouldn't even go through a thin crust bro."
-    new "Ton petit truc passerait même pas à travers une pâte fine, mec."
+    new "Ton petit machin passerait même pas à travers une pâte fine, mec."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "Its's okay. Neither would mine."
@@ -1845,15 +1845,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "I like pineapples on pizza. I don't understand this gatekeeping hate that it gets. Like why do you care what I east on my pizza?"
-    new "J'aime l'ananas sur la pizza. Je ne comprends pas cette haine snob qui s'en prend à ça. Pourquoi tu te soucies de ce que je mets sur ma pizza ?"
+    new "J'aime l'ananas sur la pizza. Je ne comprends pas cette espèce d'élitisme contre ça. Vous en avez quoi à faire de ce que je mets sur ma pizza ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "it's definitely not the weirdest stuff i've seen on pizza."
-    new "C'est certainement pas la chose la plus bizarre que j'ai vue sur une pizza."
+    new "C'est sûr que j'ai vu des choses plus bizarres sur une pizza."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "Oh fuck yes, keep talking about food."
-    new "Oh putain ouais, continue à parler de bouffe."
+    new "Oooh oui, continue à parler de bouffe."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "Why she dating this idiot? Pineapples are awful."
@@ -1861,7 +1861,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "pineapples on pizza are the reason why god has abandoned us. American pizza is trash anyway."
-    new "L'ananas sur la pizza, c'est la raison pour laquelle Dieu nous a abandonnés. La pizza américaine, c'est de la merde de toute façon."
+    new "c'est à cause de l'ananas sur la pizza que dieu nous a abandonnés. La pizza des US c'est de la merde de toute façon."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:641
     old "Why does anybody care what other people eat? Just eat what you like and let other people do the same."
@@ -1869,15 +1869,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:657
     old "i agree with this guy. brandi's opinion is wrong."
-    new "Je suis d'accord avec ce type. L'opinion de Brandi est fausse."
+    new "je suis d'accord avec lui. brandi a tort."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:657
     old "It's okay. Neither would mine."
-    new "C'est pas grave. La mienne non plus."
+    new "C'est pas grave. Le mien non plus."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:657
     old "Why she dating this idiot? Pineapples are delicious."
-    new "Pourquoi elle sort avec cet idiot ? L'ananas, c'est délicieux."
+    new "Pourquoi elle sort avec cet idiot ? C'est délicieux l'ananas."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "I think my favorite topping is pepperoni, but I like vegetables too. Especially black olives and mushrooms."
@@ -1885,15 +1885,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "Does she seriously only ever eat in this channel? Do you guys know that there are websites where girls actually show their whole tits and everything?"
-    new "Elle ne mange-t-elle sérieusement que sur cette chaîne ? Vous savez qu’il existe des sites web où les filles montrent vraiment leurs seins et tout le reste ?"
+    new "Elle fait vraiemnt que manger sur cette chaîne ? Vous savez qu’il y a des sites où les filles montrent vraiment leurs seins et tout le reste ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "id take u somewhere fancier than a pizza place brandi just answer my dms and we can go on a date"
-    new "Je t’emmènerais dans un endroit plus chic qu’une pizzeria, Brandi. Réponds juste à mes messages privés et on pourra sortir ensemble."
+    new "je t’emmenerai dans un endroi plu chic qune pizzeria brandi repond juste a mes mp et on poura sortir ensemble"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "I like sausage and onions on my pizza the best."
-    new "Ce que je préfère sur ma pizza, c’est la saucisse et les oignons."
+    new "Moi ce que je préfère, c’est saucisse-oignons."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "I don't even really like pizza, but I love sausage ;)"
@@ -1901,35 +1901,35 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "Ooh fuck yes, eat that pizza. It looks delicious. I love it when you chew."
-    new "Oh putain oui, mange cette pizza. Elle a l'air délicieuse. J'adore quand tu mâches."
+    new "Oh putain oui, mange cette pizza. Elle a l'air trop bonne. J'adore quand tu mâches."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "I haven't had a real pizza in a long time. I just eat the little single-serving frozen pizzas. because I dont' have anybody to share a full pizza with."
-    new "Je n'ai pas mangé de vraie pizza depuis longtemps. Je ne mange que ces petites pizzas surgelées en portion individuelle. Parce que je n'ai personne avec qui partager une pizza entière."
+    new "Ça fait longtemps que j'ai pas mangé de vraie pizza. Juste les petites pizzas surgelées en portion individuelle. Parce que je n'ai personne avec qui partager une pizza entière."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "instead of pizza u shld eat my dik girl"
-    new "Au lieu de la pizza, tu devrais manger ma bite, ma belle"
+    new "au lieu de pizza mange ma bite meuf"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "I hope the pizza is good Brandi. You and BurgerBuddy both look very cute."
-    new "J'espère que la pizza est bonne, Brandi. Toi et BurgerBuddy, vous avez l'air très mignons tous les deux."
+    new "J'espère que la pizza est bonne, Brandi. Toi et BurgerBuddy êtes très mignons tous les deux."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "I'll eat pretty much any toppings on a pizza, except for anchovies."
-    new "Je mange à peu près toutes les garnitures sur une pizza, sauf les anchois."
+    new "Je mange à peu près n'mporte quelle garniture, à part les anchois."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "That pizza Brandi is easting looks very good. Expertly crafted, I would say."
-    new "Cette pizza que Brandi est en train de manger a l'air très bonne. Réalisée de main de maître, je dirais."
+    new "La pizza que Brandi mange a l'air très bonne. Réalisée de main de maître, je dirais."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:689
     old "that's not even real pizza"
-    new "Ce n'est même pas une vraie pizza"
+    new "c'est même pas une vraie pizza"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "Awwwwwwwwwwww!!"
-    new "Awwwwwwwwwwww !!"
+    new "Hohooooooo !!"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "You two make a very good couple. I'm happy for you both."
@@ -1937,7 +1937,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "Aw! First kiss! So sweet."
-    new "Aw ! Premier baiser ! C'est trop mignon."
+    new "Ooh ! Le premier baiser ! C'est trop mignon."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "Congrats! ,)"
@@ -1949,19 +1949,19 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "id kiss u way better"
-    new "Je t'embrasserais bien mieux"
+    new "je tembrasserai bien mieu"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "happy for you!"
-    new "Je suis content pour vous !"
+    new "contente pour vous !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "you shuld try FRENCH kissin. it's way better."
-    new "Vous devriez essayer le baiser à la française. C'est bien mieux."
+    new "essayer de mettre la langue. c'est tres mieux."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "Although I feel like this romance has been scripted and played up a bit for us as an audience, I still enjoy it and am glad to see you two getting alond so well and making each other happy."
-    new "Même si j'ai l'impression que cette histoire d'amour a été scénarisée et un peu exagérée pour nous, le public, j'apprécie quand même et je suis content de voir que vous vous entendez si bien et que vous vous rendez heureux l'un l'autre."
+    new "Même si j'ai l'impression que cette histoire d'amour a été scriptée et un peu exagérée pour nous, le public, j'apprécie quand même et je suis content de voir que vous vous entendez si bien et que vous vous rendez mutuellement heureux."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "Is the pizza gone?"
@@ -1973,11 +1973,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "Now go down on him. That's what I would do."
-    new "Maintenant, descends sur lui. C'est ce que je ferais."
+    new "Maintenant va sur sa bite. C'est ce que je ferais."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "Aw, you two are aborable. Will donate to see more of you two dating like this for sure."
-    new "Oh, vous êtes adorables tous les deux. Je ferai un don pour être sûr de vous voir encore sortir ensemble comme ça."
+    new "Oh, vous êtes adorables tous les deux. Je veux bien faire un don pour vous revoir sortir ensemble."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:705
     old "smooth moves dude"
@@ -1989,7 +1989,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "Yeah, this dumbass is too stupid to pick up on that."
-    new "Ouais, cet abruti est trop bête pour s'en rendre compte."
+    new "Ouais, et cet abruti est trop con pour comprendre."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "I would kill to kiss her right now and he's just blowing it.."
@@ -1997,19 +1997,19 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "id kiss her evrywere esp puss"
-    new "Je l'embrasserais partout, surtout la chatte"
+    new "je l'embrasserai partou srt la chatte"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "Americans just don't pick up on the subtlety of romance."
-    new "Les Américains ne comprennent tout simplement pas les subtilités de la romance."
+    new "Les américains peuvent pas comprendre les subtilités de la romance."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "shed be begging me to kiss her more after getting some from me"
-    new "Elle me supplierait de l'embrasser encore plus après avoir eu un peu de moi"
+    new "elle me supplierait de l'embrasser encore si c'était moi"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "This is fucking awkward."
-    new "C'est vraiment gênant."
+    new "C'est super gênant."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "I feel bad for her. I hope he kisses her."
@@ -2025,31 +2025,31 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "This is why I don't like guys. They have no idea what woman want."
-    new "C'est pour ça que je n'aime pas les mecs. Ils n'ont aucune idée de ce que veulent les femmes."
+    new "Voilà pourquoi j'aime pas les mecs. Ils ont aucune idée de ce que veulent les femmes."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "All of you saying you would kiss her are dumbasses. You would chicken out and run away if she looked at you."
-    new "Tous ceux qui disent qu'ils l'embrasseraient sont des crétins. Vous prendriez la fuite si elle vous regardait."
+    new "Tous ceux qui disent qu'ils l'embrasseraient, vous êtes cons. En vrai vous fuiriez si elle vous regardait."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "i wldnt. id kiss her til she cums"
-    new "Pas moi. Je l'embrasserais jusqu'à ce qu'elle jouisse."
+    new "pas moi. je l'embrasserai jusqu'a qu'elle jouisse"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "Maybe he's not into her? Maybe he's into me? Maybe he wants to come kiss me? I'd like suck his dick like immediately."
-    new "Peut-être qu'elle ne lui plaît pas ? Peut-être qu'elle me plaît ? Peut-être qu'il veut venir m'embrasser ? J'aimerais bien lui sucer la bite tout de suite."
+    new "Peut-être qu'elle lui plait pas ? Peut-être que je lui plais ? Peut-être qu'il veut m'embrasser ? Ooh je voudrais le sucer là tout de suite."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "This guy is messing it all up. What a tool bag."
-    new "Ce mec est en train de tout gâcher. Quel crétin."
+    new "Ce mec est en train de tout gâcher. Sac à merde."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "Kiss her man."
-    new "Embrasse-la, mec."
+    new "Allez embrasse-la."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:724
     old "will raise my donation if they kiss"
-    new "J'augmenterai mon don s'ils s'embrassent."
+    new "j'augmente mon don s'ils s'embrassent"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "Oh, they're still going."
@@ -2057,11 +2057,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "this is starting to get akwward"
-    new "Ça commence à devenir gênant."
+    new "là ça devient gênant"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "Title of your sex tape!"
-    new "Titre de ta sex tape !"
+    new "Titre !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "If they're just going to kiss and not finish the pizza, I'm going to leave."
@@ -2073,7 +2073,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "Wow, she's really getting into it huh?"
-    new "Wow, elle se laisse vraiment emporter, hein ?"
+    new "Wow, elle y va à fond, hein ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "WHat is it like to kiss a girl?"
@@ -2081,7 +2081,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "It's really just pushing your slightly moist flesh against another person's slightly moist flesh. It doesn't really feel like much of anything from a nervous system perspective. It's the emotion behind it that makes it feel good."
-    new "En fait, c'est juste presser ta chair légèrement humide contre la chair légèrement humide d'une autre personne. Du point de vue du système nerveux, ça ne procure pas vraiment de sensations. C'est l'émotion qui se cache derrière qui fait que ça fait du bien."
+    new "En fait, c'est juste presser ta chair légèrement humide contre la chair légèrement humide d'une autre personne. En terme de système nerveux, ça ne procure pas vraiment de sensations. C'est l'émotion derrière qui fait que ça fait du bien."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "Kissing is one of the sexiest things you can do with another person, I think."
@@ -2089,23 +2089,23 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "True. Also buttsex."
-    new "C'est vrai. Et le sexe anal aussi."
+    new "C'est vrai. Le sexe anal aussi."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "I made out with my sister once"
-    new "J'ai déjà embrassé ma sœur une fois"
+    new "une fois j'ai embrassé ma sœur"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "oh ffs"
-    new "Oh putain"
+    new "non mais ptn"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "wut is sis phone number i will give her buttsex"
-    new "C'est quoi le numéro de ma sœur, je vais lui faire l'amour par derrière"
+    new "c koi le numero de ta soeur je lui fai du sexe anal"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:745
     old "This is fucking stupid. Are they just going to kiss all day? Take her home and bang her you cuck."
-    new "C'est complètement stupide. Ils vont juste s'embrasser toute la journée ? Ramène-la chez toi et baise-la, espèce de cocu."
+    new "C'est débile. Ils vont juste s'embrasser toute la journée ? Ramène-la chez toi et baise-la, espèce de cocu."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "bye"
@@ -2113,11 +2113,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "Bye Brandi. I'm sorry things didn't work out for you two."
-    new "Salut Brandi. Je suis désolé que ça n'ait pas marché entre vous deux."
+    new "Salut Brandi. Je suis désolé que ça n'ait pas marché entre vous."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "Yes! Dump this dumbfuck."
-    new "Oui ! Laisse tomber cet abruti."
+    new "Oui ! Largue le gros con."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "Wow, he really blew it."
@@ -2125,15 +2125,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "Are they going to break up now?"
-    new "Est-ce qu'ils vont rompre maintenant ?"
+    new "Est-ce qu'ils vont rompre ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "i will kiss u brandi call me"
-    new "Je t'embrasserai, Brandi, appelle-moi"
+    new "moi jtembrasse brandi tu mapel"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "LMAO she mad"
-    new "MDR, elle est furieuse"
+    new "LMAO elle est furax"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "Bye brandi!"
@@ -2141,15 +2141,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "This reminds me of a scene in that gmae I like called Come Home. You can download it at patreon.com/rjrhodeswrites"
-    new "Ça me rappelle une scène de ce jeu que j'aime bien, Come Home. Tu peux le télécharger sur patreon.com/rjrhodeswrites"
+    new "Ça me rappelle une scène de ce jeu que j'aime bien, Come Home. Vous pouvez le télécharger sur patreon.com/rjrhodeswrites"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "That was pathetic. Coming from me, that's saying something."
-    new "C'était pathétique. Venant de moi, ça veut dire quelque chose."
+    new "C'était pathétique. Et c'est moi qui dis ça."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "I'm so disappointed right now. I thought they really had something."
-    new "Je suis tellement déçu en ce moment. Je pensais qu'ils avaient vraiment quelque chose."
+    new "Je suis tellement déçue. Je pensais qu'ils avaient vraiment quelque chose."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "Bye Brandi! Keep your chin up. You'll find somebody better suited for you."
@@ -2161,7 +2161,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "Call me BurgerBuddy, seriously. I'll blow your fucking mind."
-    new "Appelle-moi BurgerBuddy, sérieusement. Je vais te faire perdre la tête."
+    new "Appelle-moi BurgerBuddy, vraiment. Je te ferai perdre la tête."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "Bye Brandi. Take care."
@@ -2169,31 +2169,31 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:765
     old "This stream sucked and you're all idiots for donating to her."
-    new "Ce stream était nul et vous êtes tous des idiots d'avoir fait un don pour elle."
+    new "Ce stream était nul et vous êtes tous des idiots de lui avoir fait un don."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:786
     old "now id take her home n fuck her crosseyed"
-    new "Maintenant, je la ramènerais chez moi et je la baiserais jusqu'à ce qu'elle louche"
+    new "la je la ramenerai chez moi et je la bez jusqu'a ce qu'elle louche"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:786
     old "That kiss looked amazing. You two look beautiful together."
-    new "Ce baiser avait l'air incroyable. Vous êtes magnifiques ensemble."
+    new "Ce baiser avait l'air incroyable. Vous êtes beaux ensemble."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:786
     old "I'm so hard right now."
-    new "Je bande tellement en ce moment."
+    new "Je bande si fort là."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:786
     old "That kiss looked so passionate. Both of you look like great kissers."
-    new "Ce baiser avait l'air tellement passionné. On dirait que vous embrassez tous les deux super bien."
+    new "Ce baiser avait l'air vraiment passionné. Apparemment vous embrassez tous les deux super bien."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:786
     old "Please, he looks like he kisses like a bag of wet socks."
-    new "Mais non, on dirait qu'il embrasse comme un sac de chaussettes mouillées."
+    new "Par pitié, sa façon d'embrasser, on dirait un sac de chaussettes mouillées."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:786
     old "Are they going to kiss more?"
-    new "Est-ce qu'ils vont s'embrasser encore ?"
+    new "Est-ce qu'ils vont encore s'embrasser ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:786
     old "At least something happened. Usually it's just her talking and eating."
@@ -2209,7 +2209,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:786
     old "id kiss u way better brandi. id kiss ur butthole"
-    new "Je t'embrasserais bien mieux, Brandi. Je t'embrasserais le trou du cul."
+    new "je t'embrasserai mieu brandi. je t'embrasserai le trou du q"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:786
     old "Great kiss Brandi. You two are so cute."
@@ -2221,7 +2221,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:786
     old "You two do look very asthetically pleasing together. Something about the red and blue. Primary colors. Almost like you belong together. I hope you two continue to develop this relationship as I think you're very good for each other."
-    new "Vous formez vraiment un beau couple. C'est quelque chose avec le rouge et le bleu. Les couleurs primaires. On dirait presque que vous êtes faits l'un pour l'autre. J'espère que vous continuerez à développer cette relation, car je pense que vous vous faites beaucoup de bien l'un à l'autre."
+    new "C'est vrai qu'esthétiquement vous allez bien ensemble. Il y a quelque chose avec le rouge et le bleu. Les couleurs primaires. Comme si vous étiez faits l'un pour l'autre. Je pense que vous êtes très bien l'un pour l'autre, et j'espère que vous continuerez à développer cette relation."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:805
     old "Any hint on what you'll be eating next time?"
@@ -2237,11 +2237,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:805
     old "Bye Brandi. Now I have to find something else to do until your next stream. Maybe I'll go outside. Probably not."
-    new "Au revoir Brandi. Maintenant, je dois trouver autre chose à faire jusqu'à ton prochain stream. Je vais peut-être sortir. Probablement pas."
+    new "Au revoir Brandi. Maintenant, je dois trouver autre chose à faire jusqu'à ton prochain stream. Peut-être que je vais sortir. Mais sans doute pas."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:805
     old "g'night brandi ,)"
-    new "Bonne nuit Brandi ,)"
+    new "bonne nuit Brandi ,)"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:805
     old "Good stream brandi. See you next time."
@@ -2249,7 +2249,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:805
     old "That's it? They aren't going to fuck? This sucks."
-    new "C'est tout ? Ils ne vont pas baiser ? Ça craint."
+    new "C'est tout ? Ils vont pas baiser ? C'est nul."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:805
     old "Is it over?"
@@ -2257,19 +2257,19 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:805
     old "next time bring me and ill make u feel rly good brandi"
-    new "La prochaine fois, amène-moi et je te ferai vraiment du bien Brandi"
+    new "la prochaine foi tu minvite et jte ferai vrmt du bien brandi"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:805
     old "Bye Brandi. Maybe next time you wont leave him with blue balls. if you need some help with that BurgerBuddy, give me a call ;P"
-    new "Au revoir Brandi. Peut-être que la prochaine fois, tu ne le laisseras pas avec les couilles pleines. Si tu as besoin d'aide pour ça, BurgerBuddy, appelle-moi ;P"
+    new "Au revoir Brandi. Peut-être que tu le laisseras pas les couilles pleines la prochaine fois. Si tu as besoin d'aide pour ça, BurgerBuddy, appelle-moi ;P"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "Hi Brandi! I've been looking forward to this all day."
-    new "Salut Brandi ! J'attendais ça avec impatience toute la journée."
+    new "Salut Brandi ! J'ai attendu ça toute la journée."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "lmao she's dating this nerd?"
-    new "Mdr, elle sort avec ce nerd ?"
+    new "lol elle sort avec ce pauvre type ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "Hi Brandi ,)"
@@ -2277,47 +2277,47 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "is this the best ice cream they have in the US? pitiful. i feel sorry for you."
-    new "C'est la meilleure glace qu'ils ont aux États-Unis ? C'est pitoyable. Je suis désolé pour toi."
+    new "c'est ça les meilleures glaces des US ? pathétique. dsl pour toi."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "she gripping that cone tiiiiiight"
-    new "Elle serre ce cornet trèèèès fort"
+    new "comment elle serre le cornet..."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "Hi BurgerBuddy! and Brandi too, I guess."
-    new "Salut BurgerBuddy ! Et Brandi aussi, j’imagine."
+    new "Salut BurgerBuddy ! Et puis bah Brandi aussi."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "Hello Brandi! Good to see you."
-    new "Salut Brandi ! Content de te voir."
+    new "Salut Brandi ! Contente de te voir."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "I could definitely go for some butter pecan ice cream right now."
-    new "J’aurais bien envie d’une glace au beurre de noix de pécan en ce moment."
+    new "Oh j’ai bien envie d’une glace au beurre et aux noix de pécan là."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "Personally, I prefer gelato. It's silkier, softer texture has a better mouth feel and I like that it's served ata slightly warmer temperature than most ice cream."
-    new "Personnellement, je préfère la glace italienne. Elle est plus onctueuse, sa texture plus douce offre un meilleur plaisir en bouche et j’aime qu’elle soit servie à une température légèrement plus chaude que la plupart des glaces."
+    new "Personnellement, je préfère la glace italienne. Sa texture plus onctueuse et plus douce offre un meilleur plaisir en bouche et j’aime qu’elle soit servie légèrement moins froid que la plupart des glaces."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "I think you're talking about cum lol."
-    new "Je crois que tu parles de sperme lol."
+    new "Là tu parles de sperme lol."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "ice cream sucks and will make you fat!"
-    new "La glace, c'est nul et ça fait grossir !"
+    new "la glace c'est nul et ça fait grossir !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "her tits already fat. i'll cover them with cream."
-    new "Ses seins sont déjà gros. Je vais les recouvrir de crème."
+    new "ses seins sont déjà gros. je met ma creme dessus."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "No banana this time. I guess  it's just the ice cream tonight. Disappointed."
-    new "Pas de banane cette fois-ci. Je suppose que ce sera juste de la glace ce soir. Déçu."
+    new "Pas de banane aujourd'hui. Donc ce sera juste de la glace ce soir. Dommage."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:826
     old "she feet plz"
-    new "Ses pieds s'il te plaît"
+    new "mate t pied stp"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:846
     old "Hi Brandi! That ice cream looks good!"
@@ -2341,15 +2341,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:846
     old "i got my first blowie while eating a churro, so ever time i eat a churro, i get a half-chub"
-    new "J'ai eu ma première pipe en mangeant un churro, donc chaque fois que je mange un churro, j'ai une demi-érection"
+    new "j'ai eu ma première pipe en mangeant un churro, donc chaque fois que je mange un churro, j'ai une demi-dure"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:846
     old "When I have burger now, in lil back part of brain is this fucking game Mythos, made by NineofSwords."
-    new "Quand je mange un hamburger maintenant, au fond de mon cerveau, il y a ce putain de jeu, Mythos, créé par NineofSwords."
+    new "Maintenant, quand je mange un burger, à chaque fois dans ma tête il y a ce foutu jeu, Mythos, par NineofSwords."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:846
     old "I associate turkey and dressing with Thanksgivings at my grandmother's house. Is that what you're talking about?"
-    new "J'associe la dinde et la farce à Thanksgiving chez ma grand-mère. C'est de ça que tu parles ?"
+    new "J'associe la dinde et la farce à Noël chez ma grand-mère. C'est de ça que vous parlez ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:846
     old "I associate beer with this one time that I was drinking beer."
@@ -2361,7 +2361,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:846
     old "Every time I cum, my mouth tastes like strawberries. That's normal right?"
-    new "Chaque fois que je jouis, j'ai un goût de fraise dans la bouche. C'est normal, non ?"
+    new "Chaque fois que je jouis, j'ai un goût de fraise dans la bouche. C'est normal ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "That is not normal. You should talk to a doctor."
@@ -2369,59 +2369,59 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "Wow, he's tongue-tied today."
-    new "Wow, il a la langue bien pendue aujourd'hui."
+    new "Wow, il a perdu sa langue aujourd'hui."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "What the fuck is this asshole even trying to say?"
-    new "Mais qu'est-ce que ce connard essaie de dire, bordel ?"
+    new "Mais il essaye de dire quoi ce dégénéré ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "id make his moms puss sound like mac&cheese, know whut i mean?"
-    new "Je ferais sonner la chatte de sa mère comme du macaroni au fromage, tu vois ce que je veux dire ?"
+    new "je fais faire à la chatte à sa mère le bruit du gratin de pâtes, si vous voyez ce que je veux dire"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "He just seems nervous. I guess it is kind of a hard question to answer on the spot like that."
-    new "Il a juste l'air nerveux. Je suppose que c'est une question un peu difficile à répondre comme ça, à brûle-pourpoint."
+    new "Il doit juste être surpris. Je suppose c'est un peu difficile de répondre comme ça à chaud."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "If he's stammering like this around her, I bet I could make him speak in tongues."
-    new "S'il bégaye comme ça devant elle, je parie que je pourrais le faire parler en langues."
+    new "S'il bégaye comme ça devant elle, je parie que je peux le faire parler en klingon."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "spaghetti makes me think of Justin Bieber."
-    new "Les spaghettis me font penser à Justin Bieber."
+    new "les spaghettis me font penser à Justin Bieber."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "I think everybody has food that makes them remember when they were a child, right?"
-    new "Je pense que tout le monde a des aliments qui lui rappellent son enfance, non ?"
+    new "Je pense que tout le monde a des plats qui lui rappellent son enfance, non ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "there was a time at university I was in to liquorice for a few years, so everytime I have liquorice now I remember my study sessions at home."
-    new "À l'université, j'ai été accro à la réglisse pendant quelques années, alors maintenant, chaque fois que j'en mange, je me souviens de mes sessions d'étude à la maison."
+    new "à l'université, j'ai été accro à la réglisse pendant quelques années, alors maintenant, chaque fois que j'en mange, je me souviens de mes révisions à la maison."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "what is her hand doing under the table?"
-    new "Qu'est-ce que sa main fait sous la table ?"
+    new "sa main fait quoi sous la table ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "I just wish he'd shut up and eat the damn ice cream. It's going to melt."
-    new "J'aimerais juste qu'il se taise et qu'il mange cette fichue glace. Elle va fondre."
+    new "J'aimerais juste qu'il se taise et qu'il bouffe cette fichue glace. Elle va fondre."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:861
     old "I wish he'd shut up and eat me!"
-    new "J'aimerais qu'il se taise et qu'il me mange !"
+    new "J'aimerais qu'il se taise et qu'il me bouffe !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "I would eat her, that's for sure."
-    new "Je la mangerais, ça c'est sûr."
+    new "Je la boufferais, ça c'est sûr."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "id eat that booty like its cake"
-    new "Je mangerais ce cul comme s'il s'agissait d'un gâteau"
+    new "je lui boufferais le cul comme du gateau"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "hey there to you too TroutSmell, Camiron, and SmoothCobra"
-    new "Salut à vous aussi, TroutSmell, Camiron et SmoothCobra"
+    new "bonjour à vous aussi, TroutSmell, Camiron et SmoothCobra"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "Wait, is she jerking him off under the table?"
@@ -2441,7 +2441,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "she's jerking him 4 sure"
-    new "Elle le branle, c’est sûr."
+    new "elle le branle c sur"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "Oh my! *blush*"
@@ -2449,11 +2449,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "she should use her mouth"
-    new "Elle devrait utiliser sa bouche."
+    new "elle devrait utiliser sa bouche"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "You are all idiots. She's just faking it for the views."
-    new "Vous êtes tous des idiots. Elle fait juste semblant pour les vues."
+    new "Vous êtes tous cons. Elle fait juste semblant pour les vues."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "Wow. So sexy."
@@ -2461,11 +2461,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "you gotta hand it to her."
-    new "Il faut lui reconnaître ça."
+    new "elle a pas perdu la main."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "Show below the table. I want to see his tiny peepee"
-    new "Montre ce qu'il y a sous la table. Je veux voir son petit zizi."
+    new "Montre sous la table. Je veux voir son petit zizi"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "She's just looking him straight in the eyes while she does it."
@@ -2473,7 +2473,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:878
     old "I guess we know why he can't talk now lol."
-    new "Je crois qu'on sait pourquoi il ne peut plus parler maintenant lol."
+    new "Je crois qu'on sait pourquoi il arrive pas à parler lol."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "This man really likes tacos."
@@ -2481,15 +2481,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "She just broke his brain lol"
-    new "Elle vient de lui faire perdre la tête lol"
+    new "Elle vient d'éteindre son cerveau lol"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "that face lmao"
-    new "Cette tête lol"
+    new "cette tête lol"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "Oh no I'm late. I guess they're getting along pretty well though =O"
-    new "Oh non, je suis en retard. Mais je crois qu'ils s'entendent plutôt bien =O"
+    new "Oh non, je suis en retard. Mais on dirait que ça se passe plutôt bien =O"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "Oh fuck that's hot. I want to see him make this face every night."
@@ -2497,43 +2497,43 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "one of my top 3 favorite streams now"
-    new "C'est l'un de mes 3 streams préférés maintenant"
+    new "top 3 de mes streams préférés"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "Is that his O-face LOL? Wow!"
-    new "C'est sa tête d'orgasme LOL ? Ouah !"
+    new "Et là c'est sa têe quand il jouit ? Ouah !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "When you orgasm, you release all the tension of your facial muscles. This is what happens when you're trying to have a normal conversation while ejaculating."
-    new "Quand tu jouis, tu relâches toute la tension de tes muscles faciaux. Voilà ce qui arrive quand tu essaies d'avoir une conversation normale tout en éjaculant."
+    new "Quand on jouit, on relâche toute la tension dans les muscles faciaux. Voilà ce qui arrive quand on essaie d'avoir une conversation normale tout en éjaculant."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "yo who gonna clean up the cum tho?"
-    new "Yo, mais qui va nettoyer le sperme alors ?"
+    new "ki c ki nettoie le foutre ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "Oh lord, i've cleaned up so much stuff off the floors, you don't even want to know."
-    new "Oh mon Dieu, j'ai nettoyé tellement de trucs par terre, tu ne veux même pas savoir."
+    new "Oh seigneur, j'ai nettoyé toutes sortes de choses par terre, tu ne veux pas savoir."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "You are tipping for this?"
-    new "Tu lui donnes un pourboire pour ça ?"
+    new "Tu fais un don pour ça ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "absolutely. she deserves it."
-    new "Absolument. Elle le mérite."
+    new "absolument. elle le mérite."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:901
     old "Wow he looks really fucking stupid.a"
-    new "Wow, il a l'air vraiment trop stupide."
+    new "Wow il a l'air vraiment archi débile."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:921
     old "yeh bb lick dat cream"
-    new "Ouais bébé, lèche cette crème"
+    new "ouais bb leche la creme"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:921
     old "Whatever is on her hand is not ice cream, even by US standards."
-    new "Quoi qu'il y ait sur sa main, ce n'est pas de la glace, même selon les normes américaines."
+    new "Quoi qu'il y ait sur sa main, ce n'est pas de la glace, même dans les normes des US."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:921
     old "Is that cum?"
@@ -2541,11 +2541,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:921
     old "She'd need three hands to eat my load."
-    new "Il lui faudrait trois mains pour manger ma dose."
+    new "Il lui faudrait trois mains pour lécher ma dose."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:921
     old "I'm pretty sure that's not ice cream since his ice cream is green."
-    new "Je suis presque sûr que ce n'est pas de la glace, vu que sa glace est verte."
+    new "Je suis à peu près sûr que ce n'est pas de la glace, vu que sa glace est verte."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:921
     old "I just like seeing her lick things."
@@ -2557,19 +2557,19 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:921
     old "you wish you were covered in that guy's cum? lmao"
-    new "Tu aimerais être recouvert du sperme de ce mec ? Mdr"
+    new "tu aimerais être recouvert du sperme de ce mec ? lol"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:921
     old "if that's what it takes to get Brandi to lick me."
-    new "Si c'est ce qu'il faut pour que Brandi me lèche."
+    new "s'il faut en passer par là pour que Brandi me lèche."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:921
     old "cum's better if you suck it right out of the dick."
-    new "Le sperme est meilleur si tu le suces directement sur la bite."
+    new "le sperme est meilleur si tu le suces directement sur la bite."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:921
     old "what a slut."
-    new "Quelle salope."
+    new "quelle pute."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:921
     old "She's adorable."
@@ -2577,15 +2577,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "great stream Brandi."
-    new "Super stream, Brandi."
+    new "super stream Brandi."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "Stream suck. you should jerk me off just for watching it."
-    new "Ce stream est nul. Tu devrais me branler juste pour l'avoir regardé."
+    new "C'était nul. Je mériterais une branlette juste pour l'avoir regardé."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "thanks for the stream Brandi! ,sharkwave emoji,"
-    new "Merci pour le stream, Brandi ! , emoji vague de requin,"
+    new "merci pour le stream Brandi ! ,emoji sharkwave,"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "Bye beautiful Brandi!"
@@ -2593,15 +2593,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "next time, come to Paris and get some real ice cream"
-    new "La prochaine fois, viens à Paris et mange de la vraie glace."
+    new "la prochaine fois, viens à Paris et mange de la vraie glace"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "Do you like vegetables Brandi? Because I love you from my head tomatoes."
-    new "Tu aimes les légumes, Brandi ? Parce que je t'aime de tout mon cœur."
+    new "Tu aimes les légumes, Brandi ? Parce que tu es belle de la tête aux pieds nambour."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "Are you seriously not going to finish your ice cream? I'm done with this channel! BYE!"
-    new "Tu vas vraiment ne pas finir ta glace ? J'en ai marre de cette chaîne ! SALUT !"
+    new "Tu vas vraiment pas finir ta glace ? J'en ai marre de cette chaîne ! SALUT !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "Show your tits!"
@@ -2617,31 +2617,31 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "I wish these streams were longer and happened more often. I want to be with you all the time."
-    new "J'aimerais que ces streams soient plus longs et plus fréquents. Je veux être avec toi tout le temps."
+    new "J'aimerais que ces streams soient plus longs et arrivent plus souvent. Je veux être avec toi tout le temps."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "Bye dears! I hope you have a wonderful night."
-    new "Au revoir les chéris ! J'espère que vous passerez une merveilleuse soirée."
+    new "Au revoir mes chéris ! J'espère que vous passerez une merveilleuse soirée."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "I hope you get crabs."
-    new "J'espère que tu attraperas des morpions."
+    new "J'espère que tu choperas des morpions."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:943
     old "Hey, that's not a joking matter."
-    new "Hé, ce n'est pas un sujet de plaisanterie."
+    new "Hé, on plaisante pas avec ça."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:969
     old "this fucking guy again?"
-    new "Encore ce putain de mec ?"
+    new "ptn encore lui ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:969
     old "the state of this kitchen makes me sad. Americans have such low standards for quality cooking.."
-    new "L'état de cette cuisine me rend triste. Les Américains ont des critères tellement bas en matière de cuisine de qualité..."
+    new "l'état de cette cuisine me rend triste. les américains ont des standards tellement bas..."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:969
     old "Good to see you Brandi. I am looking forward to seeing how you cook this."
-    new "Ravie de te voir Brandi. J'ai hâte de voir comment tu vas cuisiner ça."
+    new "Ravi de te voir Brandi. J'ai hâte de voir comment tu vas cuisiner ça."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:969
     old "yo"
@@ -2653,11 +2653,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:969
     old "HI Brandi! You both look adorable today."
-    new "Salut Brandi ! Vous êtes toutes les deux adorables aujourd’hui."
+    new "Bonjour Brandi ! Vous êtes tous les deux adorables aujourd’hui."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:969
     old "these two are going to be touching faces all night."
-    new "Ces deux-là vont se coller le nez toute la soirée."
+    new "ces deux-là vont se coller le nez toute la soirée."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:969
     old "They'll be touching something anyway."
@@ -2681,7 +2681,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:969
     old "Oh boy, I barely made it. I was in the middle of a game of Come Home by RJ Rhodes, which you can find at her Patreon, or now on Steam!."
-    new "Oh là là, j’ai failli ne pas arriver. J’étais en plein milieu d’une partie de Come Home de RJ Rhodes, que tu peux trouver sur son Patreon, ou maintenant sur Steam !"
+    new "Oh là là, j’ai failli ne pas arriver. J’étais en plein milieu d’une partie de Come Home par RJ Rhodes, qu'on peut trouver sur son Patreon, ou sur Steam !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:969
     old "Hey Brandi! Looking cute. ,)"
@@ -2701,7 +2701,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "i'd eat her butthole like fried chicken"
-    new "Je lui boufferais le trou du cul comme du poulet frit"
+    new "je lui bouffe le trou du cul comme du poulet frit"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "uh...um..."
@@ -2709,11 +2709,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "hey brandi, let me cum over. I no how to wrk the brests."
-    new "hé Brandi, laisse-moi venir. Je sais comment m'y prendre avec les seins."
+    new "brandi invite moi chez toi pr te travaillé les blancs"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "They're making fried chicken breasts TraynHer - they just said that."
-    new "Ils font des blancs de poulet frits TraynHer – ils viennent de le dire."
+    new "Ils préparent des blancs de poulet frits TraynHer, ils viennent de le dire."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "That sounds delicious."
@@ -2725,19 +2725,19 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "She needs to dump him. What a fucking loser, seriously."
-    new "Elle devrait le larguer. Quel putain de loser, sérieusement."
+    new "Elle devrait le larguer. C'est un gros loser, serieux."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "A loser, like somebody who watches poeple eat shit on the internet?"
-    new "Un loser, comme quelqu'un qui regarde des gens manger de la merde sur Internet ?"
+    new "Un loser, comme quelqu'un qui regarde des gens bouffer de la merde sur Internet ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "It's no different than sports. Just watching somebody do something that they're good at."
-    new "C'est pas différent du sport. C'est juste regarder quelqu'un faire quelque chose dans lequel il est doué."
+    new "C'est comme regarder du sport. On regarde quelqu'un faire ce pour quoi elle est douée."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "I can't jerk off to basketball. I tried, but the squeaky shoes are a huge distraction."
-    new "Je peux pas me branler devant du basket. J’ai essayé, mais le grincement des chaussures me déconcentre trop."
+    new "Je peux pas me branler sur du basket. J’ai essayé, mais les chaussures qui grincent, ça le fait pas."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "This is one of my favorite meals. I used to cook it for my husband all the time."
@@ -2749,47 +2749,47 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "It sounds great to me."
-    new "Ça me semble génial."
+    new "Moi ça me dit bien."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:991
     old "She's not going to show her feet, guy. There's other streamers for that."
-    new "Elle va pas montrer ses pieds, mec. Y’a d’autres streamers pour ça."
+    new "Elle ne va pas te montrer ses pieds. Il y a d’autres streameuses pour ça."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "Her feet are probably gross. She probably has little stubby, crusty toes."
-    new "Ses pieds sont sûrement dégueulasses. Elle a sûrement des petits orteils tout courts et pleins de croûtes."
+    new "Je suis sûre qu'elle a des pieds crades. Genre tout courts et pleins de croûtes."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "People would definitely pay money to see that."
-    new "Les gens paieraient sans aucun doute pour voir ça."
+    new "Il y a des gens qui paieraient pour voir ça."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "Why would people want to pay money to see feet? Everyone has feet.."
-    new "Pourquoi les gens voudraient-ils payer pour voir des pieds ? Tout le monde a des pieds..."
+    new "Pourquoi des gens voudraient payer pour voir des pieds ? Tout le monde a des pieds..."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "Wow, so fucking ableist. Amputees exist, bitch."
-    new "Wow, c'est vraiment du handicapisme. Les amputés existent, salope."
+    new "Ah ouais, le validisme... T'oublies les amputés, pétasse."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "Oh, I didn't even thing! I'm sorry!"
-    new "Oh, j'y avais même pas pensé ! Je suis désolée !"
+    new "Oh, j'y avais même pas pensé ! Désolée !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "feet are gross"
-    new "Les pieds, c'est dégoûtant"
+    new "les pieds c'est dégueu"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "That meat does not look like it was pounded properly. It is going to end up dry and chewy."
-    new "Cette viande a pas l'air d'avoir été bien attendrie. Elle va finir par être sèche et caoutchouteuse."
+    new "Cette viande a pas l'air d'avoir été bien attendrie. Elle va finir sèche et caoutchouteuse."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "I bet it'll end up being really good! Brandi knows what she's doing."
-    new "Je parie que ça va être vraiment bon ! Brandi sait ce qu'elle fait."
+    new "Je suis sûr que ça va être super bon ! Brandi sait ce qu'elle fait."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "BurgerBuddy should come pound my meat."
-    new "BurgerBuddy devrait venir battre ma viande."
+    new "BurgerBuddy devrait venir me battre la viande."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "It's been a long time since I've pounded meat."
@@ -2797,7 +2797,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "ill pound ur meet 4 u bb"
-    new "Je vais battre ta viande pour toi, bb"
+    new "je bat ta viande pr toi bb"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "Oh, thank you but I already had a TV dinner. I don't cook much anymore."
@@ -2805,11 +2805,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "I'm pounding my meat right now."
-    new "Je suis en train d'aplatir ma viande en ce moment même."
+    new "Je me bats la viande en ce moment même."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "Oh, she's a cooking channel now? I thought she just ate on cam?"
-    new "Oh, elle a une chaîne de cuisine maintenant ? Je croyais qu'elle ne faisait que manger devant la caméra ?"
+    new "Oh, c'est une chaîne de cuisine maintenant ? Je croyais c'était juste de la dégustation ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1012
     old "Seriously! This is bullshit! I subbed to watch eating, not cooking!"
@@ -2821,11 +2821,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1032
     old "I like when she does the cooking streams liek this. It's fun."
-    new "J'aime bien quand elle fait des streams de cuisine comme ça. C'est sympa."
+    new "J'aime bien quand elle fait des streams de cuisine. C'est sympa."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1032
     old "I agree. It's fun to see how badly people mess up simple concepts."
-    new "Je suis d'accord. C'est marrant de voir à quel point les gens se plantent sur des concepts simples."
+    new "Je suis d'accord. C'est marrant de voir comme les gens se plantent sur des concepts simples."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1032
     old "She's gorgeous AND she can cook? Did this woman come directly out of my dreams?"
@@ -2841,7 +2841,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1032
     old "Yes, but you have to admit, for raw chicken, that looks very good. Like it was meticulously sculpted by a master."
-    new "Oui, mais tu dois admettre que pour du poulet cru, ça a l'air très bon. On dirait qu'il a été méticuleusement sculpté par un maître."
+    new "Oui, mais il faut reconnaître que pour du poulet cru, ça a l'air très bon. On dirait qu'il a été méticuleusement sculpté par un maître."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1032
     old "I agree. That is a nice looking raw chicken breast."
@@ -2849,7 +2849,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1032
     old "Wow, breading it like that really does keep the counter a little cleaner."
-    new "Wow, le paner comme ça permet vraiment de garder le plan de travail un peu plus propre."
+    new "Oh, le paner comme ça, ça garde le plan de travail un peu plus propre."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1032
     old "I like Brandi's shirt today."
@@ -2857,7 +2857,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1032
     old "She looks liek the fucking Hamburglar."
-    new "On dirait le putain de Hamburglar."
+    new "Tu parles, on dirait qu'elle sort du bagne."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1032
     old "Is she going to cook the chicken before she eats it? =O"
@@ -2865,7 +2865,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1032
     old "if she likes chicken i got a cock she can eat"
-    new "Si elle aime le poulet, j'ai une bite qu'elle peut manger"
+    new "elle me panure la teub qd elle veut"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1032
     old "I wonder what the rest of her apartment looks like. We only ever see the kitchen."
@@ -2877,15 +2877,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "That does not look like a proper knife for peeling potatoes. You should probably use and actual vegetable peeler, or at the very least a paring knife."
-    new "Ça ne ressemble pas à un vrai couteau pour éplucher des patates. Tu devrais probablement utiliser un vrai épluche-légumes, ou au moins un couteau d’office."
+    new "Ça ne ressemble pas à un vrai couteau pour éplucher des patates. Tu devrais utiliser un économe, ou au moins un couteau d'office."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "i want to suck on them titties"
-    new "J’ai envie de sucer ces nichons"
+    new "je veu sucer ces nichons"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "I hate peeling potatoes. My arthritis is so bad now that it's hard to do."
-    new "Je déteste éplucher les patates. Mon arthrite est tellement grave maintenant que c’est dur à faire."
+    new "Je déteste éplucher les patates. C'est très pénible avec mon arthrite."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "My mom always makes me peel the potatoes when hse cooks.."
@@ -2893,15 +2893,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "I peeled your moms potato last night.."
-    new "J’ai épluché les patates de ta mère hier soir…"
+    new "J’ai épluché la patate de ta mère hier soir…"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "They really work well together in the kitchen, don't they?"
-    new "Ils forment vraiment un bon duo en cuisine, n'est-ce pas ?"
+    new "Ils forment vraiment un bon duo en cuisine, non ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "I'd work better with him in the bedroom."
-    new "Je m'en sortirais mieux avec lui dans la chambre."
+    new "Je ferais un meilleur duo avec lui dans la chambre."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "All this build-up is torture. I just want to see her eat."
@@ -2909,23 +2909,23 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "Oh no! I fell asleep and missed the beginning! I'm so mad at myself. I'm just going to have to stop sleeping on days where Brandi streams. I can't believe I've done this."
-    new "Oh non ! Je me suis endormi et j'ai raté le début ! Je m'en veux tellement. Je vais devoir arrêter de dormir les jours où Brandi diffuse en direct. Je n'arrive pas à croire que j'ai fait ça."
+    new "Oh non ! Je me suis endormi et j'ai raté le début ! Je m'en veux. Je vais devoir arrêter de dormir les jours où Brandi streame. J'en reviens pas que j'ai fait ça."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "They just got started, Wasted. There's still a lot left of the show."
-    new "Ils viennent juste de commencer, Wasted. Il reste encore beaucoup de l'émission."
+    new "Ils viennent juste de commencer, Wasted. C'est que le début du stream."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "I think I'd rather be asleep."
-    new "Je crois que je préfère dormir."
+    new "Moi je préférerais dormir."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "i thin she shuld sleep wit me."
-    new "Je pense qu'elle devrait dormir avec moi."
+    new "elle devrai dormir avc moi."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "Her boob is pushed right up against him."
-    new "Sa poitrine est collée contre lui."
+    new "Sa poitrine est contre son bras."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1051
     old "Must be heaven."
@@ -2937,11 +2937,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "Where's she going? She's going to leave us here with this dumb looking fuck?"
-    new "Où est-elle partie ? Elle va nous laisser ici avec ce connard à l'air débile ?"
+    new "Où elle va ? Elle va nous laisser ici avec cette tête de con ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "I think he looks nice. Look at those muscles."
-    new "Je trouve qu’il a l’air sympa. Regarde ces muscles."
+    new "Je le trouve bien moi. Regarde ces muscles."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "I don't have any muscles. I had to ask my neighbor to open a pickle jar for me once. He's 70."
@@ -2949,23 +2949,23 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "That's fucking hilarious. What a loser."
-    new "C’est trop drôle. Quel loser."
+    new "Celle-là c'est la meilleure. Oh le loser."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "I hate when I misplace the pans in my kitchen. I can't ever find anything."
-    new "Je déteste quand je range mal les casseroles dans ma cuisine. Je trouve jamais rien."
+    new "Ça m'énerve quand je range mal les casseroles dans ma cuisine. Je retrouve jamais rien."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "She's going to be back soon though, right?"
-    new "Mais elle va bientôt revenir, non ?"
+    new "Mais elle va revenir bientôt, non ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "I miss her already ,("
-    new "Elle me manque déjà, ("
+    new "Elle me manque déjà ,("
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "I'm losing wood here, big time."
-    new "Je suis en train de me dégonfler, et pas qu'un peu."
+    new "Je perds ma gaule là, et pas qu'un peu."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "Where did she go?"
@@ -2973,39 +2973,39 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "Maybe she went to go play Come Home by RJ Rhodes, now available on Steam and Android OS."
-    new "Peut-être qu'elle est allée jouer à Come Home de RJ Rhodes, désormais disponible sur Steam et Android OS."
+    new "Peut-être qu'elle est allée jouer à Come Home par RJ Rhodes, désormais disponible sur Steam et Android OS."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "cum home hehe"
-    new "Viens à la maison, hé hé"
+    new "tu veux voir mon harico"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "I am disappointed in the lack of red hair on my screen right now."
-    new "Je suis déçu de ne pas voir de cheveux roux sur mon écran en ce moment."
+    new "L'absence de cheveux roux sur mon écran me désole."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "I was disappointed in your mom last night."
-    new "J'étais déçu par ta mère hier soir."
+    new "J'étais désolé dans ta mère hier soir."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "This stream has completely gone to shit."
-    new "Ce stream est complètement parti en vrille."
+    new "Ce stream est totalement parti en couilles."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1070
     old "I'd never leave this man alone."
-    new "Je ne laisserais jamais cet homme tout seul."
+    new "Jamais je laisserais cet homme tout seul."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "Yo, is she under the counter?"
-    new "Yo, elle est sous le comptoir ?"
+    new "Hé, elle est sous le comptoir ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "This guy isn't even talking, get him the fuck off here."
-    new "Ce type ne dit même pas un mot, foutez-le dehors."
+    new "Ce type dit même pas un mot, foutez-le dehors."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "What is that wet, smacking noise?"
-    new "C'est quoi ce bruit humide et claquant ?"
+    new "C'est quoi ce bruit moite ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "She just went to get a pan."
@@ -3013,7 +3013,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "don't know about you guys, but I keep my pans in the kitchen."
-    new "Je sais pas pour vous, mais moi, je garde mes poêles dans la cuisine."
+    new "alors je sais pas vous, mais moi, je garde mes poêles dans la cuisine."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "She's back! Yay!"
@@ -3021,23 +3021,23 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "He literally just crawled out from under the counter."
-    new "Il vient littéralement de ramper hors de sous le comptoir."
+    new "Elle vient littéralement de sortir hors de sous le comptoir."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "how funny, the pan was over there the whole time."
-    new "C'est marrant, la poêle était là-bas depuis le début."
+    new "C'est amusant, la poêle était là-bas depuis le début."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "She wasn't under the counter. Why would she be under the counter?"
-    new "Elle n'était pas sous le comptoir. Pourquoi serait-elle sous le comptoir ?"
+    new "Elle était pas sous le comptoir. Pourquoi serait-elle sous le comptoir ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "I can think of a couple reasons."
-    new "Je vois bien quelques raisons."
+    new "J'ai quelques raisons en tête."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "SHE WAS SUCKING HIS DICK!"
-    new "ELLE LUI SUCAIT LA BITE !"
+    new "ELLE ÉTAIT EN TRAIN DE LE SUCER !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "She wouldn't do that."
@@ -3045,15 +3045,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "u think she don't suck dik?"
-    new "Tu crois qu'elle ne suce pas de bites ?"
+    new "tu crois kel suce pa ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "She wouldn't do it on camera."
-    new "Elle ne le ferait pas devant la caméra."
+    new "Pas devant la caméra."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "That might actually make her show worth watching."
-    new "Ça rendrait peut-être son émission digne d'être regardée."
+    new "Peut-être que ça rendrait enfin son émission valable."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "That's ridiculous. He's not hiding anything."
@@ -3061,7 +3061,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1091
     old "Yes, it's true. This man has no dick."
-    new "Oui, c'est vrai. Cet homme n'a pas de bite."
+    new "C'est vrai. Vu qu'il a pas de bite."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "She's so pretty!"
@@ -3073,7 +3073,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "I think you can see that guy's junk in the reflection on that pan."
-    new "Je crois qu'on voit les couilles de ce type dans le reflet de cette casserole."
+    new "Je crois qu'on voit son machin dans le reflet de la casserole."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "You're being dumb. I don't see anything."
@@ -3081,11 +3081,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "ENHANCE!"
-    new "AGRAISSE L'IMAGE !"
+    new "MONTEZ LA RÉSOLUTION !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "You're just seeing what you want to see.!"
-    new "Tu ne vois que ce que tu veux voir !"
+    new "Vous voyez ce que vous voulez voir !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "Is she still cooking?"
@@ -3093,23 +3093,23 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "she should come cook me dinner naked and suck my dick while i eat it"
-    new "Elle devrait venir me préparer le dîner toute nue et me sucer la bite pendant que je mange."
+    new "je veux kel me prepar a manger et kel me suce pdt que j mange"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "You can't even see what she's doing in the pan over there. She should set up more cameras, like a real show."
-    new "On voit même pas ce qu’elle fait dans la poêle là-bas. Elle devrait installer plus de caméras, comme dans une vraie émission."
+    new "On voit même pas ce qu’elle fait dans la poêle. Elle devrait installer plus de caméras, comme dans une vraie émission."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "your moms a hoe"
-    new "Ta mère est une salope."
+    new "ta mere est une pute"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "Cooking takes too long. That's why I pay other people to do it. What's the point in cooking at home? I just want to eat."
-    new "Cuisiner, ça prend trop de temps. C’est pour ça que je paie d’autres personnes pour le faire. À quoi ça sert de cuisiner à la maison ? Je veux juste manger."
+    new "Cuisiner, ça prend trop de temps. C’est pour ça que je paie d’autres personnes pour le faire. À quoi ça sert de cuisiner soi-même ? Je veux juste manger."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "When you cook at home, it's usually much fresher, cheaper, and you know exactly what's in it."
-    new "Quand on cuisine à la maison, c'est généralement beaucoup plus frais, moins cher, et on sait exactement ce qu'il y a dedans."
+    new "Quand on cuisine soi-même, c'est généralement beaucoup plus frais, moins cher, et on sait exactement ce qu'il y a dedans."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "Exactly. You never know what's in the stuff you eat from restaurants, or how clean the kitchen is."
@@ -3117,7 +3117,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "I put spoons in my butt sometimes."
-    new "Je mets parfois des cuillères dans mon cul."
+    new "Parfois je me mets des cuillères dans le cul."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old ",O"
@@ -3125,11 +3125,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1113
     old "Don't eat at his house."
-    new "Ne mange pas chez lui."
+    new "Mangez pas chez lui."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "I swear every time I look at the screen, Brandi is not here ,("
-    new "Je te jure, chaque fois que je regarde l'écran, Brandi n'est pas là ,("
+    new "Je vous jure, chaque fois que je regarde l'écran, Brandi est pas là ,("
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "Where did they go?"
@@ -3137,7 +3137,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "food should not be left unmonitored like this. it could go from golden brown to unedible black very quickly."
-    new "On ne devrait pas laisser la nourriture sans surveillance comme ça. Elle pourrait passer très vite d’un brun doré à un noir immangeable."
+    new "il faut pas laisser la nourriture sans surveillance comme ça. elle peut très vite passer du brun grillé au noir immangeable."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "Oh it'll be okay for a while. She's just over setting the table."
@@ -3149,59 +3149,59 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "you okay? dm me if you need somebody to talk to."
-    new "Ça va ? Envoie-moi un message si tu as besoin de parler à quelqu’un."
+    new "ça va ? envoie-moi un mp si tu as besoin de parler à quelqu’un."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "Thanks scoot, I might."
-    new "Merci Scoot, j’en aurai peut-être besoin."
+    new "Merci scoot, je pourrais te prendre au mot."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "Now we're watching an empty kitchen. What a great show."
-    new "Maintenant, on regarde une cuisine vide. Quelle super émission."
+    new "Et maintenant on regarde une cuisine vide. Super émission."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "I swear you can see them in the reflection on that pan."
-    new "Je te jure qu’on les voit dans le reflet de cette poêle."
+    new "Je vous jure qu’on les voit dans le reflet."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "I don't see anything there."
-    new "Je ne vois rien là-dedans."
+    new "Pour moi y a rien là."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "Sad, but true ,("
-    new "Triste, mais vrai, ("
+    new "Triste, mais vrai ,("
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "Why do bad things happen to good people?"
-    new "Pourquoi est-ce que de mauvaises choses arrivent aux gens bien ?"
+    new "Pourquoi les mauvaises choses arrivent aux gens bien ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "I feel like I hear that wet noise again."
-    new "J’ai l’impression d’entendre à nouveau ce bruit humide."
+    new "J’ai l’impression que j'entends encore le bruit moite."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "It's probably just the oil popping in the frying pan."
-    new "C’est probablement juste l’huile qui crépite dans la poêle."
+    new "Ça doit être l’huile qui crépite dans la poêle."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "sounds like sex noises"
-    new "On dirait des bruits de sexe"
+    new "on dirait des bruits de sexe"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "My pussy sounds like when you stir a bown of mac and cheese."
-    new "Ma chatte fait le même bruit que quand on remue un bol de macaroni au fromage."
+    new "Ma chatte fait le même bruit que quand on remue un gratin de pâtes."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1134
     old "Kraft or Velveeta?"
-    new "Kraft ou Velveeta ?"
+    new "plutôt quelle marque, les pâtes ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "welcome back Brandi!"
-    new "Bon retour, Brandi !"
+    new "rebonjour Brandi !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "Is it time to eat yet? This is so fucking boring."
-    new "C'est déjà l'heure de manger ? C'est trop chiant."
+    new "Ça y est, ils mangent ? Je me fais tellement chier."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "Cooking takes a little while."
@@ -3209,15 +3209,15 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "She's barely showing us anything though. Hald the time, she's doing something off-screen."
-    new "Mais elle ne nous montre presque rien. La moitié du temps, elle fait quelque chose hors champ."
+    new "Mais elle ne nous montre presque rien. La moitié du temps, elle fait un truc hors champ."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "She's sucking that guys dick."
-    new "Elle suce la bite de ce mec."
+    new "Elle suce le mec, oui."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "is anybody watching the Philly game right now? I love the 76ers. they are the best team."
-    new "Quelqu'un regarde le match de Philadelphie en ce moment ? J'adore les 76ers. C'est la meilleure équipe."
+    new "y a quelqu'un qui regarde le match de Philadelphie ? j'adore les 76ers. c'est la meilleure équipe."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "Basketball sucks."
@@ -3225,23 +3225,23 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "If she wants to blow BurgerBuddy, she can. They're dating each other after all."
-    new "Si elle veut sucer BurgerBuddy, elle peut le faire. Ils sortent ensemble, après tout."
+    new "Si elle veut sucer BurgerBuddy, elle peut. Ils sortent ensemble, après tout."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "But she wouldn't do it on cam. That would get her kicked off of Kitch."
-    new "Mais elle ne le ferait pas devant la caméra. Ça lui ferait se faire virer de Kitch."
+    new "Mais pas devant la caméra. Ça la ferait virer de Kitch."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "That's true. She'd be kicked almost immeidately and lose any revenue made from the stream. It would be very harmful to her financially. I'm sure she wouldn't put that at risk."
-    new "C'est vrai. Elle se ferait virer presque immédiatement et perdrait tous les revenus générés par le stream. Ça lui ferait très mal financièrement. Je suis sûr qu'elle ne prendrait pas ce risque."
+    new "C'est vrai. Elle se ferait bannir presque immédiatement et perdrait tous les revenus générés par le stream. Ça serait une déconvenue financière. Je suis sûr qu'elle ne prendrait pas ce risque."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "I would hope not for an ugly guy like that."
-    new "J'espère bien que non, pour un mec aussi moche que ça."
+    new "J'espère bien, pour un mec aussi moche."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "You are all awful sometimes. They're just cooking a nice meal together."
-    new "Vous êtes tous horribles parfois. Ils sont juste en train de préparer un bon repas ensemble."
+    new "Vous êtes horribles parfois. Ils sont juste en train de préparer un bon repas ensemble."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "Yeah baby, stay on screen a little longer. I'm almost there."
@@ -3249,7 +3249,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "Wait, she's not really giving him a blowjob is she?"
-    new "Attends, elle ne lui est pas vraiment en train de faire une pipe, si ?"
+    new "Attendez, elle est pas vraiment en train de lui faire une pipe, si ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1156
     old "Of course not."
@@ -3265,23 +3265,23 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1176
     old "And she's gone again. This sucks."
-    new "Et elle est encore partie. Ça craint."
+    new "Et elle est encore partie. Fait chier."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1176
     old "She'll be back. SHe can't just stay in one spot the whole time, guys."
-    new "Elle va revenir. Elle ne peut pas rester au même endroit tout le temps, les gars."
+    new "Elle va revenir. Elle ne peut pas rester au même endroit tout le temps, les gens."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1176
     old "She keeps edging me today."
-    new "Elle n'arrête pas de me faire monter le désir aujourd'hui."
+    new "Elle arrête pas de me frustrer aujourd'hui."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1176
     old "I swear if you look in the reflection on that pot you can see her. She's down on her knees, bobbing her head on that guy's cock."
-    new "Je te jure que si tu regardes le reflet sur cette casserole, tu peux la voir. Elle est à genoux, en train de bouger la tête sur la bite de ce mec."
+    new "Je vous jure que si on regarde le reflet dans la casserole on la voit. Elle est à genoux, en train de bouger la tête sur sa bite."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1176
     old "Oh my God, she is not. You are so weird."
-    new "Oh mon Dieu, c'est pas vrai. T'es trop bizarre."
+    new "Mais bordel, arrête. T'es trop bizarre."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1176
     old "You can't see anything in the pot."
@@ -3289,7 +3289,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1176
     old "she cum suk me next, ok/?"
-    new "C'est à moi qu'elle va me sucer après, OK ?"
+    new "elle me suse apres, ok ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1176
     old "I'd pay money if he came all over her face."
@@ -3301,11 +3301,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1176
     old "I do hear that wet noise again. It actually does kind of sound like blowjob noises."
-    new "J'entends encore ce bruit humide. En fait, ça ressemble un peu à des bruits de fellation."
+    new "J'entends encore le bruit moite. En fait on dirait le bruit d'une pipe."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1176
     old "Like you've ever gotten a blowjob."
-    new "Comme si tu avais déjà eu une fellation."
+    new "Comme si tu avais déjà eu une pipe."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1176
     old "I've seen them on the internet."
@@ -3313,39 +3313,39 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "Is she even going to eat on this stream?"
-    new "Est-ce qu'elle va vraiment manger pendant ce live ?"
+    new "Elle va manger un jour sur ce stream ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "oh i think she's eating something"
-    new "Oh, je crois qu'elle mange quelque chose"
+    new "oh elle mange quelque chose là"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "Is that her hair on the camera?"
-    new "C'est ses cheveux qu'on voit à l'image ?"
+    new "C'est ses cheveux qu'on voit ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "I told you guys she was sucking his dick!"
-    new "Je vous avais dit qu'elle lui suçait la bite !"
+    new "Je vous avais dit qu'elle le suçait !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "What a lucky bastard. Why do the hot girls go after ugly motherfuckers like that?"
-    new "Quel veinard. Pourquoi les filles sexy s'intéressent-elles à des enfoirés moches comme ça ?"
+    new "Quel veinard. Pourquoi les filles sexy s'intéressent qu'aux enfoirés moches ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "We don't know that's what she's doing. Maybe she's just dancing?"
-    new "On ne sait pas si c'est ce qu'elle fait. Peut-être qu'elle danse juste ?"
+    new "On ne sait pas si c'est ce qu'elle fait. Peut-être qu'elle est en train de danser ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "yeah, she's doing the tongue dance on his cock."
-    new "Ouais, elle fait la danse de la langue sur sa bite."
+    new "ouais, elle fait la danse de la langue sur sa bite."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "Brandi, you're on camera right now, girl!"
-    new "Brandi, tu es à l'écran en ce moment, ma belle !"
+    new "Brandi, on te voit à la caméra !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "She can't hear you, dumbass."
-    new "Elle ne peut pas t'entendre, crétin."
+    new "Elle t'entend pas, crétin."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "Oh wow. Yeah, I think they like each other lol"
@@ -3357,31 +3357,31 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "the kitchen is not the place for this type of thing. it's very unsanitary."
-    new "La cuisine n'est pas l'endroit idéal pour ce genre de choses. C'est très insalubre."
+    new "la cuisine n'est pas l'endroit idéal pour ce genre de choses. c'est très peu hygiénique."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "I'm sure that's not really what's happening. It's just your disgusting minds."
-    new "Je suis sûr que ce n'est pas vraiment ce qui se passe. C'est juste vos esprits dégoûtants."
+    new "Je suis sûr que ce n'est pas vraiment ce qui se passe. C'est juste vos esprits tordus."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "That's her hair moving back and forth, dumbass. What else could it be? That slut is on her knees, gobbling cock."
-    new "C'est ses cheveux qui bougent d'avant en arrière, crétin. Qu'est-ce que ça pourrait être d'autre ? Cette salope est à genoux, en train de sucer une bite."
+    new "On voit ses cheveux bouger d'avant en arrière, débile. Qu'est-ce que ça pourrait être d'autre ? Cette pute est à genoux, en train de sucer une bite."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "It definitely looks that way."
-    new "Ça y ressemble vraiment."
+    new "En tout cas, ça y ressemble beaucoup."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "This feels awkward. Like we shouldn't be seeing this."
-    new "C'est gênant. On a l'impression qu'on ne devrait pas voir ça."
+    new "C'est embarrassant. On ne devrait pas voir ça."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "tipped $50"
-    new "J'ai laissé 50 $ de pourboire"
+    new "<i>à donné 50$</i>"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1198
     old "tipped $10"
-    new "J'ai laissé 10 $ de pourboire"
+    new "<i>à donné 10$</i>"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1222
     old "I didn't even see them make the gravy."
@@ -3389,11 +3389,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1222
     old "I don't think they've made the gravy yet."
-    new "Je ne pense pas qu'ils aient encore fait la sauce."
+    new "Je ne crois pas qu'ils aient déjà préparé la sauce."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1222
     old "Oh, he made the gravy all right! Haha! I bet it tasts so good."
-    new "Oh, il a bien fait la sauce ! Haha ! Je parie que c'est trop bon."
+    new "Oh tkt il a balancé la sauce ! Haha ! Je parie que c'est trop bon."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1222
     old "lol, i don't think so"
@@ -3413,23 +3413,23 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1222
     old "That's CUUUUUUUMMMM!!"
-    new "C'est du SPERME !!"
+    new "C'est du SPEEEEEEERME !!"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1222
     old "WHy are you people tipping this whore? Get a real job."
-    new "Pourquoi vous donnez des pourboires à cette pute ? Trouvez-vous un vrai boulot."
+    new "Pourquoi vous faites des dons à cette pute ? Trouvez-vous un vrai boulot."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1222
     old "She just made like $500 in the last 30 minutes. How much did you make today at your real job, asshole?"
-    new "Elle vient de se faire genre 500 $ en 30 minutes. T'as gagné combien aujourd'hui à ton vrai boulot, connard ?"
+    new "Elle vient de se faire 500$ en 30 minutes. T'as gagné combien aujourd'hui à ton vrai boulot, connard ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1222
     old "If I could make money by doing what she does, I'd definitely do it! People would probably pay me to turn my camera off though lol"
-    new "Si je pouvais gagner de l'argent en faisant ce qu'elle fait, je le ferais sans hésiter ! Mais les gens me paieraient sûrement pour que j'éteigne ma caméra lol"
+    new "Si je pouvais gagner de l'argent en faisant ce qu'elle fait, je le ferais sans hésiter ! Mais les gens me paieraient plutôt pour que j'éteigne ma caméra lol"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1245
     old "ACH! You can't just jump out in front of the camera like that, guy! I'm going to throw up."
-    new "ARGH ! Tu peux pas te jeter comme ça devant la caméra, mec ! Je vais vomir."
+    new "ARGH ! Te jette comme ça devant la caméra, mec ! Je vais vomir."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1245
     old "."
@@ -3437,11 +3437,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1245
     old "Did you know that if you are kissing your girl while butt ficking, you are actually using her body as a straw to suck your own dick?"
-    new "Tu savais que si tu embrasses ta copine pendant que tu la prends par le cul, tu utilises en fait son corps comme une paille pour te sucer la bite ?"
+    new "Vous saviez que si vous embrassez votre copine pendant que vous la prenez par le cul, en fait vous l'utilisez comme paille pour vous auto-sucer ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1245
     old "This is dumbest chat room I've ever seen."
-    new "C'est le salon de discussion le plus débile que j'ai jamais vu."
+    new "C'est le chat le plus débile que j'ai jamais vu."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1245
     old "Bye, Brandi. Great stream."
@@ -3449,7 +3449,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1245
     old "Aw man, leaving so soon? Now what am I going to do for the rest of the day?"
-    new "Oh non, tu pars déjà ? Qu'est-ce que je vais faire maintenant pour le reste de la journée ?"
+    new "Oh non, tu pars déjà ? Je vais faire quoi pour le reste de la journée maintenant ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1245
     old "Bye Brandi! I hope your stream doesn't get shut down."
@@ -3465,7 +3465,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1245
     old "Is the show over?"
-    new "Le show est fini ?"
+    new "Le stream est fini ?"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1245
     old "Call me, BurgerBuddy. I'll let you cum wherever you want."
@@ -3473,11 +3473,11 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1245
     old "bye Brandi! <3"
-    new "Au revoir Brandi ! <3"
+    new "au revoir Brandi ! <3"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1245
     old "Love you, Brandi! Enjoy dinner!"
-    new "Je t'aime, Brandi ! Bon dîner !"
+    new "Bisous, Brandi ! Bon dîner !"
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:1270
     old "Oh good, Brandi's back. I was starting to get a little sad."
@@ -7229,7 +7229,7 @@ translate french strings:
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:2537
     old "lol his ice cream fell off."
-    new "Mdr, sa glace est tombée."
+    new "lol sa glace est tombée."
 
     # game/Scenes/Brandi/BrandiChat/brandichatlogs.rpy:2537
     old "I'm a slut. If the dick is good, I'll fuck just about anybody."
