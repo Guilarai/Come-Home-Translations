@@ -310,7 +310,7 @@ translate french brandi10_280a4ccd:
 translate french brandi10_20da8ec3:
 
     # fd "So usually, first thing I do is wrap the chicken in plastic wrap and then smash it out into an even thickness."
-    fd "En général, la première chose que je fais, c'est d'envelopper le poulet dans du film alimentaire, puis de bien étaler avec les mains pour obtenir une épaisseur uniforme."
+    fd "En général, la première chose que je fais, c'est d'envelopper le poulet dans du film alimentaire, puis bien le battre avec les mains pour obtenir une épaisseur uniforme."
 
 # game/Scenes/Brandi/brandi10.rpy:109
 translate french brandi10_a14c3ef7:
@@ -328,7 +328,7 @@ translate french brandi10_7cdec2bb:
 translate french brandi10_8e4ba83d:
 
     # fd "Really? Dang, well next time, I'll wait and let you pound the meat for me."
-    fd "Vraiment ? Alors la prochaine fois, j'attendrai et je te laisserai m'étaler la viande."
+    fd "Vraiment ? Alors la prochaine fois, j'attendrai et je te laisserai me battre la viande."
 
 # game/Scenes/Brandi/brandi10.rpy:112
 translate french brandi10_54cbc8c2:
